@@ -23,7 +23,7 @@ SQL->: UPDATE `db_account`.`t_account` SET `gd` = 999999 WHERE `accountid` = 3 (
     <td>1</td>
     <td>message.csv</td>
     <td>Tên hiển thị của NPC</td>
-    <td>local\vn\language</td>
+    <td>local\vn\language\message.csv</td>
     <td>Chưa biết cột remark dùng làm gì</td>
   </tr>
 </table>
