@@ -1,0 +1,4 @@
+,物品id,物品名字,野外怪物,副本怪物,副本boss,副本大boss,银英BOSS,世界BOSS,最低掉落等级,最高掉落等级,野外boss,野外大boss
+ID,item_id,item_name,t1,t4,t5,t6,t7,t8,minlev,maxlev,t2,t3
+1,1015,"Instant Full Healing Potion",0,0.00008,0.00008,0.00008,0.00001,0.00001,1,99,0,0
+2,3921,"Freedom Quartz",0,0.00008,0.00008,0.00008,0.00001,0.00001,1,99,0,0

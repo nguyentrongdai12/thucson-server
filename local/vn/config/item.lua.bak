@@ -1,0 +1,89 @@
+include("script/game_script_base.lua")
+
+ItemMaxSmithingLevel                = 20;			        								-- 道具最大打造等级
+
+ItemSmithing_FailCounter_Enable     = true;                 					-- 是否开启记录道具的打造失败次数
+ItemSmithing_FailCounter_Add        = { 0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1 }   			-- 额外成功率(失败次数 * x%)
+ItemSmithing_FailCounter_MaxAdd     = 90                    					-- 额外成功率最大不超过x%
+ItemSmithing_TrumpEffect         		= "eff_wlev10";                   					-- 主法宝达到最高等级时的特效
+ItemSmithing_TrumpLink           		= "root";                   					-- 主法宝达到最高等级时的特效Link点
+ItemSmithing_ArmorEffect         		= "eff_alev10";               -- 防具达到最高等级时的特效
+ItemSmithing_ArmorLink           		= "root";                   			-- 防具达到最高等级时的特效Link点
+ItemSmithing_PlusAttrib_Trump       = { 0,0,0,0,0,0,251,252,253,254,255,256,257,258,259,260,261,262,263,264 } -- 道具到达特定锻造等级后每级附加一条特殊属性
+ItemSmithing_PlusAttrib_Armor       = { 0,0,0,0,0,0,265,266,267,268,269,270,271,272,273,274,275,276,277,278 } -- 道具到达特定锻造等级后每级附加一条特殊属性
+ItemSmithing_FailCounter_Clear 			= { 0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1 } 				-- 打造成功后额外成功率是否清除掉
+ItemSmithing_AddFailCounter 			= { 0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1 }   --打造失败增加的失败次数
+
+CanSeeOtherEquipment                = true;
+
+ItemEffectSmithingLevel							= 20;	        -- 道具达到该等级时增加的特效
+ItemRiderEffect                     = "eff_ridelev10"   				-- 座骑达到一定等级时的特效
+ItemRiderEffectLink                 = "root"      -- 座骑达到一定等级时的特效link点
+
+
+-- 系统初始化
+function ItemInit()
+    -- 初始化语言 
+    LOAD_LAN("MSG_SMITHING_SUCCESS")
+    LOAD_LAN("MSG_SMITHING_FAIL")
+    LOAD_LAN("msg_script_smithing_fail1")
+end
+
+
+-- 锻造成功
+function OnSmithingSuccess(user, item, origSmithingLevel, smithingLevel)
+    ReceiveMsg(user, LAN("MSG_SMITHING_SUCCESS"), CHANNEL_SYS);
+end
+
+
+-- 锻造失败
+function OnSmithingFail(user, item, origSmithingLevel, smithingLevel, costGold, failedNum)
+    ReceiveMsg(user, LAN("MSG_SMITHING_FAIL"), CHANNEL_SYS);
+    
+    --if (origSmithingLevel >= 0 and origSmithingLevel < 3) then
+    --    ReceiveMsg(user, LAN("MSG_SMITHING_FAIL"), CHANNEL_SYS);
+    --elseif (origSmithingLevel >= 3 and origSmithingLevel < 6) then
+    --    ReceiveMsg(user, LAN("msg_script_smithing_fail1"), CHANNEL_SYS);
+    --elseif (origSmithingLevel >= 6 and origSmithingLevel < 12) then
+    --    ReceiveMsg(user, LAN("msg_script_smithing_fail1"), CHANNEL_SYS);
+    --end
+
+    --if(costGold >= 600000) then
+				--CreateItemAndMail(user, 3990, "white", "binded", 0, 0, 0, 0);
+    --elseif (costGold >= 300000) then
+				--CreateItemAndMail(user, 3989, "white", "binded", 0, 0, 0, 0);
+    --elseif (costGold >= 50000) then
+				
+				--local str = LAN("msg_script_smith_gift"); -- "由于锻造失败,铁匠赋予您灵感。"
+        			--ReceiveMsg(user, L("msg_script_smith_gift"), CHANNEL_SYS);
+        			--Addmoney (user,100000,0);
+    --end 
+    
+    if(origSmithingLevel == 19) then
+    	AddMoney (user,1000000,1);
+    --elseif(origSmithingLevel == 8) then
+    --		CreateItemAndMail(user, 5730, "white", "binded", 0, 0, 0, 0);
+    --elseif(origSmithingLevel == 9) then
+    --		CreateItemAndMail(user, 5731, "white", "binded", 0, 0, 0, 0);
+    --elseif(origSmithingLevel == 10) then
+    --		CreateItemAndMail(user, 5731, "white", "binded", 0, 0, 0, 0);
+    --elseif(origSmithingLevel == 11) then
+    --		CreateItemAndMail(user, 5731, "white", "binded", 0, 0, 0, 0);
+    end
+end
+
+function CanItemEnchant(nItemType, nGemItemIndex)
+
+    if nGemItemIndex == 4468 then
+    	if nItemType < 3 or nItemType > 8 then
+	  return 0
+        end
+        return 1
+    end
+
+    if nItemType < 1 or nItemType > 8 then
+        return 0
+    end
+  
+    return 1
+end

@@ -1,0 +1,15 @@
+编号,是否全ID,类型码,名字,道具编码,道具类型,说明
+Idx,IsFullCode,TypeCode,Name,ItemCode,ItemType,Desc
+1,0,AAA,$L:ip_start$,1,11113,$L:ip_common_desc$
+2,0,AAB,$L:ip_fcard$,2,11113,$L:ip_common_desc$
+3,0,AAC,$L:ip_pet$,3,11113,$L:ip_common_desc$
+4,0,AAD,$L:ip_horse1$,13:25|14:25|15:25|16:25,11113,$L:ip_common_desc$
+5,0,AAE,$L:ip_horse2$,5,11113,$L:ip_common_desc$
+6,0,AAF,$L:ip_horse3$,6,11113,$L:ip_common_desc$
+7,0,AAG,$L:ip_horse4$,7,11113,$L:ip_common_desc$
+8,0,AAH,$L:ip_love$,8,11114,$L:ip_common_desc$
+9,0,AAJ,$L:ip_blueitem$,9,11113,$L:ip_common_desc$
+10,0,AAL,$L:ip_back$,10,11113,$L:ip_common_desc$
+11,0,AAM,$L:ip_new$,11,11113,$L:ip_common_desc$
+12,0,AAN,$L:ip_seven$,12,11113,$L:ip_common_desc$
+13,0,AAO,$L:ip_box$,17,11113,$L:ip_common_desc$

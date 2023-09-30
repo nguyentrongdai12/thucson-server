@@ -1,0 +1,1165 @@
+ID,Name,Desc,TalentDesc
+,Tên,"Thuyªt minh","Miêu tä nång lñc"
+2,"Thu th§p","Thu th§p",
+3,"M· cØa","M· cØa",
+4,"B¡t thú nuôi","B¡t thú nuôi",
+11,"Hái dßþc","Thu th§p dßþc li®u",
+12,"Ðào khoáng","Thu th§p tinh thÕch",
+13,"Khai qu§t","Thu th§p v§t ph¦m quý ",
+14,"Luy®n ðan","Tinh luy®n chª tÕo dßþc ðan",
+15,"Chª phù ","TÕo bùa chú",
+16,"Thu§t tÕo r¯i","Chª tÕo r¯i",
+17,"Luy®n khí ","Tinh luy®n ðÕo cø c¤p cao",
+18,"Phân giäi","Phân giäi ðÕo cø c¤p cao",
+20,"Quái Ð° Thü Kích","Quái v§t ð° thü công kích",
+24,"Chª tÕo ma thÕch","Chª tao ma thÕch giúp tång thuµc tính cüa ðÕo cø phòng v® và pháp bäo",
+52,"Nga My Phi Luân Kích","Ðòn t¤n công b¢ng Phi Luân cüa Nga My",
+53,"Nga My Phi Kiªm Kích","Ðòn t¤n công b¢ng Phi Kiªm cüa Nga My",
+54,"Ph§t Môn Thi«n Trßþng Kích","Ðòn t¤n công b¢ng Thi«n Trßþng cüa Ph§t Môn",
+55,"Ph§t Môn Th¥n Côn Kích","Ðòn t¤n công b¢ng Côn cüa Ph§t Môn",
+56,"Bách Hoa Phi Luân Kích","Ðòn t¤n công b¢ng Phi Luân cüa Bách Hoa",
+57,"Bách Hoa Phi Kiªm Kích","Ðòn t¤n công b¢ng Phi Kiªm cüa Bách Hoa",
+58,"Thanh Thành Liên Ðao Kích","Ðòn t¤n công b¢ng Ðao Xích cüa Thanh Thành",
+59,"Thanh Thành Ðoän Ðao Kích","Ðòn t¤n công b¢ng Dao Gåm cüa Thanh Thành",
+60,"Tiên C¥m Cung Kích","Ðòn t¤n công b¢ng Cung cüa Tiên C¥m",
+61,"Tiên C¥m Nö Kích","Ðòn t¤n công b¢ng Nö cüa Tiên C¥m",
+101,"ThØ-Ð¸nh thân","Ha ha, thØ mµt chút, vung tay múa rìu th§t nhanh, gi¯ng nhß äo änh chuy¬n ðµng, kÛ nång liên tøc.",
+102,"ThØ-Vô ð¸ch","Tiêu di®t kë thù th§t anh dûng",
+103,"ThØ-†n thân","KÛ nång th§t c× ",
+104,"ThØ-Ði«u Tuyªt","Blizzard is Coming! ",
+105,"ThØ-Tång huyªt khí ","Phøc h°i huyªt khí cho mình ho£c ð°ng ðµi",
+106,"ThØ-Giäi tr× ð¸nh thân",,
+107,"ThØ-Tñ h°i sinh",,
+108,"ThØ-H°i sinh",,
+109,"ThØ-D¸ch chuy¬n tÑc th¶i",,
+110,"ThØ-Công kích ch¾p nhoáng",,
+111,,,
+112,"ThØ-npcH² trþ ",,
+113,"ThØ-npcTñ hüy",,
+114,"ThØ-M· rß½ng châu báu",,
+115,"ThØ-Toàn th¬ giäm t¯c",,
+116,"ThØ-Vung thÕch",,
+117,"ThØ-H¤p thu thù h§n oán khí ","Blizzard is Coming! ",
+118,"ThØ-Ði«u tiªt thù h§n ","Tång huyªt khí cho mình ho£c ð°ng ðµi",
+119,"ThØ-EffTham s¯ ","Ha ha, thØ mµt chút, vung tay múa rìu th§t nhanh, gi¯ng nhß äo änh chuy¬n ðµng, kÛ nång liên tøc.",
+120,"ThØ-Tri®u h°i tùy tùng ","Ha ha, thØ mµt chút, vung tay múa rìu th§t nhanh, gi¯ng nhß äo änh chuy¬n ðµng, kÛ nång liên tøc.",
+121,"ThØ-Chuy¬n hóa thành tùy tùng","Ha ha, thØ mµt chút, vung tay múa rìu th§t nhanh, gi¯ng nhß äo änh chuy¬n ðµng, kÛ nång liên tøc.",
+130,"Xích Di­m Träm","Kích thích lu°ng höa khí mãnh li®t cüa bän thân, ð¯t cháy tà linh xung quanh c½ th¬. TÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m. KÛ nång t¤n công theo phÕm vi.","Chiêu thÑc tÑc thì "
+131,"ThØ-Tång cß¶ng khí huyªt",,"Tång cß¶ng khí huyªt $200*SkillLevel$"
+132,"ThØ-Xung phong",,
+201,"Tø Höa Dçn","H¤p thø nguyên t¯ höa trong tr¶i ð¤t và ngßng tø trên Phi Kiªm ð¬ t¤n công møc tiêu , tÕo ra ði¬m sát thß½ng ð¯i v¾i møc tiêu là $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m.",
+202,"Ly Höa Phá ","Phi Kiªm phóng lên t× m£t ð¤t ðâm xuyên thân th¬ møc tiêu , gây ra $DmgMin(ActorDPS*2.5)$-$DmgMax(ActorDPS*2.5)$ ði¬m sát thß½ng.",
+203,"Huy«n Höa Phá ","Phi kiªm kèm theo höa quang phóng nhß bay v« phía møc tiêu, ði¬m sát thß½ng tÕo ra là $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$ , ð°ng th¶i khiªn ð¯i phß½ng không th¬ t¤n công xa trong vòng 3 giây.",
+204,"Höa Long Vû ","Tri®u h°i Höa Long hÕ phàm, tÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$, kèm theo hi®u Ñng thiêu cháy , ði¬m sát thß½ng trong vòng 15 giây là $PartyDPS(MWLev(204),0)*3$ ði¬m.",
+205,"Xích Di­m Träm","Kích thích lu°ng höa khí mãnh li®t cüa bän thân, ð¯t cháy tà linh xung quanh c½ th¬. TÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m. KÛ nång t¤n công theo phÕm vi.",
+211,"Thanh Tuy«n Dçn","H¤p thø nguyên t¯ thüy trong tr¶i ð¤t và ngßng tø trên phi kiªm ð¬ t¤n công møc tiêu, tÕo ra ði¬m sát thß½ng ð¯i v¾i møc tiêu là  $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m.",
+212,"Huy«n Bång Träm","Nguyên t¯ thüy trên phi kiªm kªt tinh thành hàn bång, công träm møc tiêu , tÕo ra ði¬m sát thß½ng ð¯i v¾i møc tiêu là $DmgMin(ActorDPS*1.1)$-$DmgMax(ActorDPS*1.1)$, ð°ng th¶i ðông cÑng møc tiêu trong 5 giây.",
+213,"Nµ Häi Ba","Phát ra mµt cµt nß¾c cñc l¾n t¤n công v« phía møc tiêu, tÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*2.5)$-$DmgMax(ActorDPS*2.5)$.",
+214,"Häi Tri«u Quyªt","Hình thành mµt xoáy nß¾c gi¯ng nhß häi tri«u, khiªn møc tiêu giäm t¯c ðµ và ch¸u ði¬m sát thß½ng là $DmgMin(ActorDPS*0.75)$-$DmgMax(ActorDPS*0.75)$ ði¬m. KÛ nång t¤n công theo  phÕm vi.",
+215,"Phi Lßu Träm","Phi Kiªm chém møc tiêu nh© nhàng tña mây bay nß¾c chäy, tÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$, khiªn møc tiêu r½i vào tình trÕng phòng ngñ yªu ¾t ð¯i v¾i h® Thüy, m²i l¥n b¸ kÛ nång Thüy H® t¤n công phäi ch¸u ði¬m sát thß½ng t¯i ða là $PartyDPS(MWLev(215), 0)*0.25$ ði¬m.",
+221,"Hàn Bång Thuçn","Dùng pháp lñc ngßng tø thành 3 qu¥ng hàn bång hµ thuçn, tång ði¬m phòng ngñ lên $DRRToArmor(0.1,MWLev(221))$ ði¬m, không th¬ thi tri¬n cùng lúc v¾i Thiên Cß½ng Thu§t.",
+222,"Hàn Bång Thích","Tri®u h°i bång trø t¤n công møc tiêu, tÕo ra ði¬m sát thß½ng là $DmgMin(PartyDPS(MWLev(222), 0)*0.8)$-$DmgMax(PartyDPS(MWLev(222), 0)*0.8)$ ði¬m, ð°ng th¶i khiªn t¯c ðµ di chuy¬n cüa møc tiêu giäm xu¯ng 80% trong vòng 5 giây.",
+223,"Khích Tu® Thu§t","Tång ði¬m trí tu® liên tøc trong 30 phút là $MWLev(223)+5$ ði¬m, có th¬ thi tri¬n phép lên ð¯i tßþng khác.",
+224,"Vñng Huy®t Thu§t","Khiªn quái v§t hôn mê trong 20 giây, chï có th¬ sØ døng ð¯i v¾i nhæng quái v§t ðang trong trÕng thái không tác chiªn.",
+225,"Thiên Cß½ng Thu§t","Ngçu nhiên giäi tr× mµt trÕng thái hæu ích cüa møc tiêu.",
+226,"Ð¸a Cß½ng Thu§t","Pháp thu§t t¤n công theo phÕm vi, tÕo ra $DmgMin(PartyDPS(MWLev(226),0)*2)$-$DmgMax(PartyDPS(MWLev(226),0)*2)$ ði¬m sát thß½ng, ð°ng th¶i làm møc tiêu choáng trong 5 giây.",
+227,"Tînh Tâm Quyªt","Giäm mÑc ðµ thù h§n cüa quái v§t xu¯ng $PartyDPS(MWLev(227),0)*3$ ði¬m.",
+228,"Thanh Tâm Quyªt","L§p tÑc giäi tr× trÕng thái hôn mê.",
+231,"Tång cß¶ng Tø Höa Dçn","H¤p thø nguyên t¯ höa trong tr¶i ð¤t và ngßng tø trên Phi Kiªm ð¬ t¤n công møc tiêu , tÕo ra ði¬m sát thß½ng ð¯i v¾i møc tiêu là $DmgMin(ActorDPS*1.5*(1+SkillLevel(231)*0.06))$-$DmgMax(ActorDPS*1.5*(1+SkillLevel(231)*0.06))$ ði¬m.","Tång mÑc sát thß½ng cüa Tø Höa Dçn lên $SkillLevel(231)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+232,"Tång cß¶ng Ly Höa Phá ","Phi Kiªm phóng lên t× m£t ð¤t chém xuyên thân th¬ møc tiêu , ði¬m sát thß½ng tÕo ra ð¯i v¾i møc tiêu là $DmgMin(ActorDPS*2.5*(1+SkillLevel(232)*0.05))$-$DmgMax(ActorDPS*2.5*(1+SkillLevel(232)*0.05))$ ði¬m.","Kéo dài th¶i gian thi tri¬n pháp lñc cüa Ly Höa Phá lên 0.$SkillLevel(232)$ giây, ð°ng th¶i tång $SkillLevel(232)*5$% sát thß½ng.
+C¤p 1: 0.1 5%
+C¤p 2: 0.2 10%
+C¤p 3: 0.3 15%
+C¤p 4: 0.4 20%
+C¤p 5: 0.5 25%"
+233,"Tång cß¶ng Huy«n Höa Phá ","Phi kiªm kèm theo höa quang phóng nhß bay v« phía møc tiêu, ði¬m sát thß½ng tÕo ra ð¯i v¾i møc tiêu là $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$ , ð°ng th¶i khiªn ð¯i phß½ng không th¬ t¤n công xa trong vòng $3+SkillLevel(233)*0.5$ giây.","Th¶i gian có hi®u lñc tång lên $SkillLevel(233)*0.5$giây. 
+C¤p 1: 0.5
+C¤p 2: 1.0
+C¤p 3: 1.5
+C¤p 4: 2.0
+C¤p 5: 2.5"
+234,"Tång cß¶ng Höa Long Vû ","Tri®u h°i Höa Long hÕ phàm, tÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$, kèm theo hi®u Ñng cháy ,tÕo ra ði¬m sát thß½ng trong vòng 15 giây là $PartyDPS(MWLev(204),0)*3*(1+SkillLevel(234)*0.08)$ ði¬m.","MÑc sát thß½ng do lØa thiêu tång lên $SkillLevel(234)*8$%.
+C¤p 1: 8%
+C¤p 2: 16%
+C¤p 3: 24%
+C¤p 4: 32%
+C¤p 5: 40%"
+235,"Tång cß¶ng Xích Di­m Träm","Kích thích lu°ng höa khí mãnh li®t cüa bän thân, ð¯t cháy tà linh xung quanh c½ th¬. TÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m. KÛ nång t¤n công theo  phÕm vi.","Tång xác su¤t bÕo kích lên $SkillLevel(235)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+236,"Tång cß¶ng sát thß½ng Höa H®  ",,"Tång mÑc sát thß½ng cüa Höa H® lên $SkillLevel(236)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+237,"Tång cß¶ng xác su¤t bÕo kích cüa Höa h® ",,"Tång xác su¤t bÕo kích cüa Höa H® lên $SkillLevel(237)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+238,"Tång cß¶ng sát thß½ng bÕo kích Höa H® ",,"Tång mÑc sát thß½ng do bÕo kích cüa Höa H® lên $SkillLevel(238)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+241,"Höa Th¥n Chân Quyªt","Tång xác su¤t bÕo kích cüa Höa H® lên 50%, duy trì trong 10 giây.",
+242,"Li®t Höa Chân Quyªt","Ðòn t¤n công tiªp theo cüa Höa H® s¨ là bÕo kích.",
+251,"Tång cß¶ng Thanh Tuy«n Dçn","H¤p thø nguyên t¯ thüy trong tr¶i ð¤t và ngßng tø trên phi kiªm ð¬ t¤n công møc tiêu, tÕo ra ði¬m sát thß½ng ð¯i v¾i møc tiêu là  $DmgMin(ActorDPS*1.5*(1+SkillLevel(251)*0.04))$-$DmgMax(ActorDPS*1.5*(1+SkillLevel(251)*0.04))$ ði¬m.","Tång mÑc sát thß½ng lên $SkillLevel(251)*4$%.
+C¤p 1: 4%
+C¤p 2: 8%
+C¤p 3: 12%
+C¤p 4: 16%
+C¤p 5: 20%"
+252,"Tång cß¶ng Huy«n Bång Träm","Nguyên t¯ thüy trên phi kiªm kªt tinh thành hàn bång, công träm møc tiêu, tÕo ra ði¬m sát thß½ng ð¯i v¾i møc tiêu là $DmgMin(ActorDPS*1.1)$-$DmgMax(ActorDPS*1.1)$, ð°ng th¶i ðông cÑng møc tiêu trong 5 giây.","Giäm th¶i gian ch¶ cüa chiêu thÑc xu¯ng $SkillLevel(252)*2$ giây.
+C¤p 1: 2 giây
+C¤p 2: 4 giây
+C¤p 3: 6 giây
+C¤p 4: 8 giây
+C¤p 5: 10 giây"
+253,"Tång cß¶ng Nµ Häi Ba","Phát ra mµt cµt nß¾c cñc l¾n t¤n công v« phía møc tiêu, tÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*2.5)$-$DmgMax(ActorDPS*2.5)$.","Pháp lñc tiêu hao giäm $SkillLevel(253)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+254,"Tång cß¶ng Häi Tri«u Quyªt","Hình thành mµt xoáy nß¾c gi¯ng nhß häi tri«u, khiªn møc tiêu giäm t¯c ðµ và ch¸u ði¬m sát thß½ng là $DmgMin(ActorDPS*0.75)$-$DmgMax(ActorDPS*0.75)$ ði¬m. KÛ nång t¤n công theo  phÕm vi.","Tång hi®u quä giäm t¯c ðµ cüa møc tiêu lên $SkillLevel(254)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+255,"Tång cß¶ng Phi Lßu Träm","Phi Kiªm chém møc tiêu nh© nhàng tña mây bay nß¾c chäy, tÕo ra ði¬m sát thß½ng là $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$, khiªn møc tiêu r½i vào tình trÕng phòng ngñ yªu ¾t ð¯i v¾i h® Thüy, m²i l¥n b¸ kÛ nång Thüy H® t¤n công phäi ch¸u ði¬m sát thß½ng t¯i ða là $PartyDPS(MWLev(215), 0)*0.25*(1+SkillLevel(255)*0.1)$ ði¬m.","Tång mÑc sát thß½ng lên $SkillLevel(255)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+256,"Tång cß¶ng sát thß½ng Thüy H®",,"Tång mÑc sát thß½ng cüa Thüy H® lên $SkillLevel(256)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+257,"Tång cß¶ng xác su¤t bÕo kích Thüy H®",,"Tång xác su¤t bÕo kích cüa Thüy H® lên $SkillLevel(257)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+258,"Tång cß¶ng sát thß½ng bÕo kích Thüy H®",,"Tång mÑc sát thß½ng do bÕo kích cüa Thüy H® lên $SkillLevel(258)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+261,"H°i Ma Quyªt","Trong 15 giây phøc h°i 100% pháp lñc.",
+262,"Long Th¥n Quyªt","Trong 10 giây xác su¤t bÕo kích cüa Thüy H® tång 50%.",
+271,"Tång cß¶ng Hàn Bång Thuçn","Dùng pháp lñc ngßng tø thành 3 qu¥ng hàn bång hµ thuçn, tång ði¬m phòng ngñ lên $DRRToArmor(0.1,MWLev(222))$ ði¬m, không th¬ thi tri¬n cùng lúc v¾i Thiên Cß½ng Thu§t.","Sau khi b¸ t¤n công v§t lý, s¨ có $SkillLevel(271)*10$% c½ hµi trong 3 giây khiªn t¯c ðµ di chuy¬n cüa ð¯i phß½ng giäm 80%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+272,"Tång cß¶ng Hàn Bång Thích","Tri®u h°i bång trø t¤n công møc tiêu, tÕo ra ði¬m sát thß½ng là $DmgMin(PartyDPS(MWLev(222), 0)*0.8)$-$DmgMax(PartyDPS(MWLev(222), 0)*0.8)$ ði¬m, ð°ng th¶i khiªn t¯c ðµ di chuy¬n cüa møc tiêu giäm xu¯ng 80% trong vòng 5 giây.","Rút ng¡n th¶i gian ch¶ cüa chiêu thÑc xu¯ng $SkillLevel(272)$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+273,"Tång cß¶ng Khích Tu® Thu§t","Tång ði¬m trí tu® liên tøc trong 30 phút là $(MWLev(223)+5)*(1+SkillLevel(273)*0.05)$, có th¬ thi tri¬n phép lên ð¯i tßþng khác.","Tång hi®u quä lên $SkillLevel(273)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+274,"Tång cß¶ng Vñng Huy®t Thu§t","Khiªn quái v§t hôn mê trong $20+SkillLevel(274)*3$ giây, chï có th¬ sØ døng ð¯i v¾i nhæng quái v§t ðang trong trÕng thái không tác chiªn.","Kéo dài th¶i gian hôn mê lên $SkillLevel(274)*3$ giây.
+C¤p 1: 3 giây
+C¤p 2: 6 giây
+C¤p 3: 9 giây
+C¤p 4: 12 giây
+C¤p 5: 15 giây"
+275,"Tång cß¶ng Thiên Cß½ng Thu§t","Ngçu nhiên giäi tr× mµt trÕng thái có ích cüa møc tiêu.","Giäm th¶i gian ch¶ cüa Thiên Cß½ng Thu§t xu¯ng $SkillLevel(275)*3$ giây.
+C¤p 1: 3 giây
+C¤p 2: 6 giây
+C¤p 3: 9 giây
+C¤p 4: 12 giây
+C¤p 5: 15 giây"
+276,"Tång cß¶ng Ð¸a Cß½ng Thu§t","Pháp thu§t t¤n công theo phÕm vi, tÕo ra $DmgMin(PartyDPS(MWLev(226),0)*2)$-$DmgMax(PartyDPS(MWLev(226),0)*2)$ ð¬im sát thß½ng, ð°ng th¶i làm møc tiêu choáng trong 5 giây.","Tång xác su¤t bÕo kích lên $SkillLevel(276)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+277,"Tång cß¶ng Tînh Tâm Quyªt","Giäm mÑc ðµ thù h§n cüa quái v§t xu¯ng $PartyDPS(MWLev(227),0)*3*(1+SkillLevel(277)*0.1)$ ði¬m.","Tång hi®u quä lên $SkillLevel(277)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+278,"Tång cß¶ng Thanh Tâm Quyªt","L§p tÑc giäi tr× trÕng thái hôn mê.","Giäm th¶i gian ch¶ cüa chiêu thÑc xu¯ng $SkillLevel(278)*2$ giây
+C¤p 1: 2 giây
+C¤p 2: 4 giây
+C¤p 3: 5 giây
+C¤p 4: 8 giây
+C¤p 5: 10 giây"
+301,"Nµ Lôi Oanh","S¤m sét t× trên tr¶i giáng xu¯ng møc tiêu, làm ð¯i phß½ng choáng trong 5 giây, ð°ng th¶i tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, møc tiêu s¨ tïnh lÕi khi b¸ t¤n công.",
+302,"TØ Vân Thß½ng","Pháp bäo tÕo ra mµt làn mây tím có s¤m sét bao quanh và t¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.",
+303,"Huy«n Quang Träm","Pháp bäo phân thành nhi«u ðß¶ng cùng công kích møc tiêu, tÕo ra $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng. ",
+304,"Kích Ði®n Tri«n","TÕo ra tia sét bao vây møc tiêu trong 3 giây, m²i 0.5 giây tÕo ra $DmgMin(ActorDPS*0.5)$-$DmgMax(ActorDPS*0.5)$ ði¬m sát thß½ng, ð°ng th¶i khiªn t¯c ðµ di chuy¬n giäm 50%.",
+305,"BÕch Liên H°n","Ni®m Ph§t quyªt, khiªn hàng tråm ðóa sen tr¡ng hi®n ra trên mình kë ð¸ch; tÕo ra $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.",
+306,"Kim Liên Phù","Kim Liên Phù tÕo ra mµt d¤u ¤n th¥n thánh hình ðóa sen vàng trên mình kë ð¸ch, liên tøc sát thß½ng trong 10 giây, tÕo ra t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*2+1$ , ð°ng th¶i møc tiêu r½i vào trÕng thái phòng v® yªu ð¯i v¾i Ph§t H®, m²i l¥n b¸ kî nång Ph§t H® t¤n công mÑc sát thß½ng s¨ tång thêm $ActorDPS*0.2+1$ ði¬m.",
+307,"Thanh Liên Quang","Tri®u h°i nhæng ðóa sen xanh công kích kë ð¸ch, tÕo ra $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ði¬m sát thß½ng.",
+308,"H°ng Liên Hoa","Tri®u h°i nhæng ðóa sen h°ng l¤p lánh vây l¤y kë ð¸ch, tÕo thành mµt ðß¶ng phép màu h°ng liên tøc t¤n công cho ðªn khi hªt th¶i gian duy trì cüa chiêu thÑc; m²i giây hóa giäi $PartyDPS(MWLev(308),3)*3$ ði¬m pháp lñc cüa kë ð¸ch, ð°ng th¶i thu ðßþc $PartyDPS(MWLev(308),3)*1.5$ ði¬m pháp lñc v« cho mình.",
+309,"KÏ Hoàng Quyªt","Ni®m ph§t quyªt, nhæng dòng ph§t vån l¤p lánh ánh vàng s¨ vây quanh ngß¶i ðßþc tr¸ thß½ng, phøc h°i $HealPS(MWLev(309))*1.5+20+UltraHeal$ ði¬m sinh m®nh.",
+310,"Sinh Tân Quyªt","TÕo ra lu°ng sáng xanh vây quanh møc tiêu, phøc h°i sinh m®nh liên tøc trong 10 giây, m²i 2 giây phøc h°i ðßþc $(HealPS(MWLev(310))*1.5+20+UltraHeal)/5$ ði¬m.",
+311,"Vãng Sinh Quyªt","SØ døng pháp lñc cüa mình ð¬ tri®u h°i linh h°n kiªp trß¾c v« , h°i sinh møc tiêu, phøc h°i $PartyHP(MWLev(311),3)*0.3$ huyªt khí.",
+312,"Sßu H°n Châm","SØ døng v¥ng sáng kÏ di®u cüa Luy®n Ma Th¥n Châm công kích møc tiêu 3 giây, trong th¶i gian ðó m²i giây tÕo ra $DmgMin(PartyDPS(MWLev(312),3)*0.9)$-$DmgMax(PartyDPS(MWLev(312),3)*0.9)$ ði¬m sát thß½ng, ð°ng th¶i tr¸ li®u cho ð°ng ðµi xung quanh v¾i t±ng ði¬m sinh m®nh là $DmgMin(PartyDPS(MWLev(312),3)*0.9)$-$DmgMax(PartyDPS(MWLev(312),3)*0.9)$, chï có tác døng sát thß½ng ð¯i v¾i quái v§t.",
+313,"Tïnh Th¥n Châm","SØ døng pháp lñc cüa th¥n châm xua ðu±i ác ma, giäi tr× trÕng thái trúng ðµc cüa bän thân.",
+314,"Nguyên Dß½ng Châm","SØ døng bí thu§t châm cÑu c± xßa ð¬ kích thích sÑc mÕnh c½ th¬, tÕm th¶i tång gi¾i hÕn cüa thanh sinh m®nh lên $PartyHP(MWLev(314),3)*0.15$ ði¬m.",
+315,"TØ Vân Äm","Thi tri¬n v¥ng mây tím bao phü møc tiêu, tÕo ra $DmgMin(PartyDPS(MWLev(315),3)*1.8)$-$DmgMax(PartyDPS(MWLev(315),3)*1.8)$ ði¬m sát thß½ng, ð°ng th¶i khiªn møc tiêu hôn mê 3 giây.",
+316,"TØ Yên Trß¾ng","Thi tri¬n làn khói tím cän tr· thú nuôi cüa kë thù, tÕo ra $DmgMin(PartyDPS(MWLev(316),3)*4.5)$-$DmgMax(PartyDPS(MWLev(316),3)*4.5)$ ði¬m sát thß½ng, giäm t¯c ðµ di chuy¬n xu¯ng 80%, duy trì trong 10 giây.",
+317,"TØ Lôi Kình Công","SØ døng nµi công Ph§t h÷c t¤n công vào trong c½ th¬ møc tiêu, liên tøc sát thß½ng trong 10 giây, tÕo ra t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*3+1$ ði¬m.",
+318,"TØ Tinh Kiªp T¦u","Kích thích ti«m nång cüa sinh m®nh, né tránh kiªp nÕn, tång $MWLev(318)*0.5$% xác su¤t tñ h°i sinh sau khi chªt.",
+319,"TØ Tinh Bích V® ","SØ døng công lñc hµ thân cüa môn phái, tÕo ra mµt bÑc tß¶ng nhæng tia sét màu tím ngån ch£n møc tiêu, duy trì 60 giây, có th¬ h¤p thu và hóa giäi $PartyDPS(MWLev(319),3)*4$ ði¬m sát thß½ng.",
+321,"Tång cß¶ng Nµ Lôi Oanh","S¤m sét t× trên tr¶i giáng xu¯ng møc tiêu, làm ð¯i phß½ng choáng trong 5 giây, ð°ng th¶i tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, møc tiêu s¨ tïnh lÕi khi b¸ t¤n công.","Giäm th¶i gian ch¶ cüa Nµ Lôi Oanh xu¯ng $SkillLevel(321)*1$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+322,"Tång cß¶ng TØ Vân Thß½ng","Pháp bäo tÕo ra mµt làn mây tím có s¤m sét bao quanh và t¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.","Giäm th¶i gian v§n công cüa TØ Vân Thß½ng xu¯ng $SkillLevel(322)*0.1$ giây.
+C¤p 1: 0.1 giây
+C¤p 2: 0.2 giây
+C¤p 3: 0.3 giây
+C¤p 4: 0.4 giây
+C¤p 5: 0.5 giây"
+323,"Tång cß¶ng Huy«n Quang Träm","Pháp bäo phân thành nhi«u ðß¶ng cùng công kích møc tiêu, tÕo ra $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng. ","Giäm th¶i gian v§n công cüa Huy«n Quang Träm xu¯ng $SkillLevel(323)*0.2$ giây.
+C¤p 1: 0.2 giây
+C¤p 2: 0.4 giây
+C¤p 3: 0.6 giây
+C¤p 4: 0.8 giây
+C¤p 5: 1 giây"
+324,"Tång cß¶ng Kích Ði®n Tri«n","TÕo ra tia sét bao vây møc tiêu trong 3 giây, m²i 0.5 giây tÕo ra $DmgMin(ActorDPS*0.5)$-$DmgMax(ActorDPS*0.5)$ ði¬m sát thß½ng, ð°ng th¶i khiªn t¯c ðµ di chuy¬n giäm $50+SkillLevel(324)*5$%.","Tång hi®u quä giäm t¯c ðµ cüa Kích Ði®n Trß¶ng lên $SkillLevel(324)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+325,"Tång cß¶ng sát thß½ng Ði®n H®",,"Tång mÑc sát thß½ng cüa Ði®n H® lên $SkillLevel(325)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+326,"Tång cß¶ng xác su¤t bÕo kích Ði®n H®",,"Tång xác su¤t bÕo kích cüa Ði®n H® lên $SkillLevel(326)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+327,"Tång cß¶ng sát thß½ng bÕo kích Ði®n H®",,"Tång mÑc sát thß½ng do bÕo kích cüa Ði®n H® lên $SkillLevel(327)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C„p 5: 50%"
+331,"Tång cß¶ng BÕch Liên H°n","Ni®m Ph§t quyªt, khiªn hàng tråm ðóa sen tr¡ng hi®n ra trên mình kë ð¸ch; tÕo ra $DmgMin(ActorDPS*1.5)*(1+SkillLevel(331)*0.06)$-$DmgMax(ActorDPS*1.5)*(1+SkillLevel(331)*0.06)$ ði¬m sát thß½ng.","Tång hi®u quä sát thß½ng cüa BÕch Liên H°n lên $SkillLevel(331)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+332,"Tång cß¶ng Kim Liên Phù","Kim Liên Phù tÕo ra mµt d¤u ¤n th¥n thánh hình ðóa sen vàng trên mình kë ð¸ch, liên tøc sát thß½ng trong 10 giây, tÕo ra t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*2*(1+SkillLevel(332)*0.05)+1$ , ð°ng th¶i møc tiêu r½i vào trÕng thái phòng v® yªu ð¯i v¾i Ph§t H®, m²i l¥n b¸ kî nång Ph§t H® t¤n công mÑc sát thß½ng s¨ tång thêm $(ActorDPS*0.2*(1+SkillLevel(332)*0.2)+1)$ ði¬m.","Tång hi®u quä làm giäm phòng v® Ph§t H® cüa Kim Liên Phù lên $SkillLevel(332)*20$%.
+C¤p 1: 20%
+C¤p 2: 40%
+C¤p 3: 60%
+C¤p 4: 80%
+C¤p 5: 100%"
+333,"Tång cß¶ng Thanh Liên Quang","Tri®u h°i nhæng ðóa sen xanh công kích kë ð¸ch, tÕo ra $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ði¬m sát thß½ng.","Giäm lßþng pháp lñc tiêu hao cüa Thanh Liên Quang xu¯ng $SkillLevel(333)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+334,"Tång cß¶ng H°ng Liên Hoa","Tri®u h°i nhæng ðóa sen h°ng l¤p lánh vây l¤y kë ð¸ch, tÕo thành mµt ðß¶ng phép màu h°ng liên tøc t¤n công; m²i giây hóa giäi $PartyDPS(MWLev(308),3)*3$ ði¬m pháp lñc cüa kë ð¸ch, ð°ng th¶i thu ðßþc $PartyDPS(MWLev(308),3)*1.5$ ði¬m pháp lñc v« cho mình.","Trong lúc thi tri¬n H°ng Liên Hoa s¨ tång  $SkillLevel(334)*20$% c½ hµi không b¸ gián ðoÕn quá trình thi tri¬n pháp thu§t do b¸ công kích.
+C¤p 1: 20%
+C¤p 2: 40%
+C¤p 3: 60%
+C¤p 4: 80%
+C¤p 5: 100%"
+335,"Tång cß¶ng sát thß½ng Ph§t Pháp",,"Tång mÑc sát thß½ng cüa Ph§t Pháp H® lên $SkillLevel(335)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+336,"Tång cß¶ng xác su¤t bÕo kích Ph§t Pháp",,"Tång xác su¤t bÕo kích cüa Ph§t Pháp H® lên $SkillLevel(336)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+337,"Tång cß¶ng sát thß½ng bÕo kích Ph§t Pháp",,"Tång mÑc sát thß½ng do bÕo kích cüa Ph§t Pháp h® lên $SkillLevel(337)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+341,"Tång cß¶ng KÏ Hoàng Quyªt","Ni®m ph§t quyªt, nhæng dòng ph§t vån l¤p lánh ánh vàng s¨ vây quanh ngß¶i ðßþc tr¸ thß½ng, phøc h°i $(HealPS(MWLev(309))*1.5+20)*(1+SkillLevel(341)*0.06)+UltraHeal$ ði¬m sinh m®nh.","Tång hi®u quä tr¸ thß½ng cüa KÏ Hoàng Quyªt lên $SkillLevel(341)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+342,"Tång cß¶ng Sinh Tân Quyªt","TÕo ra lu°ng sáng xanh vây quanh møc tiêu, phøc h°i sinh m®nh liên tøc trong 10 giây, m²i 2 giây phøc h°i ðßþc $((HealPS(MWLev(310))*1.5+20)*(1+SkillLevel(342)*0.06)+UltraHeal)/5$ ði¬m.","Tång hi®u quä tr¸ thß½ng cüa Sinh Tân Quyªt lên $SkillLevel(342)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+343,"Tång cß¶ng Vãng Sinh Quyªt","SØ døng pháp lñc cüa mình ð¬ tri®u h°i linh h°n kiªp trß¾c v« , h°i sinh møc tiêu, phøc h°i $PartyHP(MWLev(311),3)*0.3$ huyªt khí.
+","Giäm th¶i gian v§n công cüa Vãng Sinh Quyªt xu¯ng $SkillLevel(343)*0.6$ giây.
+C¤p 1: 0.6 giây
+C¤p 2: 1.2 giây
+C¤p 3: 1.8 giây
+C¤p 4: 2.4 giây
+C¤p 5: 3 giây"
+344,"Tång cß¶ng Sßu H°n Châm","SØ døng v¥ng sáng kÏ di®u cüa Luy®n Ma Th¥n Châm công kích møc tiêu 3 giây, trong th¶i gian ðó m²i giây tÕo ra $DmgMin(PartyDPS(MWLev(312),3)*0.9)$-$DmgMax(PartyDPS(MWLev(312),3)*0.9)$ ði¬m sát thß½ng, ðð°ng th¶i tr¸ li®u cho ð°ng ðµi xung quanh v¾i t±ng ði¬m sinh m®nh là $DmgMin(PartyDPS(MWLev(312),3)*0.9)$-$DmgMax(PartyDPS(MWLev(312),3)*0.9)$, chï có tác døng sát thß½ng ð¯i v¾i quái v§t.","Giäm lßþng pháp lñc tiêu hao cüa Sßu H°n Châm xu¯ng $SkillLevel(344)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+345,"Tång cß¶ng Tïnh Th¥n Châm","SØ døng pháp lñc cüa th¥n châm xua ðu±i ác ma, giäi tr× trÕng thái trúng ðµc cüa bän thân.","Sau khi tång cß¶ng, Tïnh Th¥n Châm có th¬ giäi ðßþc trÕng thái trúng ðµc c¤p $SkillLevel(345)$.
+C¤p 1: 1 c¤p
+C¤p 2: 2 c¤p
+C¤p 3: 3 c¤p
+C¤p 4: 4 c¤p
+C¤p 5: 5 c¤p"
+346,"Tång cß¶ng Nguyên Dß½ng Châm","SØ døng bí thu§t châm cÑu c± xßa ð¬ kích thích sÑc mÕnh c½ th¬, tÕm th¶i tång gi¾i hÕn cüa thanh sinh m®nh lên $PartyHP(MWLev(314),3)*(0.15+SkillLevel(346)*0.02)$ ði¬m.","Tång hi®u quä nâng gi¾i hÕn thanh sinh m®nh cüa Nguy®n Dß½ng Châm lên $SkillLevel(346)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+347,"Tång cß¶ng TØ Vân Äm","Thi tri¬n v¥ng mây tím bao phü møc tiêu, tÕo ra $DmgMin(PartyDPS(MWLev(315),3)*1.8)$-$DmgMax(PartyDPS(MWLev(315),3)*1.8)$ ði¬m sát thß½ng, ð°ng th¶i khiªn møc tiêu hôn mê 3 giây.","Giäm th¶i gian ch¶ cüa TØ Vân Äm xu¯ng $SkillLevel(347)*1$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+348,"Tång cß¶ng TØ Yên Trß¾ng","Thi tri¬n làn khói tím cän tr· thú nuôi cüa kë thù, tÕo ra $DmgMin(PartyDPS(MWLev(316),3)*4.5)$-$DmgMax(PartyDPS(MWLev(316),3)*4.5)$ ði¬m sát thß½ng, t±ng lßþng sát thß½ng tÕo ra trong 10 giây là $PartyDPS(MWLev(316),3)*4*SkillLevel(348)*0.2$ giäm t¯c ðµ di chuy¬n xu¯ng 80%, duy trì trong 10 giây.","Tång $SkillLevel(348)*100$% hi®u lñc gây sát thß½ng lên thú nuôi cüa TØ Yên Trß¾ng, duy trì trong 10 giây.
+C¤p 1: 100%
+C¤p 2: 200%
+C¤p 3: 300%
+C¤p 4: 400%
+C¤p 5: 500%"
+349,"Tång cß¶ng TØ Lôi Kình Công","SØ døng nµi công Ph§t h÷c t¤n công vào trong c½ th¬ møc tiêu, liên tøc sát thß½ng trong 10 giây, tÕo ra t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*3*(1+SkillLevel(349)*0.05)+1$ ði¬m.","Tång hi®u quä sát thß½ng cüa TØ Lôi Kình Công lên $SkillLevel(349)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+350,"Tång cß¶ng TØ Tinh Kiªp T¦u","Kích thích ti«m nång cüa sinh m®nh, né tránh kiªp nÕn, tång $MWLev(318)*0.5+SkillLevel(350)*4$% xác su¤t tñ h°i sinh sau khi chªt.","Tång xác su¤t h°i sinh cüa TØ Tinh Kiªp T¦u lên $SkillLevel(350)*4$%.
+C¤p 1: 4%
+C¤p 2: 8%
+C¤p 3: 12%
+C¤p 4: 16%
+C¤p 5: 20%"
+351,"Tång cß¶ng TØ Tinh Bích V® ","SØ døng công lñc hµ thân cüa môn phái, tÕo ra mµt bÑc tß¶ng nhæng tia sét màu tím ngån ch£n møc tiêu, duy trì 60 giây, có th¬ h¤p thu và hóa giäi $PartyDPS(MWLev(319),3)*4*(1+SkillLevel(351)*0.06)$ ði¬m sát thß½ng.","Tång hi®u quä h¤p thu và hóa giäi sát thß½ng cüa TØ Tinh Bích V®  lên $SkillLevel(351)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+361,"Tr¥m M£c Hóa","Chuy¬n ð±i môi trß¶ng xung quanh, khiªn t¤t cä các sinh v§t trong phÕm vi änh hß·ng không th¬ sØ døng kî nång trong 5 giây, k¬ cä bän thân ngß¶i thi tri¬n.",
+362,"H°i Pháp","Tinh th¥n ðÕt ðªn cänh gi¾i cao, nâng t¯c ðµ h°i phøc pháp lñc lên 200%.",
+363,"Cß¶ng Hóa","Nâng hi®u quä sát thß½ng møc tiêu lên $PartyDPS(MWLev(305),3)*0.5$, duy trì trong 20 giây.",
+364,"Kình Khí Hµ Thân","Nµi công hµ thân siêu ðÆng, có khä nång h¤p thø và hóa giäi $PartyDPS(MWLev(305),3)*2$ ði¬m sát thß½ng, ð°ng th¶i trong th¶i gian có nµi công hµ thân, quá trình thi tri¬n pháp thu§t s¨ không b¸ gián ðoÕn khi b¸ t¤n công.",
+401,"Tu La - Nhçn","T¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, tång mµt chï s¯ cß¶ng lñc.",
+402,"Tu La - Bµc","Cß¶ng lñc bµc phát, dña vào chï s¯ cß¶ng lñc ð¬ quyªt ð¸nh mÑc sát thß½ng tÕo ra.
+1 chï s¯ Cß¶ng lñc s¨ gây ra 100% + $DmgMin(ActorDPS*1)$-$DmgMax(ActorDPS*1)$  sát thß½ng
+2 chï s¯ Cß¶ng lñc s¨ gây ra 200% + $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$  sát thß½ng
+3 chï s¯ Cß¶ng lñc s¨ gây ra 300% + $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$  sát thß½ng
+4 chï s¯ Cß¶ng lñc s¨ gây ra 400% + $DmgMin(ActorDPS*4)$-$DmgMax(ActorDPS*4)$  sát thß½ng
+5 chï s¯ Cß¶ng lñc s¨ gây ra 500% + $DmgMin(ActorDPS*5)$-$DmgMax(ActorDPS*5)$  sát thß½ng",
+403,"Tu La - Phá","Cß¶ng lñc bÑc phá, tÕo ra $DmgMin(ActorDPS*1.1)$-$DmgMax(ActorDPS*1.1)$ ði¬m sát thß½ng, dña vào chï s¯ cß¶ng lñc quyªt ð¸nh th¶i gian gây choáng ð¯i thü 
+1 ði¬m: 1 giây
+2 ði¬m: 2 giây
+3 ði¬m: 3 giây
+4 ði¬m: 4 giây
+5 ði¬m: 5 giây",
+404,"Tu La - †n","Ðánh lén møc tiêu, tÕo ra $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m sát thß½ng, b¡t buµc phäi t¤n công t× phía sau møc tiêu, tång thêm mµt chï s¯ cß¶ng lñc.",
+405,"Tu La - Ð¸nh","T¤n công t× xa b¢ng sóng ánh sáng, tÕo ra $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$ ði¬m sát thß½ng ð°ng th¶i làm møc tiêu b¸ choáng 3 giây.",
+411,"T¸ch Di®t - Xuyên Vân","Thåm dò møc tiêu, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng.",
+412,"T¸ch Di®t - Phøc Ma","T¤n công møc tiêu mãnh li®t, tÕo ra $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m sát thß½ng , tång chï s¯ thanh thù h§n.",
+413,"T¸ch Di®t - Phá Giáp","Dùng lØa t¤n công xuyên qua áo giáp cüa møc tiêu , tÕo ra $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$ ði¬m sát thß½ng, ð°ng th¶i giäm $DRRToArmor(0.1,MWLev(413))$ ði¬m phòng ngñ cüa ð¯i phß½ng, duy trì 1 phút.",
+414,"T¸ch Di®t - Phçn Tâm","Thiêu røi møc tiêu, tÕo ra $DmgMin(ActorDPS*0.5)$-$DmgMax(ActorDPS*0.5)$ ði¬m sát thß½ng và khiªn cho møc tiêu phäi ch¸u $ActorDPS*2.5+1$ ði¬m sát thß½ng höa trong vòng 15 giây. Ð°ng th¶i có th¬ công kích 3 møc tiêu.",
+415,"T¸ch Di®t - ÐÕi Bi","Mê ho£c møc tiêu, tÕo ra  $DmgMin(ActorDPS*0.8)$-$DmgMax(ActorDPS*0.8)$ ði¬m sát thß½ng, khiªn sÑc sát thß½ng cüa møc tiêu b¸ m¤t $ActorDPS*0.2+1$ ði¬m trong 30 giây.",
+421,"ÐÕi Lñc Kim Cang","T¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng ð°ng th¶i gây choáng møc tiêu trong 5 giây.",
+422,"Kim Cang B¤t HoÕi","TÕo vòng kim cang hµ thân, trong 10 giây giäm sát thß½ng bình thß¶ng xu¯ng $PartyDPS(MWLev(422),1)*2.5$ ði¬m, giäm sát thß½ng pháp thu§t xu¯ng $PartyDPS(MWLev(422),1)*0.5$ ði¬m.",
+423,"Tâm Ðång","Th¡p mµt ng÷n tâm ðång, khiªn cho kë ð¸ch trong phÕm vi 200 giäm 50% t¯c ðµ di chuy¬n, ð°ng th¶i có th¬ nhìn th¤y nhæng v§t tàng hình, duy trì trong 20 giây.",
+424,"Tâm Höa","Tång mÑc sát thß½ng Ph§t Pháp và Höa H® lên $PartyDPS(MWLev(424),1)*0.2$ ði¬m, duy trì trong 30 phút. Không th¬ kªt hþp v¾i Phòng Tñ Quyªt.",
+425,"Phòng Tñ Quyªt","Nâng khí huyªt $PartyHP(MWLev(425),1)*0.25$ ði¬m, duy trì 30 phút, không th¬ kªt hþp v¾i Tâm Höa .",
+426,"Phá Tñ Quyªt","L§p tÑc giäi tr× trÕng thái choáng gây ra b·i kÛ nång Th¤t H°n Thanh Xu¤t cüa Thanh Thành †n Giä",
+427,"T× Bi","MÑc ðµ thù h§n cüa m²i l¥n t¤n công tång $PartyDPS(MWLev(427),1)*0.25$ ði¬m, duy trì 30 phút.",
+428,"Xä Thân","B¡t buµc quái v§t xung quanh t¤n công bän thân trong 10 giây.",
+431,"Tång cß¶ng Tu La - Nhçn","T¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, tång mµt chï s¯ cß¶ng lñc.","Giäm tinh lñc hao phí cüa Tu La -Nhçn xu¯ng $SkillLevel(431)*2$ ði¬m.
+C¤p 1: 2 ði¬m
+C¤p 2: 4 ð¬im
+C¤p 3: 6 ði¬m
+C¤p 4: 8 ði¬m
+C¤p 5 : 10 ði¬m"
+432,"Tång cß¶ng Tu La - Bµc","Cß¶ng lñc bµc phát, dña vào chï s¯ cß¶ng lñc ð¬ quyªt ð¸nh mÑc sát thß½ng tÕo ra.
+1 chï s¯ Cß¶ng lñc s¨ gây ra $100*(1+SkillLevel(432)*0.03)$% + $DmgMin((1+SkillLevel(432)*0.03)*ActorDPS*1)$-$DmgMax((1+SkillLevel(432)*0.03)*ActorDPS*1)$ ði¬m sát thß½ng
+2 chï s¯ Cß¶ng lñc s¨ gây ra $200*(1+SkillLevel(432)*0.03)$% + $DmgMin((1+SkillLevel(432)*0.03)*ActorDPS*2)$-$DmgMax((1+SkillLevel(432)*0.03)*ActorDPS*2)$ ði¬m sát thß½ng
+3 chï s¯ Cß¶ng lñc s¨ gây ra $300*(1+SkillLevel(432)*0.03)$% + $DmgMin((1+SkillLevel(432)*0.03)*ActorDPS*3)$-$DmgMax((1+SkillLevel(432)*0.03)*ActorDPS*3)$ ði¬m sát thß½ng
+4 chï s¯ Cß¶ng lñc s¨ gây ra $400*(1+SkillLevel(432)*0.03)$% + $DmgMin((1+SkillLevel(432)*0.03)*ActorDPS*4)$-$DmgMax((1+SkillLevel(432)*0.03)*ActorDPS*4)$ ði¬m sát thß½ng
+5 chï s¯ Cß¶ng lñc s¨ gây ra $500*(1+SkillLevel(432)*0.03)$% + $DmgMin((1+SkillLevel(432)*0.03)*ActorDPS*5)$-$DmgMax((1+SkillLevel(432)*0.03)*ActorDPS*5)$ ði¬m sát thß½ng
+","Tång mÑc sát thß½ng cüa Tu La - Bµc lên $SkillLevel(432)*3$%.
+C¤p 1: 3%
+C¤p 2: 6%
+C¤p 3: 9%
+C¤p 4: 12%
+C„p 5: 15%"
+433,"Tång cß¶ng Tu La - Phá","Cß¶ng lñc bÑc phá, tÕo ra $DmgMin(ActorDPS*1.1)$-$DmgMax(ActorDPS*1.1)$ ði¬m sát thß½ng, dña vào chï s¯ cß¶ng lñc quyªt ð¸nh th¶i gian gây choáng ð¯i thü 
+1 ði¬m: 1 giây
+2 ði¬m: 2 giây
+3 ði¬m: 3 giây
+4 ði¬m: 4 giây
+5 ði¬m: 5 giây","Møc tiêu sau khi b¸ Tu La - Phá t¤n công s¨ r½i vào trÕng thái yªu, ch¸u thêm $SkillLevel(433)*6$% sát thß½ng Ph§t Pháp."
+434,"Tång cß¶ng Tu La -†n","Ðánh lén møc tiêu, tÕo ra $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m sát thß½ng, b¡t buµc phäi t¤n công t× phía sau møc tiêu, tång thêm mµt chï s¯ cß¶ng lñc.","Tång xác su¤t bÕo kích cuä Tu La -†n lên $SkillLevel(434)*4$%.
+C¤p 1: 4%
+C¤p 2: 8%
+C¤p 3: 12%
+C¤p 4: 16%
+C¤p 5: 20%"
+435,"Tång cß¶ng Tu La - Ð¸nh","T¤n công t× xa b¢ng sóng ánh sáng, tÕo ra $DmgMin(ActorDPS*1.2*(1+SkillLevel(435)*0.06))$-$DmgMax(ActorDPS*1.2*(1+SkillLevel(435)*0.06))$ ði¬m sát thß½ng ð°ng th¶i làm møc tiêu b¸ choáng 3 giây.
+","Tång sÑc sát thß½ng cüa Tu La - Ð¸nh lên $SkillLevel(435)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+436,"Tång cß¶ng sát thß½ng Ph§t Pháp",,"Tång mÑc sát thß½ng Ph§t Pháp H® lên $SkillLevel(436)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+437,"Tång cß¶ng xác su¤t bÕo kích Ph§t Pháp",,"Tång xác su¤t bÕo kích cüa Ph§t Pháp H® lên $SkillLevel(437)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+438,"Tång cß¶ng sát thß½ng bÕo kích Ph§t Pháp",,"Tång mÑc sát thß½ng do bÕo kích cüa Ph§t Pháp H® lên $SkillLevel(438)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+441,"V§n Chiªn Ý ","L§p tÑc tång 100 ði¬m tinh lñc.",
+442,"Ti«m Sát Khí ","Ðòn t¤n công Ph§t Pháp tiªp theo s¨ là bÕo kích.",
+451,"Tång cß¶ng ÐÕi Lñc Kim Cang","T¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng ð°ng th¶i gây choáng møc tiêu trong 5 giây.","Giäm th¶i gian ch¶ cüa ÐÕi Lñc Kim Cang xu¯ng $SkillLevel(451)*20$ giây.
+C¤p 1: 20 giây
+C¤p 2: 40 giây
+C¤p 3: 60 giây
+C¤p 4: 80 giây
+C¤p 5: 100 giây"
+452,"Tång cß¶ng Kim Cang B¤t HoÕi","Tång cß¶ng vòng kim cang hµ thân, trong $10+SkillLevel(452)$ giây giäm sát thß½ng bình thß¶ng xu¯ng $PartyDPS(MWLev(422),1)*2.5$ ði¬m, giäm sát thß½ng pháp thu§t xu¯ng $PartyDPS(MWLev(422),1)*0.5$ði¬m.","Kéo dài th¶i gian hi®u lñc cüa Kim Cang B¤t HoÕi lên $SkillLevel(452)*1$giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+453,"Tång cß¶ng Tâm Ðång","Th¡p mµt ng÷n tâm ðång, khiªn cho kë ð¸ch trong phÕm vi 200 giäm 50% t¯c ðµ di chuy¬n, ð°ng th¶i có th¬ nhìn th¤y nhæng v§t tàng hình, duy trì trong 20 giây.","Tång thanh sinh m®nh cüa Tâm Ðång lên $SkillLevel(453)*100$ ði¬m.
+C¤p 1: 100 ði¬m
+C¤p 2: 200 ði¬m
+C¤p 3: 300 ði¬m
+C¤p 4: 400 ði¬m
+C¤p 5: 500 ði¬m"
+454,"Tång cß¶ng Tâm Höa","Tång mÑc sát thß½ng Ph§t Pháp và Höa H® lên $PartyDPS(MWLev(424),1)*0.2*(1+SkillLevel(454)*0.1)$ ði¬m, duy trì trong 30 phút.","Sau khi tång cß¶ng, hi®u quä cüa Tâm Höa s¨ tång $SkillLevel(454)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+455,"Tång cß¶ng Phòng Tñ Quyªt","Nâng khí huyªt $PartyHP(MWLev(425),1)*0.25*(1+SkillLevel(454)*0.1)$ ði¬m, duy trì 30 phút , ðcó th¬ kªt hþp v¾i Tâm Höa.","Tång hi®u quä cüa Phòng Tñ Quyªt lên $SkillLevel(455)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+456,"Tång cß¶ng Phá Tñ Quyªt","L§p tÑc giäi tr× trÕng thái choáng gây ra b·i kÛ nång cüa Thanh Thành †n Giä.","Sau khi tång cß¶ng, giäm $SkillLevel(456)*3$ giây th¶i gian ch¶ cüa Phá Tñ Quyªt
+C¤p 1: 3 giây 
+C¤p 2: 6 giây
+C¤p 3: 9 giây
+C¤p 4: 12 giây
+C¤p 5: 15 giây"
+457,"Tång cß¶ng T× Bi","MÑc ðµ thù h§n cüa m²i l¥n t¤n công tång $PartyDPS(MWLev(427),1)*0.25*(1+SkillLevel(457)*0.2)$ ði¬m, duy trì 30 phút.","Tång hi®u quä cüa T× Bi lên $SkillLevel(457)*20$%.
+C¤p 1: 20%
+C¤p 2: 40%
+C¤p 3: 60%
+C¤p 4: 80%
+C¤p 5: 100%"
+458,"Tång cß¶ng Xä Thân","B¡t buµc quái v§t xung quanh t¤n công bän thân trong $10+SkillLevel(458)$ giây.","Kéo dài th¶i gian hi®u quä cüa Xä Thân lên $SkillLevel(458)$ giây.
+C¤p 1:: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+461,"Tång cß¶ng T¸ch Di®t - Xuyên Vân","Thåm dò møc tiêu, tÕo ra $DmgMin(ActorDPS)*(1+SkillLevel(461)*0.06)$-$DmgMax(ActorDPS)*(1+SkillLevel(461)*0.06)$ ði¬m sát thß½ng.","Tång mÑc sát thß½ng cüa Xuyên Vân lên $SkillLevel(461)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+462,"Tång cß¶ng T¸ch Di®t - Phøc Ma","T¤n công møc tiêu mãnh li®t, tÕo ra $DmgMin(ActorDPS*2)$-$DmgMax(ActorDPS*2)$ ði¬m sát thß½ng , tång giá tr¸ thanh thù h§n.","MÑc ðµ thù h§n do Phøc Ma tÕo ra s¨ tång lên $SkillLevel(462)*12$%.
+C¤p 1: 12%
+C¤p 2: 24%
+C¤p 3: 36%
+C¤p 4: 48%
+C¤p 5: 60%"
+463,"Tång cß¶ng T¸ch Di®t - Phá Giáp","Dùng lØa t¤n công xuyên qua áo giáp cüa møc tiêu , tÕo ra $DmgMin(ActorDPS*1.2)$-$DmgMax(ActorDPS*1.2)$ ði¬m sát thß½ng, ð°ng th¶i giäm $DRRToArmor(0.1*(1+SkillLevel(463)*0.2),MWLev(413))$ ði¬m phòng ngñ cüa ð¯i phß½ng, duy trì 1 phút.","Tång hi®u quä cüa Phá Giáp lên $SkillLevel(463)*20$%.
+C¤p 1: 20%
+C¤p 2: 40%
+C¤p 3: 60%
+C¤p 4: 80%
+C¤p 5: 100%"
+464,"Tång cß¶ng T¸ch Di®t - Phçn Tâm","Thiêu røi møc tiêu, gây $DmgMin(ActorDPS*0.5)$-$DmgMax(ActorDPS*0.5)$ ði¬m sát thß½ng và khiªn cho møc tiêu phäi ch¸u $(ActorDPS*2.5+1)*(1+SkillLevel(464)*0.1)$ ði¬m sát thß½ng höa, ð°ng th¶i có th¬ công kích 3 møc tiêu","Tång mÑc sát thß½ng do lØa thiêu cüa Phçn Tâm lên $SkillLevel(464)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+465,"Tång cß¶ng T¸ch Di®t - ÐÕi Bi","Mê ho£c møc tiêu, gây $DmgMin(ActorDPS*0.8)$-$DmgMax(ActorDPS*0.8)$ ði¬m sát thß½ng,khiªn sÑc sát thß½ng cüa møc tiêu b¸ m¤t $ActorDPS*0.2+1$ ði¬m trong 30 giây v¾i $SkillLevel(465)*5$% khä nång gây choáng trong 5 giây.","Tång xác su¤t làm møc tiêu b¸ choáng trong 5 giây cüa T× Bi lên $SkillLevel(465)*5$% .
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+466,"Tång cß¶ng sát thß½ng Höa H® ",,"Tång mÑc sát thß½ng cüa Höa H® lên $SkillLevel(466)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+467,"Tång cß¶ng xác su¤t bÕo kích cüa Höa H®",,"Tång xác su¤t bÕo kích cüa Höa H® lên $SkillLevel(467)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+468,"Tång cß¶ng xác su¤t ch¯ng ðÞ ",,"Tång $SkillLevel(468)*4$% xác su¤t ch¯ng ðÞ 
+C¤p 1: 4%
+C¤p 2: 8%
+C¤p 3: 12%
+C¤p 4: 16%
+C¤p 5: 20%"
+471,"Phøc H± Quyªt","Xác su¤t ch¯ng ðÞ tång 100%, duy trì trong 30 giây, trong th¶i gian này khí huyªt khôi phøc 50%.",
+472,"Giáng Long Quyªt","Buµc quái v§t t¤n công bän thân trong 10 giây, trong th¶i gian này tång mÑc ðµ thù h§n lên cao.",
+501,"Thiªt Sách Lan Giang","T¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng.",
+502,"Lñc Phách Hoa S½n","Gây choáng møc tiêu, khiªn ð¯i phß½ng hôn mê 2 giây.",
+503,"Phiên Giang Giäo Häi","T¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS)*2$-$DmgMax(ActorDPS)*2$ ði¬m sát thß½ng.",
+504,"Lôi Ðình Cän Phá ","T¤n công theo phÕm vi, khiªn t¯c ðµ di chuy¬n cüa kë thù xung quanh giäm 80%, duy trì trong 5 giây.T¤n công t¯i ða 5 ð¯i thü .",
+505,"Hoành Täo Thiên Quân","T¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS)*0.9$-$DmgMax(ActorDPS)*0.9$ ði¬m sát thß½ng .T¤n công t¯i ða 5 ð¯i thü .",
+511,"Khinh Thích","T¤n công møc tiêu , tÕo ra $DmgMin(ActorDPS)*1$-$DmgMax(ActorDPS)*1$ ði¬m sát thß½ng.",
+512,"Th¤t H°n Thanh Xu¤t","Lþi døng thanh âm d¸ thß¶ng phát ra khi vû khí va chÕm, khiªn møc tiêu r½i vào trÕng thái m¤t h°n trong 3 giây , s¨ tïnh lÕi khi b¸ t¤n công.",
+513,"T¤n Lôi","T¤n công nhanh, khiªn møc tiêu hôn mê 2 giây.",
+514,"Tr÷ng Träm","T¤n công møc tiêu, gây $DmgMin(ActorDPS)*2$-$DmgMax(ActorDPS)*2$ ði¬m sát thß½ng.",
+515,"Ðµc Thích","Møc tiêu b¸ t¤n công s¨ trúng ðµc tÑc thì , trong 5 giây t¯c ðµ di chuy¬n giäm 50%.",
+521,"T§t Hành Thu§t","T¯c ðµ di chuy¬n tång 50%, duy trì trong 15 giây.",
+522,"Äo Hß Bµ ","Xác su¤t né tránh trong 15 giây tång 50%.",
+523,"Tr¤n H°n Quyªt","Kh¯ng chª quái v§t, khiªn quái v§t ðÑng yên trong 15 giây.",
+524,"Hµ Thân Quyªt","Phòng v® v§t lí tång $DRRToArmor(0.1,MWLev(524))$ ði¬m.",
+525,"Mê Äo Tr§n","M²i l¥n t¤n công mÑc thù h§n giäm $PartyDPS(MWLev(525),2)*0.25$ ði¬m.",
+526,"Ngû Hành Tr§n","Phòng v® pháp thu§t tång $DRRToArmor(0.35,MWLev(526))$ ði¬m.",
+527,"Long Ngâm","Gây choáng møc tiêu xung quanh trong 5 giây, änh hß·ng t¯i ða 5 møc tiêu , tÕo ra $DmgMin(ActorDPS*1.1)$-$DmgMax(ActorDPS*1.1)$ ði¬m sát thß½ng.",
+528,"Tß¾c Minh","L§p tÑc giäi tr× trÕng thái giäm t¯c ðµ.",
+551,"Tång cß¶ng Thiªt Sách Lan Giang","T¤n công møc tiêu, gây $DmgMin(ActorDPS)*(1+SkillLevel(551)*0.05)$-$DmgMax(ActorDPS)*(1+SkillLevel(551)*0.05)$ ði¬m sát thß½ng.","MÑc sát thß½ng tång $SkillLevel(551)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+552,"Tång cß¶ng Lñc Phách Hoa S½n","Gây choáng møc tiêu, khiªn ð¯i phß½ng hôn mê trong $2+SkillLevel(552)*0.5$ giây.","Th¶i gian hôn mê kéo dài $SkillLevel(552)*0.5$ giây.
+C¤p 1: 0.5 giây
+C¤p 2: 1.0 giây
+C¤p 3: 1.5 giây
+C¤p 4: 2.0 giây
+C¤p 5: 2.5giây"
+553,"Tång cß¶ng Phiên Giang Giäo Häi","T¤n công møc tiêu, gây $DmgMin(ActorDPS)*2$-$DmgMax(ActorDPS)*2$ ði¬m sát thß½ng.","MÑc sát thß½ng do bÕo kích tång $SkillLevel(553)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4:  40%
+C¤p 5: 50%"
+554,"Tång cß¶ng Lôi Ðình Cän Phá ","T¤n công theo phÕm vi, khiªn t¯c ðµ di chuy¬n cüa kë thù trong phÕm vi giäm 80%, duy trì trong 5 giây.T¤n công t¯i ða 5 ð¯i thü .","Th¶i gian ch¶ giäm $SkillLevel(554)$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây 
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+555,"Tång cß¶ng Hoành Täo Thiên Quân","T¤n công theo phÕm vi, gây $DmgMin(ActorDPS)*0.9$-$DmgMax(ActorDPS)*0.9$ di¬m sát thß½ng.T¤n công t¯i ða 5 ð¯i thü .","Xác su¤t bÕo kích tång $SkillLevel(555)*4$%.
+C¤p 1: 4%
+C¤p 2: 8%
+C¤p 3: 12%
+C¤p 4: 16%
+C¤p 5: 20%"
+556,"Tång cß¶ng sát thß½ng Lôi H® ",,"Tång mÑc sát thß½ng Lôi H® lên $SkillLevel(556)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+557,"Tång cß¶ng bÕo kích cüa Lôi H® ",,"Tång xác su¤t bÕo kích cüa  Lôi H® lên $SkillLevel(557)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+558,"Tång cß¶ng né tránh",,"Tång xác su¤t né tránh lên $SkillLevel(558)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+559,"Liên miên b¤t tuy®t",,
+560,"Cu°ng phong ðÕi sát",,
+561,"Tång cß¶ng Khinh Thích","T¤n công møc tiêu, gây $DmgMin(ActorDPS*(1+SkillLevel(561)*0.06))$-$DmgMax(ActorDPS*(1+SkillLevel(561)*0.06))$ði¬m sát thß½ng.","MÑc sát thß½ng tång $SkillLevel(561)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+562,"Tång cß¶ng Th¤t H°n Thanh Xu¤t","Lþi døng thanh âm d¸ thß¶ng phát ra khi vû khí va chÕm, khiªn møc tiêu r½i vào trÕng thái m¤t h°n trong $3+SkillLevel(562)*0.5$ giây, chï tïnh lÕi khi b¸ t¤n công.","Th¶i gian hi®u lñc kéo dài $SkillLevel(562)*0.5$ giây.
+C¤p 1: 0.5 giây
+C¤p 2: 1.0 giây
+C¤p 3: 1.5 giây
+C¤p 4: 2.0 giây
+C¤p 5: 2.5 giây"
+563,"Tång cß¶ng T¤n Lôi","T¤n công nhanh, khiªn møc tiêu hôn mê trong 2 giây.","th¶i gian ch¶ giäm $SkillLevel(563)*1$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+564,"Tång cß¶ng Tr÷ng Träm","T¤n công møc tiêu, gây $DmgMin(ActorDPS)*2$-$DmgMax(ActorDPS)*2$ ði¬m sát thß½ng.","Tång mÑc sát thß½ng do bÕo kích lên $SkillLevel(564)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+565,"Tång cß¶ng Ðµc Thích","Khiªn mñc tiêu trúng ðµc, trong $5+SkillLevel(565)$ giây t¯c ðµ di chuy¬n giäm 50%.","Kéo dài $SkillLevel(565)*1$ giây hi®u lñc cüa ðµc t¯ .
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+566,"Tång cß¶ng sát thß½ng Ðµc H® ",,"Tång mÑc sát thß½ng cüa Ðµc H® lên $SkillLevel(566)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+567,"Tång cß¶ng sát thß½ng do bÕo kích cüa Ðµc H® ",,"Tång mÑc sát thß½ng do bÕo kích cüa Ðµc H® lên $SkillLevel(567)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+568,"Tång cß¶ng xác su¤t bÕo kích cüa Ðµc H® ",,"Tång xác su¤t bÕo kích cüa Ðµc H® lên $SkillLevel(568)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+569,"Äo änh lßu ðµng",,
+570,"T¤t sát nh¤t chiêu",,
+571,"Tång cß¶ng T§t Hành Thu§t","Tång t¯c ðµ di chuy¬n lên $50+SkillLevel(571)*5$%, duy trì trong 15 giây.","Tång t¯c ðµ di chuy¬n lên $SkillLevel(571)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+572,"Tång cß¶ng Äo Hß Bµ ","Trong $15+SkillLevel(572)$ giây xác su¤t né tránh tång 50%.","Th¶i gian hi®u lñc kéo dài $SkillLevel(572)*1$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+573,"Tång cß¶ng Tr¤n H°n Quyªt","Kh¯ng chª quái v§t, khiªn quái v§t b¤t ðµng trong $15+SkillLevel(573)*2$ giây.","Th¶i gian hi®u lñc kéo dài $SkillLevel(573)*2$ giây.
+C¤p 1: 2 giây
+C¤p 2: 4 giây
+C¤p 3: 6 giây
+C¤p 4: 8 giây
+C¤p 5: 10 giây"
+574,"Tång cß¶ng Hµ Thân Quyªt","Tång sÑc phòng thü v§t lí lên $DRRToArmor(0.1,MWLev(524))*(1+SkillLevel(574)*0.05)$ ði¬m.","Tång sÑc phòng thü v§t lí lên $SkillLevel(574)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+575,"Tång cß¶ng Mê Äo Tr§n","M²i l¥n t¤n công mÑc ðµ thù h§n giäm $PartyDPS(MWLev(525),2)*0.25*(1+SkillLevel(575)*0.1)$ ði¬m.","MÑc ðµ thù h§n giäm $SkillLevel(575)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+576,"Tång cß¶ng Ngû Hành Tr§n","Tång sÑc phòng v® pháp thu§t lên $DRRToArmor(0.35,MWLev(526))*(1+SkillLevel(576)*0.1)$ ði¬m.","Tång mÑc phòng v® pháp thu§t lên $SkillLevel(576)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+577,"Tång cß¶ng Long Ngâm","Gây choáng møc tiêu xung quanh trong 5 giây, änh hß·ng t¯i ða 5 møc tiêu , ð°ng th¶i gây $DmgMin(ActorDPS*1.1*(1+SkillLevel(577)*0.1))$-$DmgMax(ActorDPS*1.1*(1+SkillLevel(577)*0.1))$ ði¬m sát thß½ng.","Sát thß½ng tång lên $SkillLevel(577)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+578,"Tång cß¶ng Tß¾c Minh","L§p tÑc giäi tr× trÕng thái giäm t¯c ðµ.","th¶i gian ch¶ giäm $SkillLevel(578)*6$ giây.
+C¤p 1: 6 giây
+C¤p 2: 12 giây
+C¤p 3: 18 giây
+C¤p 4: 24 giây
+C¤p 5: 30 giây"
+601,"Li®t Giáp Phá ","Ni®m pháp thu§t vào ð¥u mûi tên ð¬ phá vÞ giáp dày cüa møc tiêu, gây $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng, ð°ng th¶i làm giäm $DRRToArmor(0.1,MWLev(601))$ ði¬m phòng v® cüa møc tiêu , duy trì trong 10 giây.",
+602,"Liên Kích Phá ","B¡n tên v¾i t¯c ðµ cñc nhanh, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng cho møc tiêu.",
+603,"Kinh Cúc Phá ","SØ døng Kinh Cúc ti­n ð¬ gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ sát thß½ng, ð°ng th¶i gây r¯i loÕn møc tiêu, khiªn t¯c ðµ di chuy¬n giäm 50%, duy trì trong 5 giây.","Hß¾ng dçn Ti«m nång, chà ..."
+604,"Vô Änh Phá ","Lþi døng sÑc mÕnh vô song cüa ðòn công kích äo änh, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng, ð°ng th¶i giäm sÑc t¤n công cüa møc tiêu xu¯ng $ActorDPS*1/5+1$ ði¬m.","Hß¾ng dçn Ti«m nång, chà ..."
+605,"Di®t H°n Phá ","B¡n ra nhi«u mûi tên cùng mµt lúc, trong phÕm vi nhö có th¬ t¤n công 3 møc tiêu, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.","Hß¾ng dçn Ti«m nång, chà ..."
+611,"Tiên C¥m S½ Minh","Dùng tên nö t¤n công kë thù, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.","Hß¾ng dçn Ti«m nång, chà ..."
+612,"Xà Ðµc Ti­n Phóng","Dùng tên t¦m cñc ðµc t¤n công møc tiêu, trong vòng 6 giây ,t±ng lßþng ði¬m sát thß½ng liên tøc gây ra là $(ActorDPS)*2+1$.",
+613,"Linh Thú Mãnh Ti­n Công","Truy«n sÑc mÕnh cüa linh thú lên ð¥u mûi tên, khiªn møc tiêu b¸ choáng 3 giây, ð°ng th¶i gây $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng.",
+614,"H§u Ngh® XÕ Thu§t","Thu§t b¡n cung h÷c ðßþc t× th¥n ti­n H§u Ngh®, gây mÑc sát thß½ng là $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$.","Hß¾ng dçn Ti«m nång, chà ..."
+615,"Phi ¿ng Ðµt Kích","Ðòn công kích ch¾p nhoáng nhß phi ßng, gây $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng, nhßng th¶i gian h°i phøc tß½ng ð¯i dài.","Hß¾ng dçn Ti«m nång, chà ..."
+621,"Nhiên Sinh Thú Li®u","V§n døng sÑc mÕnh thiên nhiên ð¬ tr¸ li®u cho thú nuôi, tr¸ ðßþc $HealPS(MWLev(621))*1.5*2+20$ ði¬m thß½ng tích.","Hß¾ng dçn Ti«m nång, chà ..."
+622,"Linh Thú Phøc Sinh","H°i sinh thú nuôi, ð°ng th¶i phøc h°i $MonsterGetHp(MWLev(622))*0.3$ ði¬m sinh m®nh.","Hß¾ng dçn Ti«m nång, chà ..."
+623,"Dã Tính Kích Phát","Tång thù h§n cüa thú nuôi gây ra lên $PartyDPS(MWLev(623),4)*8$ ði¬m.","Hß¾ng dçn Ti«m nång, chà ..."
+624,"C¤p hi®u chi ðµc","T¦m ch¤t cñc ðµc lên vû khí, s¨ có 20% khä nång trong lúc t¤n công tång mÑc sát thß½ng lên $PartyDPS(MWLev(624),4)*0.2$ ði¬m, hi®u quä duy trì trong 10 giây, có th¬ sØ døng 30 l¥n.","Hß¾ng dçn Ti«m nång, chà ..."
+625,"Hôn mê chi ðµc","T¦m ch¤t cñc ðµc lên vû khí, s¨ có 20% khä nång trong lúc t¤n công làm giäm t¯c ðµ di chuy¬n cuä møc tiêu xu¯ng 50%, duy trì trong 10 giây, có th¬ sØ døng 30 l¥n.","Hß¾ng dçn Ti«m nång, chà ..."
+626,"Nhßþc hóa chi ðµc","T¦m ch¤t cñc ðµc lên vû khí, s¨ có 20% khä nång trong lúc t¤n công giäm sÑc t¤n công cüa møc tiêu xu¯ng $PartyDPS(MWLev(626),4)*0.1$ ði¬m, duy trì trong 10 giây, có th¬ sØ døng 30 l¥n.",
+627,"Càn Khôn Giäi Pháp","Trßng døng sÑc mÕnh cüa tñ nhiên, giäi tr× t¤t cä hi®u Ñng giäm t¯c ðµ .",
+628,"Thiên Càn V® Thú ","Tång sÑc phòng v® v§t lí cüa thú nuôi lên $DRRToArmor(0.2,MWLev(628))$ ði¬m, duy trì trong 30 phút.","Hß¾ng dçn Ti«m nång, chà ..."
+629,"Ð¸a Khôn Thú Công","Tång sÑc t¤n công v§t lí cüa thú nuôi lên $MonsterGetDPS(MWLev(629))*0.3$ ði¬m, duy trì trong 30 phút.","Hß¾ng dçn Ti«m nång, chà ..."
+630,"Höa Di®m Thiên La","Ð£t h¯ bçy lØa trên m£t ð¤t, ðÑng g¥n h¯ bçy s¨ b¸ lØa thiêu, duy trì trong 6 giây, tÕo thành t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*2+1$.","Hß¾ng dçn Ti«m nång, chà ..."
+631,"Hàn Bång Ð¸a Võng","Ð£t h¯ bçy bång trên m£t ð¤t, ðÑng g¥n h¯ bçy s¨ b¸ ðông cÑng, không th¬ di chuy¬n, s¨ ðßþc giäi thoát nªu b¸ công kích.","Hß¾ng dçn Ti«m nång, chà ..."
+651,"Tång cß¶ng Li®t Giáp Phá ","Ni®m pháp thu§t vào ð¥u mûi tên ð¬ phá vÞ giáp dày cüa møc tiêu, gây $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng, ð°ng th¶i tång khä nång giäm sÑc phòng v® cüa møc tiêu $DRRToArmor(0.1+SkillLevel(651)*0.02,MWLev(601))$ ði¬m, duy trì trong 10 giây.","Tång khä nång làm giäm sÑc phòng v® møc tiêu cüa Li®t Giáp Phá lên $SkillLevel(651)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+652,"Tång cß¶ng Liên Kích Phá ","B¡n tên v¾i t¯c ðµ cñc nhanh, gây $DmgMin(ActorDPS*1.5)*(1+SkillLevel(652)*0.05)$-$DmgMax(ActorDPS*1.5)*(1+SkillLevel(652)*0.05)$ ði¬m sát thß½ng.","Tång sÑc t¤n công cüa Liên Kích Phá lên $SkillLevel(652)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+653,"Tång cß¶ng Kinh Cúc Phá ","SØ døng Kinh Cúc ti­n ð¬ gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ sát thß½ng, ð°ng th¶i gây r¯i loÕn møc tiêu, khiªn t¯c ðµ di chuy¬n giäm $50+SkillLevel(653)*5$%, duy trì trong 5 giây.","Tång $SkillLevel(653)*5$% hi®u lñc giäm t¯c ðµ di chuy¬n cüa Kinh Cúc Phá  .
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+654,"Tång cß¶ng Vô Änh Phá ","Lþi døng sÑc mÕnh vô song cüa ðòn công kích äo änh, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng, ð°ng th¶i giäm sÑc t¤n công cüa møc tiêu xu¯ng $ActorDPS*(0.2+SkillLevel(654)*0.03)+1$ ði¬m.","Tång $SkillLevel(654)*3$% hi®u lñc giäm sÑc t¤n công cüa Vô Änh Phá .
+C¤p 1: 3%
+C¤p 2: 6%
+C¤p 3: 9%
+C¤p 4: 12%
+C¤p 5: 15%"
+655,"Tång cß¶ng Di®t H°n Phá ","B¡n ra nhi«u mûi tên cùng mµt lúc, trong phÕm vi nhö có th¬ t¤n công 3 møc tiêu, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.","Giäm mÑc tiêu hao pháp lñc cüa Di®t H°n Phá xu¯ng $SkillLevel(655)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+656,"Tång cß¶ng sát thß½ng Thüy H® ",,"Tång mÑc sát thß½ng cüa Thüy H® lên $SkillLevel(656)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+657,"Tång cß¶ng sát thß½ng bÕo kích cüa Thüy H® ",,"Tång mÑc sát thß½ng bÕo kích cüa Thüy H® lên $SkillLevel(657)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+658,"Tång cß¶ng bÕo kích cüa Thüy H® ",,"Tång xác su¤t bÕo kích cüa Thüy H® lên $SkillLevel(658)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+659,"Cu°ng Phong Bµ Pháp",,"Tång t¯c ðµ di chuy¬n lên 50%, duy trì trong 15 giây."
+660,"Lôi Ði®n D¸ch Chuy¬n",,"Di chuy¬n ðªn cñ ly ng¡n trong ch¾p m¡t."
+661,"Tång cß¶ng Tiên C¥m S½ Minh","Dùng tên nö t¤n công kë thù, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng.","Giäm th¶i gian ch¶ cüa KÛ nång Tiên C¥m S½ Minh xu¯ng 0.$SkillLevel(661)$ giây.
+C¤p 1: 0.1 giây
+C¤p 2: 0.2 giây
+C¤p 3: 0.3 giây
+C¤p 4: 0.4 giây
+C¤p 5: 0.5 giây"
+662,"Tång cß¶ng Xà Ðµc Ti­n Phóng","Dùng tên t¦m cñc ðµc t¤n công møc tiêu, trong vòng 6 giây ,t±ng lßþng ði¬m sát thß½ng tÕo ra duy trì ðßþc là $(ActorDPS)*2*(1+SkillLevel(662)*0.05)+1$.","Tång hi®u quä sát thß½ng cüa Xà Ðµc Ti­n Phóng lên $SkillLevel(662)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+663,"Tång cß¶ng Linh Thú Mãnh Ti­n Công","Truy«n sÑc mÕnh cüa linh thú lên ð¥u mûi tên, khiªn møc tiêu b¸ choáng 3 giây, ð°ng th¶i gây $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng.","Giäm th¶i gian h°i phøc cüa KÛ nång Linh Thú Mãnh Ti­n Công xu¯ng $SkillLevel(663)*1$ giây.
+C¤p 1: 1 giây
+C¤p 2: 2 giây
+C¤p 3: 3 giây
+C¤p 4: 4 giây
+C¤p 5: 5 giây"
+664,"Tång cß¶ng H§u Ngh® XÕ Thu§t","Thu§t b¡n cung h÷c ðßþc t× th¥n ti­n H§u Ngh®, gây mÑc sát thß½ng là $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$.","Giäm mÑc tiêu hao pháp lñc cüa H§u Ngh® XÕ Thu§t xu¯ng $SkillLevel(664)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+665,"Tång cß¶ng Phi ¿ng Ðµt Kích","Ðòn công kích ch¾p nhoáng nhß phi ßng, gây $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng, nhßng th¶i gian h°i phøc tß½ng ð¯i dài.","Giäm th¶i gian h°i phøc cüa KÛ nång Phi ¿ng Ðµt Kích xu¯ng $SkillLevel(665)*3$ giây.
+C¤p 1: 3 giây
+C¤p 2: 6 giây
+C¤p 3: 9 giây
+C¤p 4: 12 giây
+C¤p 5: 15 giây"
+666,"Tång cß¶ng sát thß½ng Ðµc H® ",,"Tång mÑc sát thß½ng cüa Ðµc H® lên $SkillLevel(666)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+667,"Tång cß¶ng sát thß½ng bÕo kích cüa Ðµc H® ",,"Tång mÑc sát thß½ng bÕo kích cüa Ðµc H® lên $SkillLevel(667)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+668,"Tång cß¶ng bÕo kích cüa Ðµc H® ",,"Tång xác su¤t bÕo kích cüa Ðµc H® lên $SkillLevel(668)*1$%.
+C¤p 1: 1%
+C¤p 2: 2%
+C¤p 3: 3%
+C¤p 4: 4%
+C¤p 5: 5%"
+669,"Long Ð¢ng Ng÷a Ðµc",,"SÑc t¤n công cüa KÛ nång Ðµc h® sau s¨ tång lên g¤p bµi."
+670,"Minh Kính Phän XÕ ",,"Ngoài bän thân ra, th¶i gian khôi phøc KÛ nång Ðµc H® l§p tÑc kªt thúc."
+671,"Tång cß¶ng Nhiên Sinh Thú Li®u","V§n døng sÑc mÕnh thiên nhiên ð¬ tr¸ li®u cho thú nuôi, tr¸ ðßþc $HealPS(MWLev(621))*1.5*2*(1+SkillLevel(671)*0.06)+20$ ði¬m thß½ng tích.","Tång hi®u quä li®u thß½ng cüa Nhiên Sinh Thú Li®u lên $SkillLevel(671)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+672,"Tång cß¶ng Linh Thú Phøc Sinh","H°i sinh thú nuôi, ð°ng th¶i phøc h°i $MonsterGetHp(MWLev(622))*0.3$ ði¬m sinh m®nh..","Giäm th¶i gian ch¶ cüa KÛ nång Linh Thú Phøc Sinh xu¯ng $SkillLevel(672)$ phút.
+C¤p 1: 1 phút
+C¤p 2: 2 phút
+C¤p 3: 3 phút
+C¤p 4: 4 phút
+C¤p 5: 5 phút"
+673,"Tång cß¶ng Dã Tính Kích Phát","Tång thù h§n cüa thú nuôi gây ra lên $PartyDPS(MWLev(623),4)*8*(1+SkillLevel(673)*0.2)$ ði¬m.","Tång hi®u quä nâng cao thù h§n cüa Dã Tính K¸ch Phát lên $SkillLevel(673)*20$%.
+C¤p 1: 20%
+C¤p 2: 40%
+C¤p 3: 60%
+C¤p 4: 80%
+C¤p 5: 100%"
+674,"Tång cß¶ng C¤p hi®u chi ðµc","T¦m ch¤t cñc ðµc lên vû khí, s¨ có 20% khä nång trong lúc t¤n công tång mÑc sát thß½ng lên $PartyDPS(MWLev(624),4)*(0.2+SkillLevel(674)*0.02)$ ði¬m, hi®u quä duy trì trong 10 giây, có th¬ sØ døng 30 l¥n.","Tång hi®u quä cüa C¤p hi®u chi ðµc lên $SkillLevel(674)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+675,"Tång cß¶ng Hôn mê chi ðµc","T¦m ch¤t cñc ðµc lên vû khí, s¨ có 20% khä nång trong lúc t¤n công làm giäm t¯c ðµ di chuy¬n cuä møc tiêu xu¯ng $50+SkillLevel(675)*5$%, duy trì trong 5 giây, có th¬ sØ døng 30 l¥n.","Tång hi®u quä làm giäm t¯c ðµ di chuy¬n cüa Hôn mê chi ðµc lên $SkillLevel(675)*5$%.
+C¤p 1: 5%
+C¤p 2: 10%
+C¤p 3: 15%
+C¤p 4: 20%
+C¤p 5: 25%"
+676,"Tång cß¶ng Nhßþc hóa chi ðµc","T¦m ch¤t cñc ðµc lên vû khí, s¨ có 20% khä nång trong lúc t¤n công giäm sÑc t¤n công cüa møc tiêu xu¯ng $PartyDPS(MWLev(626),4)*(0.2+SkillLevel(676)*0.02)$ ði¬m, duy trì trong 10 giây, có th¬ sØ døng 30 l¥n.","Tång cß¶ng hi®u quä cüa Nhßþc hóa chi ðµc lên $SkillLevel(676)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+677,"Tång cß¶ng Càn Khôn Giäi Pháp","SØ døng sÑc mÕnh cüa tñ nhiên, giäi tr× t¤t cä hi®u Ñng giäm t¯c ðµ..","Giäm th¶i gian phøc h°i KÛ nång cüa Càn Khôn Giäi Pháp xu¯ng$SkillLevel(677)*3$ giây.
+C¤p 1: 3 giây
+C¤p 2: 6 giây
+C¤p 3: 9 giây
+C¤p 4: 12 giây
+C¤p 5: 15 giây"
+678,"Tång cß¶ng Thiên Càn V® Thú ","Tång sÑc phòng v® v§t lí cüa thú nuôi lên $DRRToArmor(0.2*(1+SkillLevel(678)*0.06),MWLev(628))$ ði¬m, duy trì trong 30 phút.","Tång cß¶ng hi®u quä cüa Thiên Càn V® Thú  lên $SkillLevel(678)*6$%.
+C¤p 1: 6%
+C¤p 2: 12%
+C¤p 3: 18%
+C¤p 4: 24%
+C¤p 5: 30%"
+679,"Tång cß¶ng Ð¸a Khôn Thú Công","Tång sÑc t¤n công v§t lí cüa thú nuôi lên $MonsterGetDPS(MWLev(629))*(0.3+SkillLevel(679)*0.02)$ ði¬m, duy trì trong 30 phút.","Tång hi®u quä cüa Ð¸a Khôn Thú Công lên $SkillLevel(679)*2$%.
+C¤p 1: 2%
+C¤p 2: 4%
+C¤p 3: 6%
+C¤p 4: 8%
+C¤p 5: 10%"
+680,"Tång cß¶ng Höa Di®m Thiên La","Ð£t h¯ bçy lØa trên m£t ð¤t, ðÑng g¥n h¯ bçy s¨ b¸ lØa thiêu, duy trì trong 6 giây, tÕo thành t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*2*(1+SkillLevel(680)*0.1)+1$.","Tång sát thß½ng cüa Höa Di®m Thiên La lên $SkillLevel(680)*10$%.
+C¤p 1: 10%
+C¤p 2: 20%
+C¤p 3: 30%
+C¤p 4: 40%
+C¤p 5: 50%"
+681,"Tång cß¶ng Hàn Bång Ð¸a Võng","Ð£t h¯ bçy bång trên m£t ð¤t, ðÑng g¥n h¯ bçy s¨ b¸ ðông cÑng, không th¬ di chuy¬n và công kích. S¨ ðßþc giäi thoát nªu b¸ công kích, chï có hi®u lñc v¾i quái v§t.","Tång th¶i gian ðông cÑng cüa Hàn Bång Ð¸a Võng lên $SkillLevel(681)*3$ giây.
+C¤p 1: 3 giây
+C¤p 2: 6 giây
+C¤p 3: 9 giây
+C¤p 4: 12 giây
+C¤p 5: 15 giây"
+1000,"ThØ-Th¥n Cß¶ng Ki®n Thu§t","Hß¾ng dçn kÛ nång b¸ ðµng 1",
+1001,"ThØ-Th¥n H± Mãnh Thu§t","Hß¾ng dçn kÛ nång b¸ ðµng 1",
+1100,"Ðµc D¸ch Phún XÕ","KÛ nång cüa Tòng Lâm Xà Vß½ng",
+1101,"Xà Phï Ph± Công","Ðòn t¤n công cüa thü lînh Xà Phï",
+1102,"Ngô Công Ph± Công","Ðòn t¤n công cüa Ngô Công",
+1103,"QuÖ Höa Ph± Công","Ðòn t¤n công cüa QuÖ Höa",
+1104,"Ðµc Ma Cô Ph± Công","Ðòn t¤n công cüa Ðµc Ma Cô",
+1105,"BOSS Ngô Công Toän Ð¸a","BOSS Ngô Công Toän Ð¸a",
+1106,"BOSS Ngô Công Kim Hòan","BOSS Ngô Công Kim Hòan",
+1107,"BOSS QuÖ ÐÕo Quang Hòan","BOSS QuÖ ÐÕo Quang Hòan",
+1108,"BOSS QuÖ ÐÕo Lôi Quang","BOSS QuÖ ÐÕo Lôi Quang",
+1109,"Âm Dß½ng T¦u Bí KÛ ","KÛ nång cüa Âm Dß½ng T¦u",
+1110,"Xích di®m ÐÕo Nhân Bí KÛ ","KÛ nång cüa Xích Di®m ÐÕo Nhân",
+1111,"Thiªt Chung ÐÕo Nhân Bí KÛ ","KÛ nång cüa Thiªt Chung ÐÕo Nhân",
+1112,"Ác Xà Phóng Höa","Xà Quái phun c¥u lØa",
+1113,"Ác Xà Ðµc Vû","KÛ nång mßa ðµc cüa Xà Quái",
+1114,"Ph® Huyªt H°n Ph± Công","Ðòn t¤n công cüa Ph® Huyªt H°n",
+1115,"Ngøy Thanh Lôi Quang","Ngøy Thanh Lôi Quang",
+1116,"Kim Quang Ðïnh Phi Kiªm","Phi Kiªm cüa Kim Quang Ðïnh",
+1117,"Long Phi Phi Kiªm","Phi Kiªm cüa Long Phi",
+1118,"Th¬ Hoa T£c Phi Tiêu","Phi Tiêu cüa Th¬ Hoa T£c",
+1119,"Trß½ng Lßþng Ðao quang","Ðao cüa Trß½ng Lßþng",
+1120,"Thái Lang Phi Kiªm","Phi Kiªm cüa Thái Lang",
+1121,"TÜ Mãng Song Phi Kiªm","Song Phi Kiªm cüa TÜ Mãng",
+1122,"Dß½ng Hoa Phi Kiªm","Phi Kiªm cüa Dß½ng Hoa",
+1123,"Song Thân Xà Ph± Công","Ðòn t¤n công cüa Ph® Huyªt H°n",
+1124,"Kim T¢m Trùng Ph± Công","Ðòn t¤n công cüa Ph® Huyªt H°n",
+1125,"Kim T¢m Trùng Bí KÛ","Ðòn t¤n công cüa Ph® Huyªt H°n",
+1126,"Ðµc Dång Ph± Công","Ðòn t¤n công cüa Ph® Huyªt H°n",
+1127,"Løc Bào Lão T± Phi Thi«n","Song Phi Kiªm cüa TÜ Mãng",
+1128,"Løc Bào Lão T± Ðµc Vû Bí KÛ","KÛ nång mßa ðµc cüa Xà Quái",
+1129,"Trí Thông Thiªt Chung Bí KÛ","KÛ nång cüa Thiªt Chung ÐÕo Nhân",
+1130,"Trí Thông Quang Vû Bí KÛ","KÛ nång mßa ðµc cüa Xà Quái",
+1131,"Pháp Vân Quang Vû Bí KÛ","KÛ nång mßa ðµc cüa Xà Quái",
+1132,"Pháp Vân Höa Töa Bí KÛ","KÛ nång mßa ðµc cüa Xà Quái (Hi®u lñc trong mµt phÕm vi nh¤t ð¸nh)",
+1133,"Tri Phi Phi Thi«n","Song Phi Kiªm cüa TÜ Mãng",
+1134,"Hi¬u Nguy®t Công Kích","KÛ nång mßa ðµc cüa Xà Quái",
+1135,"Hi¬u Nguy®t Quang Vû","KÛ nång mßa ðµc cüa Xà Quái",
+1136,"Hà Hßng Bí KÛ","Ngøy Thanh Lôi Quang",
+1137,"¿u Thái Chân Vây Kh¯n","KÛ nång cüa Thiªt Chung ÐÕo Nhân",
+1138,"¿u Thái Chân Qu¥n Th¬ Phi Kiªm","BOSS Ngô Công Töan Ð¸a",
+1139,"H¡c Th¥n Phü Kích","Ðòn t¤n công b¢ng rìu cüa H¡c Th¥n",
+1140,"H¡c Th¥n Thu§n Chuy¬n","KÛ nång mßa ðµc cüa Xà Quái",
+1143,"Trung Nghîa Hµ Chü","Ð¬ cÑu chü nhân mà b¡t quái v§t t¤n công mình, duy trì trong 10 giây.",
+1144,"Truy tung","Tång t¯c truy tìm thú sån, t¯c ðµ di chuy¬n tång 30%.",
+1145,"Cß¶ng bÕo","T¤n công møc tiêu ðiên cu°ng, tång sÑc t¤n công lên $MonsterGetDPS(Level)*0.5+1$ ði¬m.",
+1146,"H± Vß½ng Xung Kích",,
+1147,"Hµ Pháp Tr÷ng Träm",,
+1150,"NgÕc Ngß Nµ Công",,
+1151,"NgÕc Ngß Ch¤n Ð¸a Công",,
+1152,"H¡c ThÕch Ba",,
+1153,"C½ Pháo Công Phá ",,
+1154,"Thiªt TÜ Ch¤n Ð¸a Công",,
+1155,"KÏ Vû ",,
+1156,"Höa Ðµng Ba",,
+1157,"Quang Ðao Thích Nhãn",,
+1158,"Phi Long Ðµc Vû ",,
+1159,"Dã Ma TØ Kim Bát",,
+1160,"Dã Ma Höa Vân",,
+1161,"Höa Vân Ba Ðµng",,
+1162,"Vû Cñc Ðµng Quang",,
+1163,"Tranh Bá Tiêu Tàn",,
+1164,"Phân thân",,
+1165,"Cñc Quang Ba",,
+1166,"VÕn V§t Ðiêu Tàn",,
+1167,"Thôi Miên",,
+1168,"Ðµc Phong Ba",,
+1169,"Li®t Di®m Chú ",,
+1170,"Thiên Bång Ð¸a Phá ",,
+1171,"Nhu Trùng Tñ Kích Pháo",,
+1172,"Trùng Noãn Tñ Kích Pháo",,
+1173,"Ðµc Long Xung Kích",,
+1174,"Quang Minh Nhçn Xu¤t",,
+1175,"Tr¸ Li®u Thu§t",,
+1176,"H¡c Long Ba (Nhân)",,
+1177,"Thu§t Biªn Hình",,
+1178,"Thôi Miên Ba (Thú)",,
+1179,"Cu°ng Long Phong Vû ",,
+1180,"Li®t höa Công Kích",,
+1182,"Lão T± Nµ Công",,
+1183,"Ph® Huyªt",,
+1184,"Qu¥n Ma L÷an vû",,
+1185,"Lão T± Höa Hoàn",,
+1186,"Bång Quang Thi¬m Hi®n",,
+1187,"Hàn Lßu T§p Kích",,
+1188,"Xúc Thü Cän Vây",,
+1189,"Phân Th¬ Công Phá ",,
+1190,"Thiên Tàn",,
+1191,"Ð¸a Phª",,
+1192,"Li®t Ð¸a Phü (g¯c)",,
+1193,"Li®t Ð¸a Phü (yªu)",,
+1194,"Ðµc Long Cu°ng BÕo",,
+1195,"Xà Quái Th¯ng Lînh Ph± Công",,
+1196,"H± Vß½ng Xung Kích",,
+1197,"Pháo Trß·ng Ph± Công",,
+1198,"Bång Quang Thi¬m Hi®n",,
+1199,"Cß½ng Thi Hoãn T¯c",,
+1200,"Li®t Di®m Chú",,
+1201,"Thiên Bång Ð¸a Li®t",,
+1202,"Biªn Hình Thu§t",,
+1204,"Tri Chu Pháo",,
+1205,"H¥u TØ Pháo",,
+1206,"Chß½ng Ngß Pháo",,
+1207,"S½ C¤p Tr¸ Li®u Thu§t",,
+1208,"Cao C¤p Tr¸ Li®u Thu§t",,
+1230,"Thiªt Ty Công Kích",,
+1231,"Thiªt Ty Ch¤n Ð¸a",,
+1232,"Bách Ðµc Phi Nö",,
+1233,"Tri«u H°i Nguyên Th¥n",,
+1234,"Thi¬m Ði®n Tri®u H°i",,
+1235,"Ði®n Tri«n Tiên",,
+1236,"Höa Di®m Träm",,
+1237,"Phá Giáp Träm",,
+1238,"Thiên H°n Li®t",,
+1239,"Ôn D¸ch Ba",,
+1240,"Äo Änh Ba",,
+1241,"Äo Änh Nô Bµc",,
+1242,"C½ Ð¸a Pháo",,
+1243,"Ngû Hoa Phong Phi Tiêu",,
+1244,"S½n Nhân H°i Tuy«n Tiêu",,
+1245,"QuÖ Âm BÕo",,
+1246,"QuÖ Thi BÕo",,
+1247,"Ðµc Yªt Vçy",,
+1248,"Sß½ng Ðµc",,
+1249,"Dung Nham Höa Thiêu",,
+1250,"Höa Nham BÕo Phát",,
+1251,"Huy«n Sinh Quang",,
+1252,"Huy«n Pháp Quang",,
+1253,"BÕo Phát Nång Lßþng",,
+1254,"Vån Chu Ðµc Höa",,
+1255,"Pha Lê Yªt Ngçu Công Kích",,
+1256,"Linh Thú Qu¥n Công",,
+1300,"Trúc C½","Tång lßþng huyªt khí cüa bän thân lên $(PartyHP(10+SelfGodLevel,Party)-PartyHP(9,Party))*0.35$ ði¬m, ðÆng c¤p nguyên th¥n càng tång lên thì hi®u quä càng cao.",
+4401,"Hµ V® Quang Pháo",,
+4402,"Th¸ V® Thu§n Phách",,
+4403,"Huyªt Th¥n Ð½n Th¬ Kích",,
+4404,"Huyªt Th¥n Ða Th¬ Kích",,
+1258,"Næ Th¥n Khoan Dung",,
+1002,"ThØ-Th¥n Cß¶ng Ki®n Thu§t (200k)",,
+1003,"ThØ-Th¥n Cß¶ng Ki®n Thu§t (1m)",,
+1004,"ThØ-Th¥n Cß¶ng Ki®n Thu§t (5m)",,
+1005,"ThØ-Th¥n H± Mãnh Thu§t (10k)",,
+1006,"ThØ-Th¥n H± Mãnh Thu§t (50k)",,
+1007,"ThØ-Th¥n H± Mãnh Thu§t (200k)",,
+1008,"ThØ-Th¥n H± Mãnh Thu§t (500k)",,
+1265,"TØ Tinh Bích V® ","SØ døng công lñc hµ thân cüa môn phái, tÕo ra mµt bÑc tß¶ng nhæng tia sét màu tím ngån ch£n møc tiêu, duy trì 60 giây, có th¬ h¤p thu 2000 ði¬m sát thß½ng.",
+1266,"Nµ Lôi Oanh","S¤m sét t× trên tr¶i giáng xu¯ng møc tiêu, làm ð¯i phß½ng choáng trong 3 giây, ð°ng th¶i tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, møc tiêu s¨ tïnh lÕi khi b¸ t¤n công.",
+1267,"Huy«n Quang Träm","Pháp bäo phân thành nhi«u ðß¶ng äo änh cùng công kích møc tiêu, tÕo ra $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng.",
+1268,"KÏ Hoàng Quyªt","Ni®m ph§t quyªt, nhæng dòng ph§t vån l¤p lánh ánh vàng s¨ vây quanh ngß¶i ðßþc tr¸ thß½ng, phøc h°i 3000 ði¬m khí huyªt.",
+1269,"T¤n Lôi","T¤n công tÑc thì, khiªn møc tiêu hôn mê 2 giây.",
+1270,"Tr÷ng Träm","T¤n công møc tiêu, gây $DmgMin(ActorDPS)*2$-$DmgMax(ActorDPS)*2$ ði¬m sát thß½ng.",
+1271,"Long Ngâm","Gây choáng møc tiêu xung quanh trong 5 giây, änh hß·ng t¯i ða 5 møc tiêu , tÕo ra $DmgMin(ActorDPS*1.1)$-$DmgMax(ActorDPS*1.1)$ ði¬m sát thß½ng.",
+1272,"Äo Hß Bµ ","Xác su¤t né tránh trong 15 giây tång 50%.",
+1273,"Liên Kích Phá ","B¡n tên v¾i t¯c ðµ cñc nhanh, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng cho møc tiêu.",
+1274,"Li®t Giáp Phá ","Ni®m pháp thu§t vào ð¥u mûi tên ð¬ phá vÞ giáp dày cüa møc tiêu, gây $DmgMin(ActorDPS*3)$-$DmgMax(ActorDPS*3)$ ði¬m sát thß½ng, ð°ng th¶i làm giäm 500 ði¬m phòng v® cüa møc tiêu , duy trì trong 10 giây.",
+1275,"Vô Änh Phá ","Lþi døng sÑc mÕnh vô song cüa ðòn công kích äo änh, gây $DmgMin(ActorDPS*1.5)$-$DmgMax(ActorDPS*1.5)$ ði¬m sát thß½ng, ð°ng th¶i giäm sÑc t¤n công cüa møc tiêu xu¯ng 50 ði¬m.",
+1276,"Höa Di®m Thiên La","Ð£t h¯ bçy lØa trên m£t ð¤t, ðÑng g¥n h¯ bçy s¨ b¸ lØa thiêu, duy trì trong 6 giây, tÕo thành t±ng lßþng ði¬m sát thß½ng là $(ActorDPS)*2+1$.",
+1277,"Ð¸a Cß½ng Thu§t","Pháp thu§t t¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS*0.3)$-$DmgMax(ActorDPS*0.3)$ ði¬m sát thß½ng, ð°ng th¶i làm møc tiêu choáng trong 3 giây.",
+1278,"Thanh Tâm Quyªt","L§p tÑc giäi tr× trÕng thái hôn mê, trúng ðµc.",
+1279,"Ly Höa Phá ","Phi Kiªm phóng lên t× m£t ð¤t ðâm xuyên thân th¬ møc tiêu , gây ra $DmgMin(ActorDPS*2.5)$-$DmgMax(ActorDPS*2.5)$ ði¬m sát thß½ng.",
+1280,"Höa Long Vû ","Tri®u h°i Höa Long hÕ phàm, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, kèm theo hi®u Ñng thiêu cháy, trong vòng 6 giây gây $PartyDPS(MWLev(204),0)*3$ ði¬m sát thß½ng.",
+1281,"ÐÕi Lñc Kim Cang","T¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng ð°ng th¶i gây choáng møc tiêu trong 5 giây.",
+1282,"Tâm Ðång","Th¡p mµt ng÷n tâm ðång, khiªn cho kë ð¸ch trong phÕm vi 200 giäm 50% t¯c ðµ di chuy¬n, ð°ng th¶i có th¬ nhìn th¤y nhæng v§t tàng hình, duy trì trong 20 giây.",
+1283,"Tu La - Nhçn","T¤n công møc tiêu, tÕo ra $DmgMin(ActorDPS)$-$DmgMax(ActorDPS)$ ði¬m sát thß½ng, tång mµt chï s¯ cß¶ng lñc.",
+1284,"Tu La - Bµc","Cß¶ng lñc bµc phát gây $DmgMin(ActorDPS*4)$-$DmgMax(ActorDPS*4)$ ði¬m sát thß½ng.",
+1285,"Tiên C¥m Cung Kích",,
+1286,"Tiªt Bình Qu¥n Công",,
+1287,"Ti«n Thanh Tuy¬n Qu¥n Công",,
+1288,"Sß Vån Cung Xông Kích",,
+1289,"SØ L® Qu¥n Công",,
+1290,"Tr¸nh Nguyên Quy Qu¥n Công",,
+1291,"Ðµng Huy«n Tiên Bà Ð½n Kích",,
+1292,"H°ng Trß¶ng Báo Ð½n Kích",,
+1293,"Lôi Trác TØ Qu¥n Công",,
+1294,"Tùy Dçn Ð½n Kích",,
+1295,"Ki«u Th÷ Ð½n Kích",,
+1296,"Yêu Ði®p Qu¥n Công",,
+1297,"Ði®p Dûng Qu¥n Công",,
+1298,"Di®u Thü Không",,
+1299,"Linh H°n Ðµt Kh·i",,
+1301,"Tân Thìn TØ Ð½n Kích",,
+1302,"Tân Thìn TØ Qu¥n Công",,
+1303,"Tân Thìn TØ Ð½n Vñng",,
+1304,"Phá Phòng V® Ðß¶ng ThÕch",,
+1305,"BÕo Kích Ðß¶ng ThÕch",,
+1306,"Giäm T¯c Ðß¶ng ThÕch",,
+1307,"Bát Di®n Giäm T¯c",,
+1308,"Dçn Huyªt Gia Khí",,
+1309,"Løc Bào Ð½n Kích",,
+1310,"Mai Lµc TØ Ð½n Kích",,
+1311,"Th¤t Khiªu H°i Chuy¬n",,
+1312,"Huyªt Th¥n H°i Tuy«n Tiêu",,
+1314,"Phá Giáp Träm",,
+1315,"Vân Li®t Phá",,
+,,,
+1257,"Kî nång Miêu Vß½ng Boss Thª Gi¾i",,
+1336,"T¤n công Nha Nh¤t Tµc Tª Sß",,
+1337,"T¤n công CØu U Hành Giä",,
+1338,"T¤n công BÕch C¯t Th¥n Quân",,
+1339,"BÕch C¯t Th¥n Quân skill01",,
+320,"Ly H§n Quyªt","TÕm th¶i giäm ði¬m thù h§n, sau khi hi®u quä biªn m¤t thì ði¬m thù h§n s¨ phøc h°i",
+,,,
+1400,"Assassin Stun",,
+1401,"Tamer AOE",,
+1402,"Wizard AOE",,
+1417,FairyDefaut,,
+1404,FairyPoison,,
+1407,SkillBOSS,,
+1408,SkillBOSS,,
+1409,SkillBOSS,,
+1410,SkillBOSS,,
+1411,SkillBOSS,,
+1412,SkillBOSS,,
+1403,LotusDefaut,,
+1405,TamerDef,,
+1418,BladeDefaut,,
+1406,BladeDer,,
+1416,"Nerve Turning",,
+1419,Light AOE,,
+1420,Water AOE,,
+1421,Fire AOE,,
+1422,Water AOE,,
+1423,Buff HP,,
+1424,SkillBOSS,,
+1425,Buff 2,,
+1426,Buff EXP,,
+1413,"Flame Incantation (Fire)",,
+1414,"Soul Destroy (Light)",,
+1415,"Magic Searing (Poison)",,
+,,,
+1427,"Höa C¥u","Tri®u h°i c¥u lØa t× trên tr¶i r¾t xu¯ng , tÕo ra tr§n mßa c¥u lØa v¾i ði¬m sát thß½ng lên 10 møc tiêu là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m.",
+1428,"Hàn Thích","Tri®u h°i bång trø t¤n công møc tiêu, tÕo ra ði¬m sát thß½ng  lên 10 møc tiêu là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m",
+1429,T¸ch Di®t - Höa Chüng,"Ð¸a tr¤n lØa, tÕo ra ði¬m sát thß½ng  lên 10 møc tiêu là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m",
+1430,Tu La - Höa Døng,"Dùng lØa bao quanh, tÕo ra ði¬m sát thß½ng  lên 10 møc tiêu là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m",
+1431,"Ðµc Thü","Dùng ðµc tÕo ra ði¬m sát thß½ng  lên 10 møc tiêu là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m",
+1432,"ÐÕi Hoàng Quyªt","Ni®m ph§t quyªt, nhæng dòng ph§t vån l¤p lánh ánh vàng s¨ vây quanh ngß¶i ðßþc tr¸ thß½ng, phøc h°i 30.000 ði¬m khí huyªt.",
+1433,"Mµc Công","T¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m sát thß½ng .T¤n công t¯i ða 10 ð¯i thü .",
+1434,"Bøi Ðµc","T¤n công theo phÕm vi, tÕo ra $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m sát thß½ng .T¤n công t¯i ða 10 ð¯i thü .",
+1435,"Âm Ðµc","Dùng ðµc vô hình t¤n công lên møc 10 møc tiêu, gây ra ði¬m sát thß½ng là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m",
+1436,"Thüy Ði®u","TÕo ra ði¬m sát thß½ng  lên 10 møc tiêu là $DmgMin(ActorDPS*1.8)$-$DmgMax(ActorDPS*1.8)$ ði¬m",

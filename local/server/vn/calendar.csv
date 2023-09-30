@@ -1,0 +1,6 @@
+DWORD,string,string,string,int,int,int,string,,,,,,,,
+,系统,标题,描述内容,开始时间,结束时间,持续时间,时间格式,类型,细分类型,,,,,,
+ID,System,Name,Desc,StartTime,StopTime,Duration,FormatTime,Type,DetailsType,,,,,,
+1,guild,帮战,帮会战斗,0,0,3600,"0 20 * * 2,4",2,4,,,,,,
+2,minigame,赛跑,赛跑,0,0,7200,"0 20 * * 1,5",2,1,,,,,,
+3,minigame,天降彩珠,天降彩珠,0,0,3600,"0 20 * * 0,2,4",2,5,,,,,,

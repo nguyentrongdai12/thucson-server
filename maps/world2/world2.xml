@@ -1,0 +1,21 @@
+<?xml  version="1.0" encoding="gb2312"?>
+<boundless blrate="0x2" bltile="0x80" blwidth="40.000" centerx="0x7" centery="0x9" cnt="0x12" h="0x13" name="world2.snw" set="world2" version="0x506" w="0x13">
+   <block file="world2_005002" id="0x5" x="0xC" y="0xB"/>
+   <block file="world2_006002" id="0x4" x="0xD" y="0xB"/>
+   <block file="world2_007002" id="0x9" x="0xE" y="0xB"/>
+   <block file="world2_005003" id="0x2" x="0xC" y="0xC"/>
+   <block file="world2_006003" id="0x3" x="0xD" y="0xC"/>
+   <block file="world2_007003" id="0x8" x="0xE" y="0xC"/>
+   <block file="world2_005004" id="0x1" x="0xC" y="0xD"/>
+   <block file="world2_006004" id="0x6" x="0xD" y="0xD"/>
+   <block file="world2_007004" id="0x7" x="0xE" y="0xD"/>
+   <block file="world2_005005" id="0x63" x="0xC" y="0xE"/>
+   <block file="world2_006005" id="0x66" x="0xD" y="0xE"/>
+   <block file="world2_007005" id="0x68" x="0xE" y="0xE"/>
+   <block file="world2_004006" id="0x69" x="0xB" y="0xF"/>
+   <block file="world2_005006" id="0x64" x="0xC" y="0xF"/>
+   <block file="world2_006006" id="0x65" x="0xD" y="0xF"/>
+   <block file="world2_007006" id="0x67" x="0xE" y="0xF"/>
+   <block file="world2_004007" id="0x6A" x="0xB" y="0x10"/>
+   <block file="world2_005007" id="0x6B" x="0xC" y="0x10"/>
+</boundless>

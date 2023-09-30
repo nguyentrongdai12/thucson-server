@@ -1,0 +1,1257 @@
+STRID,LAN,Remark
+Dungeon_3c_14,"Chiªn tích cüa ğµi tham gia",
+Dungeon_3c_3,"Sau tr§n chiªn ğ¤u quyªt li®t, cu¯i cùng ğã phân th¡ng bÕi, tr§n so tài kªt thúc tÕi ğây.",
+Dungeon_3c_Exp,"Kinh nghi®m có ğßşc: ",
+Dungeon_3c_Money,"Ngân lßşng có ğßşc: ",
+Dungeon_3c_Nimbus,"Linh lñc có ğßşc: ",
+Dungeon_3c_Score,"Ği¬m s¯ có ğßşc: ",
+Dungeon_3c_Team,"Ğµi ngû tham gia: ",
+Dungeon_3c_Winner,"Chúc m×ng ngß¶i chiªn th¡ng: ",
+Dungeon_Protect_Fail_21,"Nhøc th¬ cüa Kh± ĞÕi Sß ğã b¸ t±n thß½ng không ít, quÖ kª cüa Ma Giáo Yêu Nhân thiªu chút næa ğã ğÕt ğßşc. May là ğÕi sß ğã k¸p hoàn nguyên th¥n. Tuy ğã ğánh lùi yêu nhân nhßng c¥n phäi tînh dßŞng khá lâu. L¥n sau tiªp tøc c¯ g¡ng v§y.",
+Dungeon_Protect_Fail_3,"Th§t ğáng tiªc, ngß½i không qua ğßşc khäo nghi®m",
+Dungeon_Protect_Success_14,"ĞÕt ği¬m:",
+Dungeon_Protect_Success_20,"Sau l¥n khäo nghi®m này, ngß½i ğã thành công bäo v® ğßşc nhøc th¬ cüa Kh± ĞÕi Sß, ğánh lui b÷n yêu ğ° Ma Giáo và âm mßu cüa chúng cûng ğã b¸ th¤t bÕi hoàn toàn. Nguyên th¥n cüa Kh± ĞÕi Sß cûng ğã quay v«, nhæng tên qu¤y r¯i còn lÕi s¨ ğßşc ngß¶i xØ lı nhanh thôi.",
+Dungeon_Protect_Success_3,"Chúc m×ng ğã vßşt äi!",
+Dungeon_Protect_Success_8,"S¯ l¥n:",
+Dungeon_Protect_Success_Exp,"Kinh nghi®m:",
+Dungeon_Protect_Success_God,"L¸ch luy®n:",
+Dungeon_Protect_Success_Money,"Ngân lßşng:",
+Dungeon_Protect_Success_Nimbus,"Linh lñc:",
+help_fbxt_duanzaocailiao,"V§t li®u khäm nÕm: 
+  Khäm nÕm pháp bäo và khäm nÕm trang b¸ sØ døng v§t li®u khác nhau. Khäm nÕm pháp bäo sØ døng Hoành Bäo ThÕch, khäm nÕm trang b¸ c¥n Quang Bäo ThÕch.
+  Nhæng trang b¸ cùng loÕi do c¤p ğµ khäm nÕm khác nhau s¨ sØ døng nhæng v§t li®u khác nhau.
+C¤p ğµ khäm nÕm LoÕi v§t ph¦m Tên v§t li®u
+C¤p 1 - 3 Trang b¸ Ti¬u Quang Bäo ThÕch
+C¤p 4 - 6 Trang b¸ Trung Quang Bäo ThÕch
+C¤p 7 - 9 Trang b¸ ĞÕi Quang Bäo ThÕch
+C¤p ğµ khäm nÕm LoÕi v§t ph¦m Tên v§t li®u
+C¤p 1 - 3 Pháp bäo Ti¬u Hoành Bäo ThÕch
+C¤p 4 - 6 Pháp bäo Trung Hoành Bäo ThÕch
+C¤p 7 - 9 Pháp bäo ĞÕi Hoành Bäo ThÕch
+Phí khäm nÕm: 
+  C¤p ğµ và loÕi trang b¸ änh hß·ng trñc tiªp ğªn phí khäm nÕm. Pháp bäo t× c¤p 1 - 30 m²i l¥n khäm nÕm c¥n 1 lßşng vàng, pháp bäo t× c¤p 30 - 60 m²i l¥n khäm nÕm c¥n 2 lßşng vàng, pháp bäo t× c¤p 60 - 90 m²i l¥n khäm nÕm c¥n 4 lßşng vàng, phí khäm nÕm trang b¸ b¢ng 1/5 phí khäm nÕm pháp bäo.
+T±n th¤t khi khäm nÕm th¤t bÕi: 
+  Pháp bäo và trang b¸ c¤p 4 tr· ği khi khäm nÕm th¤t bÕi s¨ có 50% khä nång giäm c¤p ğµ xu¯ng 0, c¤p 7 tr· ği s¨ có 100% khä nång giäm xu¯ng 0.",
+help_fbxt_fabaodengji,"Thª nào là c¤p ğµ pháp bäo: 
+   Pháp bäo có 3 loÕi c¤p ğµ: c¤p ğµ s½ kh·i, c¤p ğµ hi®n tÕi và c¤p ğµ t¯i ğa. C¤p ğµ s½ kh·i chï c¤p ğµ cüa pháp bäo lúc m¾i ğßşc tÕo ra. C¤p ğµ hi®n tÕi chï c¤p ğµ hæu hi®u hi®n tÕi cüa pháp bäo, c¤p ğµ hi®n tÕi có th¬ ğßşc nâng cao nh¶ tu luy®n nhßng không ğßşc phép vßşt qua c¤p ğµ t¯i ğa. C¤p ğµ t¯i ğa chï c¤p ğµ cao nh¤t mà pháp bäo này có th¬ tu luy®n ğßşc. Uy lñc cüa kÛ nång trên pháp bäo thông thß¶ng có liên quan ğªn c¤p ğµ cüa pháp bäo. ",
+help_fbxt_fabaoduanzao,"Khäm nÕm trang b¸: 
+  Vû khí ho£c trang b¸ sau khi ğßşc khäm nÕm s¨ giúp ngß¶i ch½i nâng cao nång lñc chiªn ğ¤u r¤t nhi«u, khi c¤p ğµ khäm nÕm ğÕt ğªn mµt mÑc ğµ nh¤t ğ¸nh thì hình dÕng bên ngoài cüa vû khí ho£c trang b¸ s¨ có sñ thay ğ±i rõ r®t, khiªn bÕn n±i b§t trong tam gi¾i. 
+Ngß¶i ch½i sau khi mua ğßşc v§t li®u khäm nÕm trong KÏ Trân Các thì có th¬ ğªn g£p Thiªt Tßşng ğ¬ b¡t ğ¥u khäm nÕm. V§t li®u khäm nÕm và phí khäm nÕm cüa vû khí và trang b¸ là không gi¯ng nhau, mÑc ğµ thành công cüa vi®c khäm nÕm cûng giäm ği theo sñ nâng cao cüa c¤p ğµ khäm nÕm. Vi®c khäm nÕm th¤t bÕi s¨ có mµt xác su¤t nh¤t ğ¸nh khiªn cho c¤p ğµ khäm nÕm cüa v§t ph¦m b¸ hÕ xu¯ng ho£c tr· v« 0.
+
+Hi®u quä cüa khäm nÕm: 
+  Pháp bäo sau khi khäm nÕm hành công s¨ tång uy lñc công kích.
+   Trang b¸ sau khi khäm nÕm hành công s¨ tång phòng ngñ v§t lı và phòng ngñ pháp thu§t.
+C¤p ğµ khäm nÕm và xác su¤t thành công: 
+  Khäm nÕm pháp bäo và trang b¸ ğ«u phân làm 9 c¤p. Xác su¤t khäm nÕm thành công cüa pháp bäo t× c¤p 1 ğªn c¤p 3 là  100%, t× c¤p 4 ğªn c¤p 6 s¨ có khä nång th¤t bÕi, khi th¤t bÕi s¨ giäm c¤p ğµ khäm nÕm, t× c¤p 7 ğªn c¤p 9 nªu khäm nÕm th¤t bÕi thì c¤p ğµ khäm nÕm cüa v§t ph¦m s¨ có khä nång giäm xu¯ng 0. 
+",
+help_fbxt_fabaogainian,"Pháp bäo là gì:  
+   Pháp bäo là mµt loÕi ğÕo cø ğ£c bi®t, có th¬ nâng cao nång lñc cüa ngß¶i ch½i. Pháp bäo có ti«m ¦n các loÕi kÛ nång, thông qua tu luy®n có th¬ tång c¤p ğµ cüa pháp bäo, kích hoÕt nhæng kÛ nång mÕnh h½n. Pháp bäo ğßşc chia thành 2 loÕi l¾n là pháp bäo chính (loÕi vû khí) và pháp bäo h² trş. Nhân v§t cùng mµt lúc có th¬ trang b¸ 1 pháp bäo chính và 2 pháp bäo h² trş.",
+help_fbxt_fabaojianding,"   Trong tam gi¾i, thông qua vi®c làm nhi®m vø ho£c ğánh quái s¨ thu ğßşc mµt s¯ trang b¸ có thuµc tính ¦n, nªu mu¯n kích hoÕt nhæng thuµc tính ¦n này thì phäi ğªn ch² Thiªt Tßşng ğ¬ tiªn hành giám ğ¸nh trang b¸.
+V§t li®u giám ğ¸nh: 
+ Giám ğ¸nh trang b¸ c¥n có v§t li®u chuyên døng. BÕn có th¬ ğªn KÏ Trân Các ğ¬ mua 'Bäo ThÕch' ğ¬ tiªn hành giám ğ¸nh. Ğ°ng th¶i v¾i sñ khác nhau v« c¤p ğµ cüa trang b¸ mà 'Bäo ThÕch' sØ døng cûng khác nhau, trang b¸ Thiên Thanh c¥n có Thiên Thanh Bäo ThÕch, trang b¸ Ng÷c Løc c¥n có Ng÷c Løc Bäo ThÕch, trang b¸ Hoàng Kim c¥n có Hoàng Kim Bäo ThÕch. (nhß hình v¨)",
+help_fbxt_fabaojineng,"Cách sØ døng kÛ nång pháp bäo: 
+   M· màn hình kÛ nång, trang thÑ nh¤t s¨ li®t kê nhæng pháp bäo ğang ğßşc trang b¸ và nhæng kÛ nång tß½ng Ñng, chï c¥n nh¤n giæ chuµt và kéo ô bi¬u tßşng cüa kÛ nång ğ£t vào bäng phím t¡t trên màn hình là có th¬ sØ døng.",
+help_fbxt_fabaoronghe,"Dung hşp pháp bäo: 
+   Khi c¤p ğµ nhân v§t cüa ngß¶i ch½i tång lên thì trang b¸ s¨ không còn phù hşp v¾i ngß¶i ch½i næa. Lúc này nªu v¤t trang b¸ ği thì s¨ r¤t ğáng tiªc, nªu là vû khí có thuµc tính t¯t ho£c ğã t×ng ğßşc khäm nÕm thì s¨ càng không nŞ. Lúc này bÕn có th¬ ch÷n cách dung hşp pháp bäo!
+Nguyên t¡c dung hşp pháp bäo:
+ Nhæng pháp bäo dung hşp phäi cùng loÕi v¾i nhau, pháp bäo sau khi dung hşp s¨ có c¤p ğµ cüa pháp bäo thÑ nh¤t và thuµc tính cüa pháp bäo thÑ hai. Thông qua dung hşp pháp bäo, có th¬ tiªt ki®m ğßşc r¤t nhi«u th¶i gian tu luy®n pháp bäo cüa ngß¶i ch½i, giúp bÕn có nhi«u th¾i gian h½n ğ¬ th¬ nghi®m trò ch½i, ğem ğªn cho bÕn nhi«u ni«m vui h½n.",
+help_fbxt_fabaoxiulian,"Tu luy®n pháp bäo:
+Thông qua vi®c không ng×ng luy®n c¤p, tiêu di®t yêu quái và làm nhi®m vø trong tam gi¾i s¨ thu ğßşc linh lñc. Linh lñc có th¬ ğßşc dùng ğ¬ tinh luy®n pháp bäo. Pháp bäo ğòi höi ngß¶i ch½i phäi tiêu hao linh lñc cüa mình ğ¬ nâng c¤p ğµ cûng nhß uy lñc cüa pháp bäo. Ngß¶i ch½i không th¬ tinh luy®n pháp bäo nªu nhß c¤p ğµ hi®n tÕi cüa pháp bäo b¢ng v¾i c¤p ğµ hi®n tÕi cüa ngß¶i ch½i, cho ğªn khi ngß¶i ch½i ğÕt ğßşc ğÆng c¤p hay mÑc tu luy®n cao h½n. Nhß hình v¨ cho th¤y, con s¯ hi¬n th¸ trong khung 'Linh lñc nhân v§t' là linh lñc mà ngß¶i ch½i tích lûy ğßşc khi di®t yêu quái và luy®n c¤p. Còn khung 'Linh lñc pháp bäo' thì hi¬n th¸ s¯ linh lñc c¥n ğ¬ tu luy®n pháp bäo. BÕn có th¬ vào khung 'Thuµc tính nhân v§t', t× trang 'Ğµng tác' nh¤n ch÷n 'Tinh luy®n pháp bäo', sau ğó chï c¥n ğ£t pháp bäo chính cüa bÕn vào ô v§t ph¦m chính cüa màn hình tinh luy®n là bÕn có th¬ b¡t ğ¥u tiªn hành tinh luy®n pháp bäo.",
+help_fbxt_fabaozhuangbei,"Cách trang b¸ pháp bäo: 
+   Gi¯ng nhß cách trang b¸ ğÕo cø thông thß¶ng, nhßng pháp bäo có v¸ trí trang b¸ chuyên døng, chï có th¬ trang b¸ trong khung pháp bäo tß½ng Ñng. Nhân v§t không th¬ trang b¸ pháp bäo có c¤p ğµ cao h½n c¤p ğµ cüa mình, không th¬ trang b¸ ho£c tháo gŞ pháp bäo khi ğang trong trÕng thái chiªn ğ¤u.",
+help_fuben_1,"Vân Linh S½n Xà Huy®t (c¤p 15 tr· lên) 
+    QuÖ Phong Yêu ĞÕo khi còn làm hµ pháp trong Tà giáo ğã t×ng ğ÷c c± thß và biªt ğßşc r¢ng nguyên th¥n cüa VÕn Niên Xà Yêu b¸ phong ¤n tÕi Vân Linh S½n Xà Huy®t. Ğ¬ tång sÑc mÕnh cüa mình hòng ğ¤u v¾i tiên gia chính ğÕo, QuÖ Phong Yêu ĞÕo ğã phá vŞ phong ¤n, xâm nh§p vào Xà Huy®t, gÕt ğßşc sñ tín nhi®m cüa Xà Yêu, mßşn sÑc mÕnh cüa Xà Yêu ğ¬ tác ác, tìm xác phàm ğ¬ chu¦n b¸ cho sñ giáng lâm cüa Xà Yêu. Do sñ làm loÕn cüa QuÖ Phong Yêu ĞÕo mà Vân Linh S½n Thôn ğã b¸ mµt ğÕi quân Xà Yêu chiªm ğóng, ngay cä Thiên Hóa Thôn · r¤t xa cûng b¸ änh hß·ng b·i sñ h°i sinh cüa b÷n ğ® tØ Xà Yêu. L¯i vào Vân Linh S½n Xà Huy®t ¦n sâu trong Ác QuÖ Quan TrÕi. Mu¯n tiêu di®t hªt tà ma xung quanh Vân Linh S½n thì phäi di®t ğßşc QuÖ Phong Yêu ĞÕo và VÕn Niên Xà Yêu.
+
+Quái v§t · Vân Linh S½n Xà Huy®t
+Tinh Anh Lâm Mãng Xà  c¤p 15 Xà Huy®t
+Ğµc Ma Cô       c¤p 15 Xà Huy®t
+Tinh Anh Lâm Xà Vß½ng c¤p 16 Xà Huy®t
+Song Ğ¥u Xà Quái     c¤p 16 Xà Huy®t(boss)
+Tinh Anh TÕp D¸ch Xà Thü  c¤p 16 Xà S½n
+Tinh Anh Xà Thü Bµ Ğ¥u c¤p 16 Xà S½n
+Tinh Anh Tu¥n La Bµ Ğ¥u c¤p 16 Xà S½n
+Tinh Anh Tu¥n La TÕp D¸ch c¤p 16 Xà S½n
+Tinh Anh Ğ¥u Møc Xà Phï  c¤p 17 Xà S½n
+Xà Yêu Hóa Thân     c¤p 17 Xà S½n(boss)
+Tinh Anh QuÖ Höa     c¤p 17 Tª Ğàn
+Sát Huyªt Tùy Tùng     c¤p 17 Tª Ğàn
+Tinh Anh QuÖ Höa   c¤p 18 Tª Ğàn
+Tinh Anh Ác QuÖ      c¤p 18 Tª Ğàn
+Tinh Anh QuÖ Trß·ng c¤p 19 Tª Ğàn
+QuÖ Phong Yêu ĞÕo     c¤p 19 Tª Ğàn (boss)
+Tinh Anh Kim Giác Mãng Xà  c¤p 19 Tª Ğàn
+Tinh Anh Hi®u Úy Xà Thü  c¤p 20 Tª Ğàn
+Nguyên Th¥n Xà Yêu     c¤p 20 Tª Ğàn (boss)",
+help_fuben_2,"H± Träo S½n Ğ¢ng Tu Ğµng (c¤p 15 tr· lên) 
+   Yêu ĞÕo Vßu Thái Chân vì b¸ tiên gia truy ğu±i nên chÕy tr¯n ğªn H± Träo S½n, phát hi®n ngß¶i dân Nha Lâm TrÕi vô cùng chân ch¤t, tín ngßŞng quÖ th¥n, vì v§y ğã thi tri¬n pháp thu§t làm ngß¶i dân khiªp sş. Sau ğó h¡n cØ vài ğ® tØ giám sát, b¡t dân chúng làm nô, xây dñng di chï c± thành · g¥n Nha Lâm TrÕi thành ğµng phü, l¤y tên là Ğ¢ng Tu Ğµng, r°i tri®u t§p mãnh thú ğªn canh gác. Nhæng hµ pháp trong Nha Lâm TrÕi sau khi không tranh ğßşc chÑc v¸ v¾i H¡c Th¥n S½n Tß¾ng li«n dçn mµt s¯ ngß¶i trong tµc gia nh§p yêu ğÕo. Yêu ĞÕo còn liên kªt v¾i Vô My Giáo Chü Mãnh Höa ĞÕo Trß·ng. Ğ¬ giúp Mãnh Höa ĞÕo Trß·ng chiªm Døc Thành Thôn, h¡n ğã ch÷n n½i này làm bàn ğÕp, tri®u t§p tà ma tÑ phß½ng chu¦n b¸ làm loÕn. Mu¯n trä lÕi sñ bình yên cho n½i ğây, nh¤t thiªt phäi di®t tr× Yêu ĞÕo. L¯i vào Ğ¢ng Tu Ğµng là mµt cây c± thø ngàn nåm trong bình ğ¸a tây b¡c Nha Lâm TrÕi. 
+
+Quái v§t · H± Träo S½n Ğ¢ng Tu Ğµng
+Tinh Anh Mãng Xà  c¤p 15  Linh Thú Lâm
+Tinh Anh Ğµc Dång c¤p 15  Linh Thú Lâm
+Tinh Anh Kim Nhu c¤p 16  Linh Thú Lâm
+Thü Lînh Kim Nhu c¤p 16  Linh Thú Lâm (boss)
+Tinh Anh Dã Lang c¤p 16 Ğào Nguyên Thôn
+H± Vß½ng     c¤p 17 Ğào Nguyên Thôn (boss)
+Tinh Anh Dã La c¤p 17 Ğào Nguyên Thôn
+Tinh Anh S½n Dân Hµ V® c¤p 17 Ğào Nguyên Thôn
+S½n Dân Hµ Pháp c¤p 18 Ğào Nguyên Thôn (boss)
+Tà Linh C± Thành c¤p 19 C± Thành
+Tinh Anh Mµc Tu Quái c¤p 20 C± Thành
+Yêu ĞÕo Vßu Thái Chân c¤p 20 C± Thành (boss)",
+help_fuben_3,"T× Vân Tñ Hoan HÖ Ği®n (c¤p 25 tr· lên) 
+   T× Vân Tñ v¯n là mµt th¡ng cänh · ngoÕi ô Thành Ğô, n½i tu hành cüa Phß½ng trßşng Trí Thông, quanh nåm khói hß½ng nghi ngút, thi®n nam tín næ thß¶ng ğªn c¥u kinh l­ Ph§t. Nhßng ğµt nhiên g¥n ğây lÕi xäy ra nhi«u chuy®n chÆng lành, tàn hÕi chính ğÕo. Mµt ngày n÷, nhóm cØ nhân trên ğß¶ng v« kinh Ñng thí trong ğó có Chu Vân Tòng ğã ğªn ğây, vô tình phát hi®n ra mµt m§t th¤t dçn ğªn Hoan HÖ Ği®n, biªt ğßşc thü phÕm m÷i chuy®n chính là Phß½ng trßşng Trí Thông. Phß½ng trßşng Trí Thông b¸ lµ li«n ra tay sát hÕi mµt lúc mß¶i m¤y cØ nhân, sau ğó vì ki®t sÑc nên h¡n chßa k¸p giªt Chu Vân Tòng mà b¡t giam lÕi trong thÕch th¤t, b¡t sau 3 ngày phäi tñ vçn. Chu Vân Tòng sau ğó may m¡n thoát ğßşc, lÕi ğßşc phø tØ  Trß½ng Lão TÑ cÑu giúp nên thoát chªt, sau ğó ğã tiªt lµ bí m§t cüa T× Vân Tñ. Các tiên gia và Ngû ĞÕi Phái quyªt ğ¸nh ğÕi chiªn T× Vân Tñ. Trí Thông hay tin li«n tri®u t§p r¤t nhi«u trş thü ğªn giúp ğŞ. Vì v§y tr§n chiªn này s¨ r¤t cam go. T× chính ği®n cüa T× Vân Tñ ği qua mµt m§t ğÕo s¨ ğªn Hoan HÖ Ği®n.
+
+Quái v§t · T× Vân Tñ Hoan HÖ Ği®n
+Tinh Anh Phï Ğ°   c¤p 25  Ğ¸a Lao
+Tinh Anh Ác Hòa Thßşng c¤p 26  Ğ¸a Lao
+Mao Thái       c¤p 26  Ğ¸a Lao (boss)
+Phi Long      c¤p 26  Ğ¸a Lao (boss)
+Tinh Anh Tà Hoa Thiªu Gia c¤p 26 Khách Phòng
+Tinh Anh H¡c Y T£c c¤p 27  Khách Phòng
+Pháp Nguyên       c¤p 27  Khách Phòng (boss)
+Tinh Anh Thái Hoa T£c c¤p 27  Nµi Ğß¶ng
+Tinh Anh Phong Tr¥n Næ Sî c¤p 28 Nµi Ğß¶ng
+Dß½ng Hoa        c¤p 27 Nµi Ğß¶ng (boss)
+Trí Thông        c¤p 28 Nµi Ğß¶ng (boss)
+Tinh Anh H¡c Báo    c¤p 28 Ğ¸a ĞÕo
+Tinh Anh Chí MÕng Ngô Công c¤p 29 Ğ¸a ĞÕo
+Løc Bào Lão T±    c¤p 29 Ğ¸a ĞÕo (boss)
+Tinh Anh T× Vân Tång Binh c¤p 29 Chính Ği®n
+Tinh Anh Kim Cß½ng Võ Tång c¤p 30 Chính Ği®n
+Hi¬u Nguy®t Thi«n Sß    c¤p 30 Chính Ği®n (boss)",
+help_fuben_35,"H°ng Hoa Ğµng n¢m trên Quª Hoa S½n phía tây Thành Ğô. Cänh s¡c n½i ğây v¯n r¤t thích hşp cho vi®c tu dßŞng tâm tính, ğáng tiªc lÕi b¸ Ğµc Long Th¥n Tß¾ng chiªm giæ làm hang ±, t§p hşp tà môn ngoÕi ğÕo ğ¬ ch¯ng lÕi kÏ hi®p chính nghîa. Ğµc Long Tôn Giä tuy ğã ån ğßşc Linh chi ngàn nåm cüa Nga My S½n, công lñc tång vÕn trßşng, nhßng vçn còn mµt M®nh Môn có th¬ phá vŞ. H¡n ğã phái binh tß¾ng và Thñc Nhân Hoa Yêu [336, 471] canh gác, chï có ğánh bÕi Thñc Nhân Hoa Yêu m¾i có th¬ phá vŞ M®nh Môn [347, 422], Ğµc Long Th¥n Tß¾ng [377, 415] sau khi b¸ phá M®nh Môn nguyên khí s¨ b¸ änh hß·ng nghiêm tr÷ng, khi ¤y l¤y tính mÕng h¡n không khó...
+
+Bång Xuyên Ngân H°  c¤p 35 Hàn Bång Trì
+Ğ® TØ Bång Kính  c¤p 36 Hàn Bång Trì 
+Tinh Anh Thiªt Thú c¤p 37 Thiªt C½ Phß¶ng 
+Thiªt Cñ Nhân  c¤p 38 Thiªt C½ Phß¶ng
+Tinh Anh Ğào Hoa Yêu c¤p 38 Ğµc Thäo Nhai 
+Tinh Anh Nhøc Chi  c¤p 39 Ğµc Thäo Nhai 
+Tinh Anh Ğµc Dång  c¤p 39 Ô Long Ğàm 
+Ğµc Long Hµ V®  c¤p 40 Ô Long Ğàm
+Bång Kính Tiên TØ  c¤p 36 Hàn Bång Trì (BOSS)
+Thiên Tàn Lão Nhân  c¤p 38 Thiªt C½ Phß¶ng (BOSS)
+Thñc Nhân Hoa Yêu  c¤p 39 Ğµc Thäo Nhai (BOSS)
+Ğµc Long Th¥n Tß¾ng  c¤p 40 Ô Long Ğàm (BOSS)",
+help_fuben_4,"Thanh Loa S½n Ma Cung (c¤p 40 tr· lên) 
+  Thanh Loa S½n Ma Cung v¯n là n½i · cüa Phiên tång PhÕm Nã Gia Âm Nh¸, sau ğó b¸ Th¥n Thü TÖ Khâu Ngøy Phong Nß½ng chiªm giæ, dß¾i trß¾ng là bát ğÕi ğ® tØ tñ xßng là Thanh Loa S½n Bát Ma. Sau khi ğoàn quân cüa Ngøy Phong Nß½ng bö ği thì n½i này r½i vào tay môn hÕ cüa Ğµc Long Tôn Giä, b÷n chúng tiªp tøc tác ác lµng hành. ĞÕi hi®p HÑa Vi®t khi xßa trên ğß¶ng hành hi®p trßşng nghîa ğã t×ng kªt oán v¾i Bát Ma, ğã lên núi ğ¬ tìm hi¬u vi®c này. Các kÏ hi®p tam gi¾i vì mu¯n trş giúp cho HÑa Vi®t nên cûng ğã t« tñu lÕi ğây, chu¦n b¸ cùng xu¤t phát, san b¢ng Thanh Loa S½n Ma Cung. L¯i vào Thanh Loa S½n Ma Cung n¢m r¤t sâu trong Thanh Loa S½n, trên ğß¶ng ği phäi c¦n tr÷ng.
+
+Quái v§t ·Thanh Loa S½n Ma Cung
+Chiªn Sî Bång Tinh c¤p 42 Khu Hàn Bång
+Hàn Tuyªt Cñ Nhân c¤p 43 Khu Hàn Bång
+Ma Cung TÑ Ma Y H°ng Anh c¤p 43 Khu Hàn Bång
+Cñ Hình Tri Chu c¤p 43 Khu Vu Ğµc
+Cñ Hình Phiên Phúc c¤p 44 Khu Vu Ğµc
+Ma Cung Ngû Ma Công Tôn Vû c¤p 44 Khu Vu Ğµc
+Thâm Uyên QuÖ Binh c¤p 44 Khu Li®t Di­m
+Li®t Di­m Thü V® c¤p 45 Khu Li®t Di­m
+Ma Cung Bát Ma Khâu Chu L®nh c¤p 45 Khu Li®t Di­m
+Ma Cung Ğ¯c V® c¤p 45 Nµi Sänh Ma Cung
+Ma Cung Th¸ V® c¤p 45 Nµi Sänh Ma Cung
+Ma Cung ĞÕi Ma Ğ¥u Hoàng Tiêu c¤p 46 Nµi Sänh Ma Cung",
+help_fuben_5,"Mãng Thß½ng S½n n¢m cÕnh khu r×ng r§m rÕp g¥n Thành Ğô. Thiên Âm Giáo ğã cùng v¾i nhi«u tán tiên tà giáo Ñc hiªp thôn dân Mã Hùng Thôn. Yêu Nhân Ğµng Phü n¢m sâu trong QuÖ H¯ng Lâm cüa Mãng Thß½ng S½n. T× sau khi nhân sî chính nghîa giang h° hşp sÑc san b¢ng Thanh Loa S½n Ma Cung thì b÷n tán tiên tà giáo ğ«u chÕy ğªn ğây. L¥n này kÏ hi®p tam gi¾i quyªt ğ¸nh t« tñu t¤n công tiêu di®t Thiên Âm Giáo trong Yêu Nhân Ğµng Phü. 
+
+Phi Thiên Ngô Công  c¤p 45 Ngô Công Khu 
+Chí MÕng Ngô Công  c¤p 46 Ngô Công Khu 
+Thñc Nhân Dûng Sî  c¤p 46 Thñc Nhân Bµ LÕc 
+Thñc Nhân Næ Dûng Sî c¤p 47 Thñc Nhân Bµ LÕc 
+Ti¬u Thüy Ği®t   c¤p 48 Thüy Ği®t Khu 
+Ğµc Tu Quái    c¤p 47 Thüy Ği®t Khu 
+Løc Mao Cß½ng Thi  c¤p 48 Ğ¥u Lâu Khu 
+Tàn Huyªt QuÖ Linh  c¤p 49 Ğ¥u Lâu Khu 
+Th¥n Ğàn Th¸ V®  c¤p 49 Th¥n Bí Mµ Huy®t 
+Yêu Nhân Pháo Thü  c¤p 50 Th¥n Bí Mµ Huy®t 
+Mµ Ğ¸a Th¸ V®  c¤p 50 Th¥n Bí Mµ Huy®t 
+Phi Thiên DÕ Xoa  c¤p 47 Ngô Công Khu (BOSS)
+Ğµc Long Tôn Giä  c¤p 48 Thñc Nhân Bµ LÕc (BOSS)
+Thiên Niên Thüy Ği®t  c¤p 49 Thüy Ği®t Khu (BOSS)
+QuÖ ĞÕo Nhân    c¤p 49 Ğ¥u Lâu Khu (BOSS)
+Li®t Höa Lão T±  c¤p 50 Th¥n Bí Mµ Huy®t (BOSS)
+
+",
+help_fuben_6,"Th¤t Tinh Ğài n¢m tÕi s½n ğµng · giæa Ğ¾i Gia Trß¶ng và Læ Thôn. Do nhìn t× phía ngoài, s½n µng có hình dáng nhß con cá ğang tung tång b½i lµi nên ğßşc mÛ danh là 'Ngß Th¥n Ğµng'. Tuy vë ngoài chï là mµt s½n ğµng bình thß¶ng nhßng bên trong ¦n chÑa huy«n c½. T× lúc cuµc phân tranh giæa Ğ¾i Gia Trß¶ng và Læ Thông không ng×ng bùng n±, chính tà hai phái không ng×ng tiêu di®t lçn nhau, tên yêu tà thu§t sî Quách Vân Ph¯c ğã xây dñng Quan Tinh Ğài ğ¬ tiªn hành yêu thu§t, tàn hÕi kÏ hi®p tÑ phß½ng. Ğ¬ giäi tr× m¯i h÷a này, hãy vào Ngß Th¥n Ğµng tiêu hüy Quan Tinh Ğài và tên yêu ma Quách Vân Ph¯c.
+
+Tinh Anh Nam Cß½ng SÑ Giä c¤p 55 Khu Nam Cß½ng
+Tinh Anh Li®t Höa SÑ Giä c¤p 56 Khu Nam Cß½ng
+Nhøc Th¬ cüa Ğ° NhÕc     c¤p 54 Khu Nam Cß½ng
+Nhøc Th¬ cüa Úy Trì Nguyên   c¤p 55 Khu Nam Cß½ng
+Tinh Anh Ğ¸a Bî     c¤p 56 Læ Thôn Bi®t Vi®n
+Tinh Anh Hào Nô     c¤p 57 Læ Thôn Bi®t Vi®n
+Nhøc Th¬ cüa Thôi Thiên Thø   c¤p 56 Læ Thôn Bi®t Vi®n
+Nhøc Th¬ cüa Tr¥n Trß¶ng C¯c   c¤p 57 Læ Thôn Bi®t Vi®n
+Tinh Anh Ti¬u T¯t     c¤p 58 H§u Hoa Viên
+Tinh Anh Bäo Tiêu     c¤p 59 H§u Hoa Viên
+Nhøc Th¬ cüa Læ Tam     c¤p 59 H§u Hoa Viên
+Nhøc Th¬ cüa Læ TÑ     c¤p 58 H§u Hoa Viên
+Tinh Anh Giáo Ğ¥u     c¤p 56 Quan Tinh Ğài
+Tinh Anh Thü V®     c¤p 58 Quan Tinh Ğài
+Nguyên Th¥n cüa Ğ° NhÕc     c¤p 54 Quan Tinh Ğài
+Nguyên Th¥n cüa Úy Trì Nguyên   c¤p 55 Quan Tinh Ğài
+Nguyên Th¥n cüa Thôi Thiên Thø   c¤p 56 Quan Tinh Ğài
+Nguyên Th¥n cüa Tr¥n Trß¶ng C¯c   c¤p 57 Quan Tinh Ğài
+Nguyên Th¥n cüa Læ TÑ     c¤p 58 Quan Tinh Ğài
+Nguyên Th¥n cüa Læ Tam     c¤p 59 Quan Tinh Ğài
+La Vån Lâm       c¤p 56 Khu Nam Cß½ng(BOSS)
+S½n Nhân Diêu Khai Giang   c¤p 57 Læ Thôn Bi®t Vi®n(BOSS)
+Truy H°n Thái Tuª      c¤p 58 H§u Hoa Viên(BOSS)
+Höa Phiên Phúc       c¤p 59 H§u Hoa Viên(BOSS)
+Quách Vân Ph¯c       c¤p 60 Quan Tinh Ğài(BOSS)
+
+",
+help_fuben_7,"Tà thu§t thu§t sî Quách Vån Ph¯c cho xây dñng Th¤t Tinh Ğài th§t ra là ğang làm phép nuôi dßŞng con yêu quái Vån Chu - con quái nh®n ğßşc m®nh danh là Thiên HÕ Cñ Ğµc Chi Vß½ng. Trß¾c ğó h¡n ğã b¡t Lão Yªt và Höa Chu v« nuôi dßŞng cho cñ quái Vån Chu. Tuy sau nhi«u nåm d¯c tâm nuôi dßŞng, cñ quái Vån Chu ğã thành hình nhßng vçn còn thiªu âm ğµc chi khí nên vçn còn ngü vùi trong trÑng kén. Sau khi phát hi®n ra Ngß T¥n Ğµng tø t§p ğßşc âm ğµc chi khí cüa ğ¤t tr¶i. Quách Vån Ph¯c ğã lşi døng tay sai tÕi Læ Thôn, tri®u t§p lñc lßşng, xây dñng Th¤t Tinh Ğài. Dña vào khä nång thông thiên gi¾i cüa Th¤t Tinh Ğài, h¡n ğã l§pk ªt gi¾i tÕi Ngß Th¥n Ğµng, xây dñng Vån Chu Ğµng v¾i sñ canh giæ nghiêm ng£t cüa Ma Chiªn C½ Giáp. M¡t th¤y Vån Chu s¡p ra ğ¶i nhßng Quách Vån Ph¯c tÕi Læ Thôn lÕi ğÕi bÕi dß¾i tay qu¥n hùng kÏ hi®p, Cñ Quái Vån Chu nhß có cäm Ñng, l§p tÑc phá kén xu¤t thª. Kªt gi¾i t× ğó cûng ğã b¸ rÕn nÑt, t× Loa Ty Loan Thüy Lao là có th¬ tiªn vào Vån Chu Ğµng.
+
+
+Bång Mang Yªt    60 Khu Ğ¥m L¥y
+Höa Di®m Chu    60 Khu Nham ThÕch
+Pha Lê Yªt Ngçu  60 Khu Ğ¥m L¥y
+Hoàng Ğ°ng Chu Ngçu  60 Khu Nham ThÕch
+Læ Thôn Oan H°n  60 Khu C± Mµ
+QuÖ Linh Hµ V®  60 Khu C± Mµ
+QuÖ Linh      60 Khu C± Mµ(BOSS)
+Thiên Niên Lão Yªt  60 Khu Ğ¥m L¥y(BOSS)
+VÕn Niên Höa Chu  60 Khu Nham ThÕch(BOSS)
+Ma Chiªn C½ Giáp  60 Khu Trung Tâm(BOSS)
+Cñ Ğµc Vån Chu  62 Khu Vån Chu(BOSS)
+",
+help_jbcz_gongjimubiao,"Công kích møc tiêu:
+   Sau khi ch÷n møc tiêu, nh¤n phím kÛ nång ğ¬ b¡t ğ¥u công kích møc tiêu. Ğòn t¤n công bình thß¶ng s¨ tñ ğµng duy trì công kích, ğòn t¤n công kÛ nång phäi thi tri¬n t×ng ğòn mµt. Ğ¯i v¾i quái v§t, có th¬ trñc tiªp b¡t ğ¥u công kích b¢ng cách nh¤n chuµt phäi vào møc tiêu.",
+help_jbcz_jianpancaozuo,"Phím    Tác døng
+1-0     Phím t¡t
+I       M· / ğóng thông tin trang b¸
+C       M· / ğóng thông tin nhân v§t
+S       M· / ğóng màn hình kÛ nång
+M       M· / ğóng ğ¸a ğ°
+T       M· / ğóng thông tin nhi®m vø
+TAB     Chuy¬n sang møc tiêu khác
+Enter   M· / ğóng khung nh§p li®u tán gçu
+ESC     M· / ğóng h® th¯ng",
+help_jbcz_npcjiaotan,"Nói chuy®n v¾i NPC:
+   BÕn hãy nh¤n chuµt phäi vào NPC, h® th¯ng s¨ tñ ğµng ch÷n møc tiêu và tiªn hành nói chuy®n.",
+help_jbcz_renwuyidong,"Di chuy¬n nhân v§t:
+   Ği¬m chuµt trái lên m£t ğ¤t, nhân v§t s¨ tñ ğµng b¡t ğ¥u di chuy¬n, nªu nh¤n giæ chuµt trái thì nhân v§t s¨ di chuy¬n liên tøc.",
+help_jbcz_shubiaocaozuo,"Thao tác chuµt: 
+Nh¤p chuµt trái mµt l¥n: Di chuy¬n, ch÷n møc tiêu. 
+Nh¤p chuµt phäi mµt l¥n: Ch÷n møc tiêu ğ°ng th¶i tiªn hành các thao tác m£c ğ¸nh.
+         Thao tác m£c ğ¸nh ğ¯i v¾i NPC là nói chuy®n.
+         Thao tác m£c ğ¸nh ğ¯i v¾i quái v§t là công kích
+         Không có thao tác m£c ğ¸nh ğ¯i v¾i ngß¶i ch½i
+Rê nút cuµn cüa chuµt: Hß¾ng lên trên s¨ kéo góc nhìn lÕi g¥n. 
+         Hß¾ng xu¯ng dß¾i s¨ kéo góc nhìn ra xa.
+         Hß¾ng sang trái s¨ xoay góc nhìn ngßşc chi«u kim ğ°ng h°.
+         Hß¾ng sang phäi s¨ xoay góc nhìn theo chi«u kim ğ°ng h°.",
+help_jbcz_teshuwuti,"V§t th¬ ğ£c bi®t:
+    Khi d¤u trö chuµt di chuy¬n ğªn v§t th¬ ğ£c bi®t s¨ tñ ğµng chuy¬n sang hình dÕng d¤u trö ğ£c thù khác. T¤t cä nhæng v§t ph¦m ğ£c bi®t ğ«u là nhæng v§t th¬ có th¬ tß½ng tác v¾i ngß¶i ch½i, ví dø nhß cánh cØa có th¬ m· ra, v§t ph¦m liên quan ğªn nhi®m vø...",
+help_jbcz_xuanzemubiao,"Ch÷n møc tiêu:
+   Nh¤p trái chuµt vào møc tiêu, nªu møc tiêu có th¬ ch÷n thì ngay tÕi giao di®n chính cüa màn hình s¨ hi¬n th¸ bi¬u tßşng änh ğÕi di®n cüa møc tiêu, dß¾i chân møc tiêu s¨ có mµt vòng sáng tròn hi¬n th¸ møc tiêu ğã ğßşc ch÷n.",
+help_ls_caiji,"   R¤t nhi«u loÕi thäo dßşc phân b¯ trong kh¡p tam gi¾i, c¤p ğµ thäo dßşc thay ğ±i theo khu vñc, tÕi nhæng khu vñc c¤p cao s¨ thu ğßşc thäo dßşc c¤p cao.
+
+Tên g÷i      C¤p ğµ c¥n
+Chu Thäo           1
+Dã Ma Cô           1
+Ğan Sâm            1
+HÕ Cô Thäo        2
+Chu Quä              2
+L® Chi Thäo        2
+B¡c Thäo Ô        3
+Hà Thü Ô            3
+Kim Ngân Hoa    3
+La Hán Quä         4
+Ğµc C¥n               4
+ThÕch Ğiªu Lan   4
+Vô Hoa Quä         5
+Vô Cån Ğ¢ng       5
+Bách Lı Hß½ng     5
+",
+help_ls_caikuang,"    R¤t nhi«u loÕi khoáng thÕch phân b¯ trong tam gi¾i, c¤p ğµ thäo dßşc thay ğ±i theo khu vñc, tÕi nhæng khu vñc c¤p cao s¨ thu ğßşc khoáng thÕch c¤p cao.
+
+Tên                          C¤p ğµ c¥n
+Tranh H°ng ThÕch          1
+BÕch Vân ThÕch              1
+BÕch Lñu ThÕch              2
+Di®p LÕp ThÕch               2
+Tiêm Tinh ThÕch              3
+Tr÷ng Tinh ThÕch             3
+Thüy MÛ ThÕch                 4
+Ngoan Höa ThÕch            4
+Læ Lñu ThÕch                   5
+Ği¬n Ngân ThÕch             5
+",
+help_ls_fenjie,"Phân giäi: 
+   Phân giäi ho£c kªt tinh nhæng v§t ph¦m hiªm Ng÷c Løc ho£c Ng÷c Løc tr· lên.
+Ği«u ki®n phân giäi: 
+   KÛ nång phân giäi chï có th¬ phân giäi nhæng v§t ph¦m có c¤p ğµ tß½ng Ñng.
+   Tinh th¬ thu ğßşc sau phân giäi s¨ có cùng tính ch¤t và c¤p ğµ v¾i trang b¸ ğßşc phân giäi. Ví dø: Trang b¸ t× c¤p 1 - 10 s¨ thu ğßşc Tinh th¬ c¤p 1.
+
+Tên               C¤p ğµ c¥n      Tác døng 
+Tinh th¬ xanh   C¤p 1 - 5   Tång thuµc tính bµ ph§n cüa v§t ph¦m.
+Tinh th¬ lam   C¤p 1 - 5    Tång thuµc tính bµ ph§n cüa v§t ph¦m.
+Tinh th¬ vàng   C¤p 1 - 5   Tång thuµc tính bµ ph§n cüa v§t ph¦m.
+Tinh th¬ tím     C¤p 1 - 5  Tång thuµc tính bµ ph§n cüa v§t ph¦m.
+",
+help_ls_jichuguize,"   M²i ngß¶i ch½i có th¬ h÷c t¯i ğa 2 kÛ nång t× NPC dÕy kÛ nång sinh hoÕt.
+   KÛ nång sinh hoÕt chia làm 10 c¤p, m²i khi thu th§p ho£c chª tÕo mµt v§t ph¦m s¨ thu ğßşc kinh nghi®m, nªu thu th§p ho£c chª tÕo v§t ph¦m th¤p h½n c¤p ğµ kÛ nång hi®n tÕi thì kinh nghi®m thu ğßşc s¨ giäm d¥n xu¯ng 0.
+   H¥u hªt nhæng v§t ph¦m chª tÕo ra phäi có kÛ nång sinh hoÕt tß½ng Ñng m¾i có th¬ sØ døng.",
+help_ls_moshi,"   Tinh ThÕch (có ğßşc trong quá trình thu th§p khoáng thÕch) và Tinh Th¬ (có ğßşc sau khi phân giäi), träi qua quá trình tinh luy®n s¨ thu ğßşc Ma ThÕch. Ma ThÕch có th¬ dùng ğ¬ khäm nÕm lên trang b¸ ho£c pháp bäo. Tùy thuµc vào c¤p ğµ và tính ch¤t cüa trang b¸ và pháp bäo mà s¯ lßşng Ma ThÕch có th¬ khäm nÕm trên chúng khác nhau. LoÕi BÕch Nh§t và Ng÷c Løc có th¬ khäm nÕm 1 viên, Thiên Thanh, Hoàng Kim và TØ Ğinh có th¬ khäm nÕm 2 viên. Ma thÕch có th¶i hÕn sØ døng, công hi®u s¨ m¤t sau t× 7 ğªn 30 ngày k¬ t× lúc khäm nÕm thành công.
+
+Tên             C¤p ğµ c¥n    Tác døng
+Lñc ThÕch C¤p 1 - 5      1-5 tång mµt s¯ ği¬m sÑc mÕnh 
+Th¬ ThÕch  C¤p 1 - 5      1-5 tång mµt s¯ ği¬m th¬ lñc 
+Trí ThÕch    C¤p 1 - 5     1-5 tång mµt s¯ ği¬m trí tu® 
+T¯c ThÕch  C¤p 1 - 5     1-5 tång mµt s¯ ği¬m nhanh nh©n ",
+help_ls_zhifu,"Chª phù: Dùng tinh thÕch ğ¬ chª tÕo bùa chú, có th¬ sØ døng trong lúc chiªn ğ¤u.
+
+Tên                      C¤p ğµ c¥n      Tác døng
+H°i Huyªt Chú    C¤p 1 - 5    1-5 sau mµt khoäng th¶i gian nh¤t ğ¸nh h°i phøc mµt s¯ ği¬m HP,
+                                                   th¶i gian ch¶ 2 phút
+H°i Pháp Chú    C¤p 1 - 5    1-5 sau mµt khoäng th¶i gian nh¤t ğ¸nh h°i phøc mµt s¯ ği¬m MP,
+                                                   th¶i gian ch¶ 2 phút",
+help_ls_zhiyao,"Chª dßşc: Dùng dßşc li®u ğ¬ luy®n ğan dßşc, nh¢m tång hay h°i phøc sÑc mÕnh cho bän thân. Ph¥n l¾n chï có th¬ sØ døng khi không trong trÕng thái chiªn ğ¤u, có th¶i gian ch¶ cho m²i l¥n sØ døng. Ğa s¯ không có tác døng v¾i quái v§t và pvp.
+
+Tên                                           C¤p ğµ c¥n      Tác døng
+H°i Huyªt Dßşc Thüy           C¤p 1 - 5    1-5 Sau mµt khoäng th¶i gian nh¤t ğ¸nh h°i phøc HP y 
+                                                           ği¬m (trÕng thái không chiªn ğ¤u)
+H°i Pháp Dßşc Thüy            C¤p 1 - 5    1-5 Sau mµt khoäng th¶i gian nh¤t ğ¸nh h°i phøc MP y
+                                                            ği¬m (trÕng thái không chiªn ğ¤u)
+Gia T¯c Tång Huyªt Dßşc Thüy C¤p 1 - 5    1-5 h°i phøc ngay l§p  
+                                               tÑc mµt s¯ ği¬m HP, th¶i gian ch¶ 3 phút
+Gia T¯c Tång Pháp Dßşc Thüy C¤p 1 - 5    1-5 h°i phøc ngay l§p
+                                              tÑc mµt s¯ ği¬m MP, th¶i gian ch¶ 3 phút
+",
+help_ltxt_ltbiaoqing,"Bi¬u tßşng vui
+   BÕn ğã chán nhæng kı tñ khô khan? V§y hãy ch÷n nhæng bi¬u tßşng vui th§t sinh ğµng có sÇn trong h® th¯ng ğ¬ bày tö khiªu hài hß¾c cüa bÕn nhé.
+Cách sØ døng ra sao?
+R¤t ğ½n giän, bÕn chï c¥n nh¤p vào bi¬u tßşng m£t cß¶i dß¾i dòng nh§p li®u là s¨ xu¤t hi®n bäng li®t kê bi¬u tßşng vui. Ho£c bÕn có th¬ nh§p trñc tiªp vào thanh nh§p li®u kı hi®u '#', sau ğó nh§p thêm s¯ hi®u tß½ng Ñng v¾i bi¬u tßşng là ğßşc.",
+help_ltxt_ltdiy,"DIY Kı tñ tán gçu
+   BÕn có mu¯n nhæng thông tin cüa bÕn n±i b§t lên không? BÕn có mu¯n thông tin cüa bÕn thu hút sñ chú ı cüa ngß¶i khác không? V§y thì hãy nh¾ nhæng l®nh t¡t dß¾i ğây nhé!
+##s¯     Hi¬n th¸ m£t cß¶i. 
+#r        Thay ğ±i dòng.
+##        Hi¬n th¸ s¯#.
+#b        Hi¬n th¸ kı tñ #bch¾p nháy.
+#u        Hi¬n th¸ kı tñ #ugÕch chân.
+#R        Hi¬n th¸ kı tñ #Rmàu ğö.
+#G        Hi¬n th¸ kı tñ #Gmàu xanh.
+#B        Hi¬n th¸ kı tñ #Bmàu lam.
+#Y        Hi¬n th¸ kı tñ #Ymàu vàng.
+#W        Hi¬n th¸ kı tñ #Wmàu tr¡ng.
+#K        Hi¬n th¸ kı tñ #Kmàu ğen.
+#c        Dña theo bäng màu RGB 16 bit có th¬ hi¬n th¸ kı tñ có màu theo bäng.
+#n        Khôi phøc lÕi màu s¡c và trÕng thái kı tñ m£c ğ¸nh.",
+help_ltxt_ltml,"Dß¾i ğây là mµt s¯ l®nh tán gçu ğ¬ giúp bÕn ti®n thao tác:
+/s                               Tán gçu chung
+/tên ngß¶i ch½i        Tán gçu riêng
+/t                                Hàn Huyên trong Nhóm
+/o                               Hàn Huyên trong Môn Phái
+/g                                Hàn Huyên trong Bang Hµi
+/w                               Hàn Huyên trong Tam Gi¾i
+/y                                Loan Báo
+/d                                Hàn Huyên Giao D¸ch
+Nªu bÕn không nh¾ ğßşc các l®nh t¡t trong trò ch½i, bÕn có th¬ gõ /chat ho£c /chathelp vào khung tán gçu, h® th¯ng s¨ tñ ğµng li®t kê các l®nh tán gçu.",
+help_ltxt_ltpd,"Trong kênh hàn huyên có 8 kênh nhö: 
+Hi®n tÕi: T¤t cä ngß¶i ch½i trong t¥m nhìn ğ«u có th¬ ğ÷c ğßşc tin tÑc công b¯ trên kênh hi®n tÕi. 
+Loan báo: T¤t cä ngß¶i ch½i trong khu vñc ğ«u có th¬ ğ÷c ğßşc tin tÑc công b¯ trên kênh này.
+Nhóm: Kênh riêng dùng ğ¬ liên lÕc v¾i các thành viên trong nhóm lúc l§p thành nhóm. Nªu ngß¶i ch½i không có nhóm thì s¨ nh§n ğßşc thông báo cüa h® th¯ng: 'Hi®n chßa có nhóm'.
+Môn phái: Dành cho nhæng ngß¶i ch½i trong cùng môn phái liên lÕc v¾i nhau, t¤t cä ngß¶i ch½i trong môn phái ğ«u có th¬ ğ÷c ğßşc nhæng tin tÑc công b¯ trên kênh này.
+Bang hµi: Dành cho nhæng ngß¶i ch½i trong cùng bang hµi liên lÕc v¾i nhau, t¤t cä nhæng ngß¶i ch½i trong cùng bang hµi ğ«u có th¬ ğ÷c ğßşc nhæng tin tÑc công b¯ trên kênh này. Nªu ngß¶i ch½i chßa vào bang hµi thì s¨ nh§n ğßşc thông báo cüa h® th¯ng: 'Hi®n chßa có bang hµi'.
+Tán gçu riêng: Kênh tán gçu riêng dùng ğ¬ m²i ngß¶i ch½i liên lÕc v¾i nhau. Thông tin chï có th¬ truy«n ğªn mµt ngß¶i ch½i cø th¬.
+Nªu ngß¶i ch½i ğó v¡ng m£t thì bÕn s¨ nh§n ğßşc thông báo cüa h® th¯ng:  '**Ngß¶i ch½i v¡ng m£t'.
+Giao d¸ch: Kênh giao d¸ch dùng ğ¬ công b¯ nhæng tin tÑc v« nhæng yêu c¥u v§t ph¦m cüa ngß¶i ch½i trong trò ch½i.
+Tam gi¾i: T¤t cä ngß¶i ch½i trong trò ch½i ğ«u có th¬ ğ÷c ğßşc nhæng tin tÑc công b¯ trên kênh tam gi¾i. Nhßng vi®c sØ døng kênh tam gi¾i b¸ gi¾i hÕn b·i c¤p ğµ ngß¶i ch½i, chï có ngß¶i ch½i c¤p ğµ 80 tr· lên m¾i có th¬ sØ døng.",
+help_monster_11to20,"Sau khi träi qua th¶i kÏ tân thü, ngß¶i ch½i t× c¤p 11 tr· ği có th¬ ch÷n t× Thiên Hóa Thôn ği Vân Linh S½n ho£c t× Døc Thành Thôn ği ğªn H± Träo S½n luy®n công làm nhi®m vø, nhi®m vø cüa hai bên không ğ¯i l§p nhau nên có th¬ làm cä hai. Ngoài ra t× c¤p 15 tr· ği có th¬ nh§n ğßşc nhi®m vø c¤m ğ¸a · hai n½i này, có th¬ cùng ğÕo hæu l§p nhóm, cùng nhau th¬ nghi®m nhæng c¤m ğ¸a ğ¥y thØ thách. 
+
+Quái v§t · Vân Linh S½n
+Biªn D¸ Trúc Di®p Thanh c¤p 11 Vân Linh Trúc Häi
+Xà Vß½ng Cänh V®   c¤p 11 Vân Linh Trúc Häi
+Trúc Di®p Thanh     c¤p 12 Vân Linh Trúc Häi
+Trúc Lâm Xà Vß½ng   c¤p 12 Vân Linh Trúc Häi (Tinh Anh)
+Phi Ngô Công     c¤p 13 Ngô Công S½n
+Chí MÕng Ngô Công   c¤p 13 Ngô Công S½n
+Xà Thü TÕp D¸ch   c¤p 14 Vân Linh S½n Thôn
+Tiên Linh Ngô Công   c¤p 14 Vân Linh S½n Thôn (Tinh Anh)
+Xà Thü Bµ Ğ¥u   c¤p 15 Vân Linh S½n Thôn
+Ğ¥u Møc Xà Phï   c¤p 16 Vân Linh S½n Thôn
+Xà Nhân Thü V®   c¤p 16 Vân Linh S½n Thôn
+Xà Phï Tß¾ng Quân   c¤p 16 Vân Linh S½n Thôn (Tinh Anh)
+QuÖ Höa       c¤p 17 Ác QuÖ Quan TrÕi
+QuÖ Phong Yêu ĞÕo   c¤p 18 Ác QuÖ Quan TrÕi (Tinh Anh)
+Oán QuÖ       c¤p 19 Ác QuÖ Quan TrÕi
+Ác QuÖ       c¤p 20 Ác QuÖ Quan TrÕi
+
+Quái v§t · H± Träo S½n
+Mãng Xà       c¤p 11 Kinh Cúc Lînh
+Ğµc Dång       c¤p 12 Kinh Cúc Lînh
+Nam S½n Dân     c¤p 12 Kinh Cúc Lînh
+Hung Hãn S½n Dân c¤p 13 Nha Lâm TrÕi
+Ti¬u Dã La   c¤p 14 Ğ°i Dã La
+Ti¬u yêu ğÕo Hà Hßng c¤p 14 Nha Lâm TrÕi (Tinh Anh)
+S½n Lâm Dã Lang   c¤p 15 Nha Lâm TrÕi
+Ti¬u Kim Nhu     c¤p 16 Nha Lâm TrÕi
+Tùng Lâm NgÕc Ngß   c¤p 17 Ğ°i Dã La
+H¡c Th¥n Thü V®   c¤p 18 Nha Lâm TrÕi
+ĞÕi Dã La   c¤p 18 Ğ°i Dã La
+H¡c Th¥n S½n Tß¾ng   c¤p 18 Nha Lâm TrÕi (Tinh Anh)
+Ti¬u H±       c¤p 19 Ğ°i Dã La
+S½n Lâm Mµc Tu Quái c¤p 20 Nha Lâm TrÕi
+Kim Nhu       c¤p 20 Nha Lâm TrÕi",
+help_monster_1to4,"Ğ¯i v¾i ngß¶i ch½i t× c¤p 5 tr· xu¯ng, vi®c hoàn thành mµt s¯ nhi®m vø trong môn phái, ğánh quái dña trên yêu c¥u cüa nhi®m vø là cách lên c¤p t¯t nh¤t.",
+help_monster_21to24,"T× c¤p 21 tr· ği có th¬ ğªn Thành Ğô. Thành Ğô là ğô th¸ l¾n ğ¥u tiên mà bÕn g£p, r¤t nhi«u ngß¶i ch½i tø t§p · ğây. BÕn có th¬ nghï ng½i vui ch½i, sau ğó tiªp tøc con ğß¶ng tu luy®n.
+
+Quái v§t · Thành Ğô
+S½n Tinh       c¤p 21 Phía b¡c Thành Ğô
+Dã Th¯       c¤p 21 Phía b¡c Thành Ğô
+Phï Ğ°       c¤p 21 Phích Tà Thôn
+Ğµc Ma Cô     c¤p 22 Phích Tà Thôn
+Kim Quang Ğïnh     c¤p 22 Phích Tà Thôn (Tinh Anh)
+Tùy Tùng Phi T£c   c¤p 22 Thi Gia HÕng
+Tà Hoa Thiªu Gia   c¤p 23 Võ H¥u T×
+H¡c Y T£c     c¤p 23 Bích V§n Am
+Trß½ng Lßşng       c¤p 23 Thi Gia HÕng (Tinh Anh)
+Hß½ng Khách Kì Quái c¤p 24 Võ H¥u T×",
+help_monster_25to30,"T× c¤p 25 tr· ği có th¬ nh§n mµt s¯ nhi®m vø cüa Thành Ğô, sau ğó ğªn giao chiªn · T× Vân Tñ phía nam Thành Ğô, n½i ğây có c¤m ğ¸a m¾i là T× Vân Tñ Hoan HÖ Ği®n, c¤p 25 tr· ği có th¬ tri®u t§p ğÕo hæu ği thåm dò, nhßng không nên vào quá sâu, t¯t nh¤t hãy ğşi dªn khi c¤p ğµ cao h½n.
+
+Quái v§t · T× Vân Tñ
+Ngøy Thanh Giä MÕo c¤p 24 Thành tây Thành Ğô (Tinh Anh)
+Ngøy Thanh Hµ V®   c¤p 24 Thành tây Thành Ğô
+Dã Lang       c¤p 25 Thành tây Thành Ğô
+Ác Hòa Thßşng     c¤p 25 Thành tây Thành Ğô
+Phi Long Hµ V®   c¤p 25 Thành tây Thành Ğô
+Kim T¢m Hµ V®   c¤p 25 Thành tây Thành Ğô
+Ğ® TØ Mao Thái   c¤p 25 Thành tây Thành Ğô
+Th¬ Hoa T£c     c¤p 26 Thành tây Thành Ğô
+Kim T¢m Bách C± Ğµc c¤p 26 Thành tây Thành Ğô (Tinh Anh)
+Phi Long       c¤p 26 Thành tây Thành Ğô (Tinh Anh)
+Løc Bào Lão T±   c¤p 26 Thành tây Thành Ğô (Tinh Anh)
+Mao Thái       c¤p 26 Thành tây Thành Ğô (Tinh Anh)
+T× Vân Tång Binh   c¤p 27 T× Vân Tñ
+Phï Ğ° N£c Danh c¤p 27 T× Vân Tñ
+Dß½ng Hoa       c¤p 27 T× Vân Tñ (Tinh Anh)
+Tiªt Mãng Xà       c¤p 28 Ngøy Gia Thôn (Tinh Anh)
+Xích Di­m ĞÕo Nhân   c¤p 28 Ngøy Gia Thôn (Tinh Anh)
+T¥n Lãng       c¤p 28 Ngøy Gia Thôn (Tinh Anh)
+Phong Tr¥n Næ TØ   c¤p 28 T× Vân Tñ
+Du DÑc       c¤p 28 T× Vân Tñ (Tinh Anh)
+T× Vân Man Tång   c¤p 28 T× Vân Tñ
+Kim Cß½ng Võ Tång   c¤p 29 T× Vân Tñ
+Thü V® Ngøy Gia Thôn c¤p 29 Ngøy Gia Thôn
+Tri Phi Thi«n Sß   c¤p 30 Ngøy Gia Thôn (Tinh Anh)
+
+",
+help_monster_31to35,"T× c¤p 31 có th¬ ğ±i ğ¸a ği¬m luy®n công t× T× Vân Tñ ğªn Quª Hoa S½n · phía nam, n½i ğây phong cänh hæu tình, là n½i tu chân cüa H°ng Hoa Bà Bà, nhßng sau khi Phi Long Sß Thái ğªn ğoÕt bäo, n½i này d¥n tr· nên kì lÕ. BÕn có th¬ ğªn ğây nghï ng½i, sau ğó nói chuy®n v¾i Nhßşc Lan ğ¬ xem có th¬ giúp ğŞ gì không.
+
+Quái v§t · Quª Hoa S½n
+Thiªt Thú      c¤p 31 Quª Hoa S½n
+Ğào Tinh      c¤p 31 Quª Hoa Gian ĞÕo
+Ğào Hoa Yêu      c¤p 31 Quª Hoa Lâm
+Nhi­m Tà Ğào Thø c¤p 32 Su¯i Bích Tuy«n
+Kim Ğà        c¤p 32 Su¯i Bích Tuy«n (Tinh Anh)
+Kim Ğà Hµ V®    c¤p 32 Su¯i Bích Tuy«n
+Thiªt Hµ V®    c¤p 33 H°ng Hoa Ğµng
+Thiªt Nhân      c¤p 33 Quª Cß
+H°ng Hoa Hµ V®    c¤p 34 H°ng Hoa Ğµng
+NgÕc Ngß        c¤p 34 Ğ¥m Phúc Tiên
+Th¥n NgÕc Thü V®     c¤p 34 Ğ¥m Phúc Tiên
+Xuyên S½n Giáp      c¤p 34 Höa Vân Ğµng
+Thiªt Cñ Nhân    c¤p 34 H°ng Hoa Ğµng (Tinh Anh)
+Höa ThÕch Quái      c¤p 35 Höa Vân Ğµng
+Th¥n NgÕc        c¤p 35 Ğ¥m Phúc Tiên (Tinh Anh)
+H¡c ThÕch Quái      c¤p 35 Ğ¥m Ô Phong Thäo (Tinh Anh)
+H°ng Hoa Bà Bà Giä MÕo c¤p 35 Höa Vân Ğµng (Tinh Anh)
+Phi Long Sß Thái    c¤p 35 Phòng Luy®n Ğan (Tinh Anh)
+H¡c ThÕch Hµ V®     c¤p 35 Ğ¥m Ô Phong Thäo
+
+",
+help_monster_36to40,"T× c¤p 36 tr· ği có th¬ ch÷n ğªn Tuyªt S½n phía sau Quª Hoa S½n, n½i ğó quanh nåm là mùa ğông tuyªt phü, là n½i tø h÷p cüa qu¥n ma Thanh Loa S½n. BÕn có th¬ rèn luy®n thân thü · ğây, chu¦n b¸ cho công cuµc ğánh bÕi Thanh Loa S½n.
+
+Quái v§t · Tuyªt S½n
+Tây Vñc Yêu Nhân c¤p 35 Ti¬u Trß¶ng BÕch S½n
+Tây Vñc Li®t Khuy¬n c¤p 35 Ti¬u Trß¶ng BÕch S½n
+Tây Vñc Ma Tång c¤p 35 Ti¬u Trß¶ng BÕch S½n
+Thñc Hü NgÕc Ngß c¤p 36 Ğ¥m QuÖ Änh
+H°ng Ğ¥u Th¯c ThÑu c¤p 36 Ğ¥m QuÖ Änh
+Thü Lînh Th¯c ThÑu c¤p 36 Ğ¥m QuÖ Änh (Tinh Anh)
+Th¯c ThÑu Hµ V®  c¤p 36 Ğ¥m QuÖ Änh
+Ğ¢ng Tu Quái   c¤p 37 QuÖ Phong S½n C¯c
+Lâm Chß·ng H¡c Hùng c¤p 37 QuÖ Phong S½n C¯c
+Tuyªt S½n Phi Xà c¤p 37 Tuyªt Tùng Lâm Ğ¸a
+Tây Phß½ng Dã Ma c¤p 38 QuÖ Phong S½n C¯c (Tinh Anh)
+Dã Ma Hµ V®  c¤p 38 QuÖ Phong S½n C¯c
+Khoáng ThÕch Cñ Nhân c¤p 38 Tuyªt S½n LÕp Trß¶ng
+Cao S½n Dã Lang c¤p 38 Tuyªt S½n LÕp Trß¶ng
+Tuyªt ¿ng     c¤p 39 NgoÕi Viên Thanh Vi­n Tñ 
+Báo Tuyªt     c¤p 39 NgoÕi Viên Thanh Vi­n Tñ 
+Vi­n C± Tuyªt Nhân c¤p 39 LoÕn ThÕch Cß½ng
+Tuyªt S½n Cñ Nhân c¤p 39 LoÕn ThÕch Cß½ng (Tinh Anh)
+Tuyªt S½n Cß¶ng ĞÕo c¤p 40 Phù Bång Khu
+Thanh Vi­n Tñ Yêu Tång c¤p 40 Thanh Vi­n Tñ
+PhÕm Nã Gia Âm Nh¸ c¤p 40 Thanh Vi­n Tñ (Tinh Anh)
+Yêu Tång Hµ V®  c¤p 40 Thanh Vi­n Tñ
+Ma Cung Träo Nha c¤p 40 Phù Bång Khu
+
+",
+help_monster_41to45,"T× c¤p 41 tr· ği có th¬ ğªn Thanh Loa S½n. N½i ğây ğ¸a hình phÑc tÕp, quái v§t nhi«u vô s¯, tính cänh giác cûng cao h½n quái v§t trß¾c nhi«u, vì v§y phäi c¦n tr÷ng ğ×ng ğä ğµng quá nhi«u quái v§t. Thanh Loa S½n có hang ± trß¾c ğây cüa Bát Ma, Thanh Loa S½n Ma Cung (c¤m ğ¸a). Hi®n chï còn 4 ma ğ¥u · lÕi canh gác trong ma cung nên tß½ng ğ¯i yªu. Sau khi bÕn chu¦n b¸ xong thì có th¬ cùng ğÕo hæu thØ träm yêu di®t ma.
+
+Quái v§t · Thanh Loa S½n
+Thanh Loa S½n Tu¥n La c¤p 41 Sinh Môn
+Thanh Loa S½n Ma Binh   c¤p 41 Sinh Môn
+Bång Sß½ng Tuyªt Nhân     c¤p 41 Sinh Môn
+Thanh Loa S½n Yêu nhân   c¤p 42 Bång Tinh ThÕch Lâm
+Nµ H¯ng Tuyªt Nhân     c¤p 42 Bång Tinh ThÕch Lâm
+Ma Hóa Tuyªt Quái     c¤p 43 Ôn Tuy«n C¯c
+Ma Hóa Thüy Quái     c¤p 43 Ôn Tuy«n C¯c
+Ma Hóa N­ Quái     c¤p 43 Ôn Tuy«n C¯c
+Chiªn Sî Bång Kiên     c¤p 44 Bång Chùy Lînh
+Thanh Loa S½n Äo Ma c¤p 44 TØ Môn
+Sß½ng H°n         c¤p 44 Sß½ng Thø Lâm
+Thanh Hoa S½n Ğao phü  c¤p 45 Cát H¥u Ğài
+Thanh Loa S½n Thü V®  c¤p 45 ĞoÕn Tı Nhai
+U Linh QuÖ Träo     c¤p 45 ĞoÕn Tı Nhai  
+
+
+",
+help_monster_46to50,"T× c¤p 46 tr· ği có th¬ thØ ğªn Mãng Thß½ng S½n phía ğông Thành Ğô. Mãng Thß½ng S½n yêu tà nhi«u vô s¯. BÕn có th¬ thØ thân thü v¾i nhæng cß½ng thi quÖ quái · Tri®u Th¥n Miªu. Mã Hùng Thôn · phía ğông là n½i sinh s¯ng cüa nhæng ngß¶i BÕch Mã Hùng yêu hòa bình, h÷ b¸ sñ Ñc hiªp cüa H¡c Mã Hùng nên r¤t c¥n sñ giúp ğŞ cüa nhæng v¸ kÏ hi®p häo tâm. ĞÕo cø thu ğßşc sau khi tiêu di®t quái v§t · Mãng Thß½ng S½n có th¬ dùng ğ¬ ğ±i l¤y danh v÷ng · ğây. Thß½ng nhân danh v÷ng · Mãng Thß½ng S½n có th¬ bán nhæng bµ trang b¸ TØ Ğinh. — phía Ğông Nam là Yêu Nhân Ğµng Phü, là n½i · cüa nhæng tán tiên tà phái nhß Li®t Höa Lão T±... Hãy ğªn khám phá n½i ğó khi bÕn ğã mÕnh h½n.
+
+Quái v§t · Mãng Thß½ng S½n
+Thanh Dñc Phiên Phúc c¤p 45 Tri®u Th¥n Miªu
+Mai Hoa Tinh   c¤p 45 Tri®u Th¥n Miªu
+Cß½ng Thi     c¤p 45 Tri®u Th¥n Miªu
+Thúy Ği¬u     c¤p 45 Tri®u Th¥n Miªu
+Biªn D¸ H¡c Mã Hùng c¤p 46 Mã Hùng S½n Ğµng
+Th¤t H°n H¡c Mã Hùng c¤p 46 Mã Hùng S½n Ğµng
+H¡c Mã Hùng Tu¥n La c¤p 46 Mã Hùng S½n Ğµng
+H¡c Mã Hùng Thü V® c¤p 46 Mã Hùng S½n Ğµng
+Mã Hùng Th¯ng Lînh c¤p 46 Mã Hùng S½n Ğµng
+S½n Tiêu Tiên Phong c¤p 47 S½n Tiêu Ğµng Huy®t
+S½n Tiêu Chiªn Sî  c¤p 47 S½n Tiêu Ğµng Huy®t
+ĞÕo Sî S½n Tiêu c¤p 47 S½n Tiêu Ğµng Huy®t
+QuÖ S½n Tiêu c¤p 47 S½n Tiêu Ğµng Huy®t
+KÏ ThÕch Thü V® c¤p 47 Mã Hùng Thôn Phø C§n
+Kë ğµt kích KÏ ThÕch c¤p 47 Mã Hùng Thôn Phø C§n
+Tam Änh Th¥n Quân c¤p 47 Mã Hùng Thôn Phø C§n
+Höa Phiªn TØ Y Tiªt c¤p 47 Mã Hùng Thôn Phø C§n
+Ti¬u Mµc BÕt   c¤p 48 Mµc BÕt Sào Huy®t
+Mµc BÕt     c¤p 48 Mµc BÕt Sào Huy®t
+Th¯ng Lãnh Mµc BÕt c¤p 48 Mµc BÕt Sào Huy®t
+Mµc BÕt Yêu Thú c¤p 48 Mµc BÕt Sào Huy®t
+Xích Thi Th¥n Quân c¤p 48 Mµc BÕt Sào Huy®t
+Ti¬u Mãnh H±  c¤p 48 QuÖ H¯ng Lâm
+ĞÕi Mãnh H± c¤p 48 QuÖ H¯ng Lâm
+Lão Mãnh H± c¤p 49 QuÖ H¯ng Lâm
+Höa Xà      c¤p 49 QuÖ H¯ng Lâm
+LßŞng Ğ¥u Höa Xà  c¤p 49 QuÖ H¯ng Lâm
+Xích Thân Næ QuÖ c¤p 49 QuÖ H¯ng Lâm
+Xích Thân Næ Ma c¤p 49 QuÖ H¯ng Lâm
+Løc Thø QuÖ Linh c¤p 49 QuÖ H¯ng Lâm
+Ğµc Tri Chu c¤p 49 QuÖ H¯ng Lâm
+
+
+
+
+",
+help_monster_51to60,"T× c¤p 51 tr· ği có th¬ ği xuyên qua QuÖ H¯ng Lâm ğ¬ ğªn thØ thân thü · g¥n Ğ¾i Gia Trß¶ng. Trên ğoÕn ğß¶ng t× QuÖ H¯ng Lâm ğªn Ğ¾i Gia Trß¶ng s¨ ği qua mµt s¯ n½i nhß NhÕc Miªu, Kinh Cúc Lâm, Trß¶ng Sa Tr¤n, Lång Phü... G¥n ğây thª lñc tà ác · Læ Thôn ngày càng l¾n mÕnh, g¥n Ngß Th¥n Ğµng Phü lúc nào cûng có mµt nhóm ngß¶i ğ¯t ğu¯c ra vào thß¶ng xuyên. Nªu bÕn tích cñc giúp ğŞ m÷i ngß¶i trên ğß¶ng ği ğªn Ğ¾i Gia Trß¶ng thì danh v÷ng cüa bÕn · ğây s¨ tång r¤t nhanh.",
+help_monster_5to10a,"Sau c¤p 5, ngß¶i ch½i có th¬ ch÷n ği ğªn Thiên Hóa Thôn dß¾i núi.
+— Thiên Hóa Thôn ngß¶i dân tính tình chân ch¤t, trong thôn lÕi có ğ¥y ğü m÷i thÑ, là n½i tø h÷p cüa các tân thü, quái v§t xung quanh thích hşp cho vi®c tu luy®n cüa tân thü, nhi®m vø thôn trang s¨ giúp bÕn tìm ğßşc nhæng quái v§t phù hşp v¾i c¤p ğµ. Ngoài ra, thông qua thôn dân ¦n cß, bÕn s¨ ğªn ğßşc mµt ngôi làng khác dành cho tân thü là Døc Thành Thôn, nhßng ph¥n thß·ng nhi®m vø · ğây không phäi là ğÕo cø mà là kinh nghi®m và ngân lßşng. Lúc thñc hi®n loÕi nhi®m vø Tinh Anh t¯t nh¤t nên tri®u t§p ğÕo hæu ği cùng.
+
+Quái v§t · Thiên Hóa Thôn
+ĞÕi S½n Lang c¤p 4 Phía b¡c Thiên Hóa Thôn
+Ma Cô     c¤p 5 Phía tây Thiên Hóa Thôn
+Lang Vß½ng Th¸ V®  c¤p 6 Phía ğông b¡c Thiên Hóa Thôn
+Tinh Anh Lang Vß½ng c¤p 6 Phía ğông b¡c Thiên Hóa Thôn (Tinh Anh)
+Ti¬u Báo     c¤p 6 H¡c Tâm Thäo Nguyên
+Ti¬u H¡c Báo   c¤p 6 H¡c Tâm Thäo Nguyên
+Ti¬u Song Ğ¥u Xà c¤p 7 Ğ¥m H° Linh
+Lßu Phï     c¤p 7 Phía nam Thiên Hóa Thôn
+U Linh     c¤p 7 H¡c Tâm Thäo Nguyên
+Kim Giác Mãng Xà   c¤p 8 Ğ¥m H° Linh
+Cß¶ng ĞÕo     c¤p 8 Phía nam Thiên Hóa Thôn
+Sài Lang     c¤p 8 Sâu bên trong H¡c Tâm Thäo Nguyên
+Song Thân Xà   c¤p 8 Sâu bên trong ğ¥m H° Linh
+Phi Xà     c¤p 9 Sâu bên trong H¡c Tâm Thäo Nguyên
+Cß¶ng ĞÕo Hãn Phï c¤p 9 Hoang mÕc phía nam
+Cß¶ng ĞÕo Nh¸ Ğß½ng Gia c¤p 9 Hoang mÕc phía nam
+Cß¶ng ĞÕo Phï Binh c¤p 10 Hoang mÕc phía nam
+H¡c Báo    c¤p 10 Sâu bên trong H¡c Tâm Thäo Nguyên
+Ác QuÖ Hung Linh c¤p 10 Sâu bên trong H¡c Tâm Thäo Nguyên (Tinh Anh)
+Thü Lînh Cß¶ng ĞÕo c¤p 10 Hoang mÕc phía nam (Tinh Anh)
+",
+help_monster_5to10b,"Sau c¤p 5, ngß¶i ch½i có th¬ ch÷n ği ğªn Døc Thành Thôn dß¾i núi.
+Døc Thành Thôn n¢m · sa mÕc, quanh nåm phäi ğ¯i ğ¥u v¾i sa phong bão cát. Thôn dân tính tình hào säng, chân thành. Trong thôn có ğ¥y ğü m÷i thÑ, là n½i tø t§p cüa tân thü, quái v§t xung quanh thích hşp cho vi®c tu luy®n cüa tân thü, nhi®m vø thôn trang s¨ giúp bÕn tìm ğßşc nhæng quái v§t phù hşp v¾i c¤p ğµ. Ngoài ra, thông qua ĞÕi Hi®p †n Cß, bÕn s¨ ğªn ğßşc mµt ngôi làng khác dành cho tân thü là Døc Thành Thôn, nhßng ph¥n thß·ng nhi®m vø · ğây không phäi là ğÕo cø mà là kinh nghi®m và ngân lßşng. Lúc thñc hi®n loÕi nhi®m vø Tinh Anh t¯t nh¤t nên tri®u t§p ğÕo hæu ği cùng.
+
+Quái v§t · Døc Thành Thôn
+Chiªn Mã     c¤p 4 H¡c C¯c
+Thü Lînh Lßu Kh¤u c¤p 6 Phía ğông Døc Thành Thôn (Tinh Anh)
+Mã T£c Hãn Phï c¤p 6 Mã T£c Oa
+Cß¶ng Mã T£c   c¤p 8 Mã T£c Oa
+Thü Lînh Mã T£c c¤p 8 Mã T£c Oa (Tinh Anh)     
+SÑ Giä Vô My c¤p 8 Sa mÕc
+Vô My Yêu Næ c¤p 9 Sa mÕc
+Thø Mê Nam Nhân c¤p 9 Sa mÕc
+Oán Linh     c¤p 9 Oán Linh Phª Tích
+Oan H°n    c¤p 10 Oán Linh Phª Tích
+Lân Höa    c¤p 10 Oán Linh Phª Tích
+Mãnh Höa ĞÕo Trß·ng c¤p 10 Oán Linh Phª Tích (Tinh Anh)",
+help_task_paimaijieshao,"Gi¾i thi®u h® th¯ng rao bán:
+   Nhæng NPC phø trách rao bán thß¶ng ğÑng · nhæng v¸ trí m÷i ngß¶i qua lÕi t¤p n§p trong nhæng thành tr¤n. NPC rao bán là nhæng ngß¶i trung l§p, h÷ s¨ ğ°ng ı giao d¸ch v¾i ngß¶i ch½i cüa b¤t kÏ môn phái nào.
+   T¤t cä vi®c rao bán ğ«u trß¾c tiên phäi thu ti«n ğ£t c÷c. Ti«n ğ£t c÷c s¨ ğßşc trä lÕi sau khi bán v§t ph¦m thành công, nªu vi®c rao bán không thành công thì s¨ kh¤u tr× ti«n ğ£t c÷c.
+   V§t ph¦m có ğßşc do rao bán có th¬ ğßşc gØi ğªn cho bÕn b¢ng bßu ki®n, bÕn có th¬ ğªn ch² ngß¶i Quän Lı Bßu Ki®n ğ¬ nh§n.",
+help_task_paimaijinjia,"Ğ¤u giá:
+  Ch÷n v§t ph¦m mà bÕn mu¯n ğ¤u giá trong cØa s± mua s¡m. Ch¤t lßşng và tên trang b¸ s¨ ğßşc li®t kê cùng v¾i c¤p ğµ, th¶i gian kªt thúc rao bán, ngß¶i ğ¤u giá cao nh¤t và giá ğ¤u. Sau ğó bÕn gõ giá mà bÕn mu¯n ğ¤u vào ô ğ¤u giá · bên dß¾i bäng ki®t kê v§t ph¦m. Cu¯i cùng nh¤p ch÷n 'Ğ¤u giá' · bên dß¾i ph¥n li®t kê v§t ph¦m.
+
+Hi¬n th¸ v§t ph¦m ğ¤u giá:
+  V§t ph¦m mà bÕn tham gia ğ¤u giá s¨ ğßşc hi¬n th¸ trong trang ğ¤u giá, ch÷n bi¬u tßşng ğ¤u giá · phía dß¾i màn hình s¨ ğßa bÕn sang màn hình dò tìm v§t ph¦m.
+
+Ğ¤u giá th¤t bÕi:
+  Nªu có ngß¶i ğßa ra giá cao h½n thì vi®c ğ¤u giá cüa bÕn s¨ th¤t bÕi. S¯ ti«n ğ¤u giá cüa bÕn s¨ ğßşc ğßa vào ch² cüa 'Ti¬u Nh¸'.
+
+Giá bán ngay:
+  V§t ph¦m có giá bán ngay, nªu bÕn ğßa ra giá này thì s¨ mua ngay ğßşc v§t ph¦m và kªt thúc vi®c rao bán, bÕn s¨ ğªn l¤y v§t ph¦m · ch² 'Ti¬u Nh¸'.
+",
+help_task_paimailiulan,"Mua s¡m v§t ph¦m:   
+   Khi bÕn nh¤p chuµt vào NPC rao bán s¨ làm xu¤t hi®n mµt bäng ğ¬ tr¯ng. BÕn s¨ dùng nó ğ¬ tra cÑu nhæng món ğ° bÕn mu¯n. Các hÕng møc tra cÑu bao g°m: 
+Tên ğÕo cø: Gõ tên ğÕo cø mà bÕn c¥n.
+PhÕm vi c¤p ğµ: Gõ phÕm vi c¤p ğµ cüa ğÕo cø bÕn c¥n.
+MÑc ğµ hiªm: Ch÷n c¤p ğµ tính ch¤t cüa ğÕo cø bÕn c¥n theo danh sách. 
+Ch÷n môn phái: Ch÷n môn phái thích hşp v¾i ğÕo cø bÕn c¥n.
+V§t ph¦m khä døng: Hi¬n th¸ t¤t cä nhæng v§t ph¦m rao bán mà bÕn có th¬ sØ døng.
+Li®t kê loÕi v§t ph¦m: Ch÷n loÕi v§t ph¦m rao bán mà bÕn c¥n hi¬n th¸.",
+help_task_paimaipaimai,"Ğ£t v§t ph¦m vào khung rao bán: 
+   Nh¤p vào nút 'Rao bán' s¨ chuy¬n sang màn hình rao bán, sau ğó m· khung ğÕo cø cüa bÕn r°i dùng chuµt kéo rê v§t ph¦m c¥n rao bán vào trong khung v§t ph¦m rao bán · phía trên bên phäi màn hình.
+
+Chïnh giá kh·i ği¬m: 
+   Ngß¶i ch½i dña vào phán ğoán cüa mình ğ¬ ch÷n giá kh·i ği¬m, cûng có th¬ tham khäo giá cüa nhæng ngß¶i ch½i khác ğ¬ ğßa ra giá kh·i ği¬m cüa mình.
+
+Chïnh th¶i gian rao bán: 
+   Vi®c chïnh th¶i gian rao bán là r¤t quan tr÷ng, b·i vì th¶i gian rao bán càng dài thì s¯ ti«n ğ£t c÷c s¨ càng l¾n. Nªu món ğ° cüa bÕn ğßşc bán ği, bÕn s¨ thu lÕi s¯ ti«n ğó. Nªu không có ai mua, bÕn s¨ m¤t ği ti«n ğ£t c÷c. Thông thß¶ng th¶i gian rao bán nªu ng¡n (vài tiªng ho£c ít h½n) s¨ an toàn  h½n. Tuy nhiên, nªu th¶i gian rao bán không ğü dài thì ngß¶i khác s¨ không k¸p th¤y v§t ph¦m cüa bÕn.
+
+Chính giá bán ngay (có th¬ không chïnh) : 
+   Giá này là giá bÕn cäm th¤y v×a lòng nh¤t ğ¯i v¾i v§t ph¦m cüa mình, t¤t nhiên bÕn cûng không nên ğ£t quá cao, nhß v§y s¨ khiªn nhæng ngß¶i thích v§t ph¦m cüa bÕn cäm th¤y không ğü khä nång mua.
+Ng×ng rao bán: 
+   Nªu khi th¶i hÕn rao bán kªt thúc mà v§t ph¦m cüa bÕn vçn chßa ğßşc bán thì vi®c rao bán s¨ b¸ ng×ng, ğ°ng th¶i bÕn s¨ m¤t ti«n ğ£t c÷c. V§t ph¦m mà bÕn rao bán s¨ ğßşc ğßa vào ch² cüa 'Ti¬u nh¸'.
+",
+help_task_renwudezuoyong,"Tác døng cüa nhi®m vø:
+   Làm nhi®m vø chính là con ğß¶ng t¡t và hình thÑc chính ğ¬ lên c¤p, có ğßşc trang b¸... Nªu bÕn mu¯n ğßşc lên c¤p và tr· nên mÕnh m¨ h½n, thì vi®c giành ph¥n l¾n th¶i gian cho vi®c làm nhi®m vø chính là mµt lña ch÷n ğúng ğ¡n. Nên t§n døng hªt khä nång ğ¬ nh§n th§t nhi«u nhi®m vø, khi v×a hoàn thành nhi®m vø này thì nên nh§n ngay mµt nhi®m vø m¾i ! Ğß½ng nhiên bÕn có th¬ ği và làm nhæng gì bÕn thích, ği«u quan tr÷ng là bän thân mình cäm th¤y vui là ğßşc.",
+help_task_renwuditu,"Ğ¸a ğ° nhö
+   Khi bÕn hoàn thành nhi®m vø và g¥n ğó lÕi có NPC giao nhi®m vø, ğ¸a ğ° nhö s¨ dùng ği¬m màu vàng thay cho ği¬m màu xanh ğ¬ ğÕi di®n cho NPC ğó, chï ra v¸ trí cüa ngß¶i ğó. (Nhß hình v¨)",
+help_task_renwugongxiang,"Nhi®m vø cµng hß·ng
+   Trong tam gi¾i cüa chúng ta, ph¥n l¾n nhæng nhi®m vø ğ«u có th¬ cùng làm chung v¾i nhæng ngß¶i ch½i khác, nhßng ğòi höi nhæng yêu c¥u sau: 
+1. Chï có th¬ cùng làm nhi®m vø sau khi l§p nhóm.
+2. Nªu nhi®m vø cùng làm là mµt trong nhæng nhi®m vø n¯i tiªp thì yêu c¥u tiªn ğµ hai bên phäi gi¯ng nhau.",
+help_task_renwuhuode,"Làm thª nào ğ¬ nh§n nhi®m vø?
+   Trong tam gi¾i rµng l¾n có r¤t nhi«u NPC chÑc nång khác nhau · kh¡p các n½i, khi bÕn nhìn th¤y mµt NPC có xu¤t hi®n d¤u ch¤m than màu vàng trên ğ¥u thì có nghîa là ngß¶i ğó có nhi®m vø phù hşp v¾i c¤p ğµ cüa bÕn mà bÕn có th¬ tiªp nh§n. (Nhß hình v¨)
+Trong s¯ nhæng nhi®m vø tiªp nh§n có loÕi nhi®m vø n¯i tiªp, ğó là nhæng nhi®m vø nhö ğòi höi bÕn phäi kiên nhçn hoàn thành t×ng giai ğoÕn, cûng có loÕi nhi®m vø Tinh Anh ğòi höi bÕn phäi tri®u t§p thêm ğÕo hæu ği cùng m¾i có th¬ hoàn thành ğßşc.",
+help_task_renwuwupin,"V§t ph¦m nhi®m vø
+   Ph¥n thß·ng cüa nhi®m vø s¨ tñ ğµng ğ£t vào nhân v§t cüa bÕn khi hoàn thành nhi®m vø. Còn v§t ph¦m nhi®m vø chï có th¬ ğßşc trang b¸ ho£c bán cho mµt NPC chÑ không th¬ bán ho£c t£ng cho ngß¶i ch½i khác.",
+help_task_renwuzuizong,"ChÑc nång truy tìm nhi®m vø (S± ghi chép nhi®m vø) 
+   Ğ¬ giúp bÕn có th¬ hi¬u ğßşc nµi dung và ği«u ki®n cüa nhi®m vø mµt cách nhanh chóng và thu§n ti®n, bÕn có th¬ xem bên phäi cüa màn hình trò ch½i. Khi bÕn có nhi®m vø, h® th¯ng s¨ tñ ğµng hi¬n th¸ tiªn ğµ hi®n tÕi cüa bÕn. BÕn cûng có th¬ m· khung nhi®m vø trong thanh công cø phía dß¾i màn hình ğ¬ ğ÷c kî h½n v« ph¥n gi¾i thi®u nhi®m vø ho£c t× bö nhæng nhi®m vø ğã tiªp nh§n mà bÕn không mu¯n làm. (Nhß hình v¨)
+",
+help001_01a,"Ch÷n møc tiêu",
+help001_01b,"Di chuy¬n nhân v§t",
+help001_01c,"Nói chuy®n v¾i NPC",
+help001_01d,"Công kích møc tiêu",
+help001_01e,"V§t th¬ ğ£c bi®t",
+help001_01f,"Thao tác chuµt",
+help001_01g,"Thao tác bàn phím",
+help001_01h,"Cách nh§n nhi®m vø",
+help001_02a,"Pháp bäo là gì ?",
+help001_02b,"Cách sØ døng kÛ nång pháp bäo",
+help001_02c,"C¤p ğµ pháp bäo",
+help001_02d,"Trang b¸ pháp bäo",
+help001_02e,"Giám ğ¸nh pháp bäo",
+help001_02f,"Tu luy®n pháp bäo",
+help001_02g,"Dung hşp pháp bäo",
+help001_02h,"Khäm nÕm pháp bäo",
+help001_02i,"V§t li®u khäm nÕm",
+help001_03a,"Gi¾i thi®u kênh hàn huyên",
+help001_03b,"Các l®nh trong hàn huyên",
+help001_03c,"Ki¬u chæ DIY",
+help001_03d,"Bi¬u tßşng vui",
+help001_04a,"Tác døng cüa nhi®m vø",
+help001_04b,"Giao nh§n nhi®m vø",
+help001_04c,"Truy tìm nhi®m vø",
+help001_04d,"V§t ph¦m nhi®m vø",
+help001_04e,"Nhi®m vø cµng hß·ng",
+help001_04f,"Ğ¸a ğ° nhö",
+help001_05a,"Gi¾i thi®u h® th¯ng rao bán",
+help001_05b,"Mua s¡m v§t ph¦m",
+help001_05c,"Ğ¤u giá",
+help001_05d,"Rao bán v§t ph¦m",
+help001_06a,"Nguyên t¡c c½ bän",
+help001_06b,"Hái dßşc thäo",
+help001_06c,"Pha chª thäo dßşc",
+help001_06d,"Khai thác khoáng thÕch",
+help001_06e,"Chª tÕo bùa chú ",
+help001_06f,"Phân giäi",
+help001_06g,"Chª tÕo ma thÕch",
+help004_014,"Ph§t âm thanh tâm, ğ¸ch ğãng hung hoài, thí chü có ği«u chi th¡c m¡c...?",
+help005_014,"Phúc h÷a tùy tâm, kính ğài thanh minh, thí chü có ği«u chi th¡c m¡c...?",
+help006_014,"ĞÕi sß xu¤t ngoÕi vân du, d£n ta thay ngß¶i trä l¶i, thí chü có ği«u chi th¡c m¡c",
+helpaaa,"Quay v« trang trß¾c",
+npctalk_012,"Hoan nghênh ğã ğªn v¾i thª gi¾i Thøc S½n KÏ Hi®p",
+npctalk_018,"N½i này là th¡nh ğ¸a tiên gia, quı v¸ có th¬ tùy ı dÕo ch½i",
+npctalk_024,"Sau ğó thì sao?",
+npctalk002_13,"Có th¬ men theo Thüy Liêm Ğµng n¢m trên vách núi ğ¯i di®n ğ¬ ra ngoài xem...",
+npctalk002_19,"Tiªn vào Vân Linh S½n Xà Huy®t",
+npctalk002_7,"Ğây là trang thÑ hai",
+npctalk040_14,"Nh¤t th¶i vô ı s¨ b¸ lû r¡n này t§p kích, xem ra g¥n ğây n½i nào cûng không an toàn...",
+npctalk041_14,"Ph§t âm thanh tâm, ğ¸ch ğãng hung hoài, thí chü có ği«u chi th¡c m¡c...?",
+npctalk042_14,"Phúc h÷a tùy tâm, kính ğài thanh minh, thí chü có ği«u chi th¡c m¡c...?",
+npctalk045_14,"ĞÕi sß xu¤t ngoÕi vân du, d£n ta thay ngß¶i trä l¶i, thí chü có ği«u chi th¡c m¡c",
+npctalk049_14,"H×, b÷n xà quái kh¯n kiªp, khiªn s¯ ngß¶i b¸ thß½ng trong làng ngày mµt tång lên, cÑ nhß thª này thì s¨ không ±n... ",
+npctalk050_14,"Ôi, b÷n tà ğÕo kh¯n kiªp, nß½ng tØ ğáng thß½ng cüa ta...",
+npctalk051_14,"Mu¯n u¯ng rßşu v¾i ta không? Rßşu · V÷ng Giang L¥u quä th§t ngon tuy®t, rßşu ngon phäi u¯ng cho say...",
+npctalk052_13,"Ngßng Bích Nhai là tu chân phúc ğ¸a, chúng ğ® tØ phäi chåm chï tu hành, không ğßşc lß¶i biªng...",
+npctalk053_13,"Bách C¥m ĞÕo Nhân ğã xu¤t nguyên th¥n ği ngao du tam gi¾i, thân th¬ vçn · lÕi ğây, trông nhß mµt pho tßşng uy nghi, chòm râu dài ph¤t ph½ bay trong gió...",
+npctalk054_14,"ĞÑng ğó tr×ng m¡t nhìn ta làm gì? Có phäi ğang ngÑa ngáy, mu¯n ta ğªn cho ngß½i mµt tr§n...?",
+npctalk056_14,"Ha ha, ğ×ng có cän tr· vi®c tìm mÛ næ cüa ta, coi ch×ng ta PK ngß½i bây gi¶...",
+npctalk058_10,"Giang h° luôn xu¤t hi®n nhân tài, ta ğúng là ğã già r°i...",
+npctalk093_14,"Các ngß½i ğ«u là môn nhân Nga My phäi không? Sß phø ta tr· v« thì ti¬u gia s¨ nghi«n các ngß½i thành cám...",
+npctalk095_14,"Ta là chü nhân cüa Nha Lâm TrÕi, nªu là ğÕo hæu ğªn ch½i, ta s¨ tiªp ğãi ân c¥n, còn nªu là kë ğ¸ch thì... h×...",
+npctalk096_14,"Ti¬u quan nhân b¸ thß½ng không th¬ ği xa ğßşc, phäi làm thª nào bây gi¶ ...?",
+npctalk097_14,"Ta tài cao bát ğ¦u, nhæng kë t¥m thß¶ng làm sao hi¬u ğßşc chí l¾n cüa ta...?",
+npctalk098_14,"L¥n ği này nguy hi¬m vô cùng, lành ít dæ nhi«u...",
+npctalk099_14,"Tà áo ph¤t ph½, trß¶ng kiªm trên tay, hành t¦u giang h°, há chÆng có ı nghîa hay sao...?",
+npctalk100_14,"Khách quan mu¯n dùng c½m hay thuê phòng Õ? Xin m¶i sang ğây ng°i...",
+npctalk1000_12,"Ta c¥n trş giúp",
+npctalk1000_18,"Theo ta, bäo v® ta ra ngoài.",
+npctalk1006_10,"Nào nào... Ğªn u¯ng rßşu v¾i ta ği, rßşu ngon phäi u¯ng cho say...",
+npctalk1007_10,"Phong cänh Nga My th§t ğ©p, chä trách Gia Cát ti«n b¯i thích · lÕi ğây tu luy®n...",
+npctalk1008_10,"Sß phø Túy ĞÕo Nhân cuä ta su¯t ngày chï ğòi u¯ng rßşu. Ta th§t hªt cách v¾i ông ¤y...",
+npctalk102_14,"n ào quá, ğ×ng làm phi«n ta ğªm ti«n! Ngü trßa phäi ngü ğã m¡t, ğªm ti«n phäi ğªm sß¾ng tay...",
+npctalk103_14,"B÷n ác tång này th§t khiªn ngß¶i ngß¶i phçn nµ. Nªu không phäi ğã nh§n l¶i ngß¶i khác r¶i khöi ğây thì tÕm th¶i nên tìm c½ hµi ği thØ...",
+npctalk104_14,"Nga My là thiên hÕ huy«n môn chính tông, sß phø chï hß¾ng dçn bß¾c ğ¥u, còn tu hành phäi dña vào chính mình, nªu có ği«u chi th¡c m¡c, có th¬ tìm höi các v¸ ğ°ng môn...",
+npctalk105_14,"Sß phø ğã vân du bên ngoài, các ngß½i không ğßşc lß¶i biªng, këo ta phÕt n£ng...",
+npctalk107_14,"Mµt ğ¯ng cö khô bình thß¶ng, tña h° r¤t d­ b¡t lØa...",
+npctalk108_14,"Khách quan xin tùy ı, m· cØa buôn v¾i bán, ng¦ng m£t cß¶i th§t to...",
+npctalk109_04,"Ğ×ng có tin l¶i cüa tên Trß½ng thiªt tßşng gì ğó bên cÕnh, ğ° cüa ta m¾i là nguyên li®u th§t, chÑ không phäi trß¾c rµng sau h©p nhß bên ¤y ğâu...",
+npctalk110_14,"Phì, phì...",
+npctalk111_14,"Nh¾ nåm xßa ta cûng là mµt nhân v§t có tiªng tåm trong tam gi¾i, bây gi¶ anh dûng kÏ hi®p nhi«u vô s¯, không th¬ không nh§n mình ğã già r°i...",
+npctalk112_14,"N½i ğây phong cänh hæu tình, thích hşp làm n½i tu luy®n, ngß½i nên ch÷n n½i này ği...",
+npctalk113_14,"A di ğà Ph§t, m¶i thí chü ği l¯i này...",
+npctalk114_14,"Nhæng kë không liên can còn không mau ği ği...?",
+npctalk115_14,"B÷n tà ğÕo ğó hành xØ ğµc ác, ğÕi h÷a s¡p lâm ğ¥u r°i...",
+npctalk116_14,"Chính là do có b÷n ngß¶i các ngß½i ğªn nên m¾i phi«n phÑc nhß v§y ğ¤y, ôi...",
+npctalk127_14,"Ta ¦n cß · ğây ğã lâu nåm, h§u sinh khä úy, bây gi¶ ğành phäi trông c§y vào l¾p ngß¶i trë các ngß½i thôi...",
+npctalk128_14,"LoÕi cö này có v¸ thanh, có th¬ dùng làm thu¯c...",
+npctalk129_14,"Ca ca, chúng ta ği ğánh Báo Tuyªt ği...",
+npctalk130_14,"i, ngß½i cûng là b÷n x¤u mu¯n b¡t nÕt chúng ta phäi không...?",
+npctalk131_14,"Thí chü ğªn có vi®c gì không...?",
+npctalk132_14,"ĞoÕn ğß¶ng s¡p t¾i r¤t nguy hi¬m, hãy ğ¬ ta thØ kiªm thu§t m¾i h÷c ğßşc ğã...",
+npctalk133_14,"B÷n tà ğÕo ... ta b¸ ği¬m huy®t r°i...",
+npctalk134_14,"Không biªt ti¬u chü nhân có an toàn không...?",
+npctalk143_14,"Xung quanh dß¶ng nhß có ği«u không ±n, ğ¬ ta ği xem thØ...",
+npctalk157_13,"H×... m¤y tên nhãi nhép mà cûng dám phá gi¤c ngü cüa ta... Cho các ngß½i biªt sñ lşi hÕi cüa ta...",
+npctalk157_20,"Kë nào không sş chªt thì cÑ xông lên !",
+npctalk158_01_13,"Mµt pho tßşng c± th¥n bí, trông r¤t s¯ng ğµng...",
+npctalk158_01_19,"SØ døng nguyên khí Xà Nhân",
+npctalk158_13,"Mµt pho tßşng c± th¥n bí, trông r¤t s¯ng ğµng. Nhæng pho tßşng · ğây dß¶ng có nhæng kı h÷a phát ra lu°ng khí tà ác...",
+npctalk158_20,"ChÕm vào kı h÷a",
+npctalk161_14,"Nga My S½n r¤t l¾n, nhi«u n½i có phong cänh ğ©p, nªu có th¶i gian thì hãy ği dÕo xem. Tu luy®n r¤t v¤t vä, nhß ta thß¶ng xuyên thåm thú kh¡p n½i, xem phong cänh thì m÷i ßu phi«n s¨ tan biªn...",
+npctalk162_14,"BÕch Th¯ cüa ta r¤t tuy®t ğ¤y, có mu¯n ğªn mua vài con không...?",
+npctalk163_14,"Hu hu, cháu mu¯n tìm m©...",
+npctalk165_13,"B÷n ngß¶i dám cä gan qu¤y r¥y gi¤c ngü cüa ğÕi nhân s¨ vînh vi­n không có ğß¶ng v«...",
+npctalk165_19,"Tiªn vào Vân Linh S½n Xà Huy®t",
+npctalk165_29_2,"Vân Linh S½n Xà Huy®t",
+npctalk176_01_12,"Hoan nghênh ğªn v¾i thª gi¾i Thøc S½n KÏ Hi®p",
+npctalk176_01_18,"Ngß½i ğã l¤y ğßşc bào tØ r°i",
+npctalk176_01_24,"Ğã xong",
+npctalk176_02_05,"Nhæng kë biªt rõ chân tß¾ng ğ«u phäi chªt, ngß½i th§t sñ không sş sao...?",
+npctalk176_02_10,"Ta ğã chu¦n b¸ xong r°i...",
+npctalk176_13,"H×, h×, nhi­m tà... Các ngß½i ğ«u s¨ b¸ nhi­m tà... h× h×...",
+npctalk176_19,"Mu¯n biªt chân tß¾ng không...?",
+npctalk177_13,"Hø, hø... Ta khó ch¸u quá...",
+npctalk178_02_20,"Vân Linh S½n Xà Huy®t",
+npctalk178_14,"Cu¯i cùng m÷i vi®c cûng ğã kªt thúc, ta có th¬ yên tâm r°i...",
+npctalk178_20,"R¶i khöi Vân Linh S½n Xà Huy®t",
+npctalk180_13,"Phì... phì... Ta là quan tß tª cüa Xà Yêu ĞÕi Th¥n...",
+npctalk182_14,"A di ğà Ph§t, thí chü không nên l¤y làm lÕ, nghe nhi«u Ph§t kinh, ¡t s¨ có Ph§t tính...",
+npctalk183_14,"Nªu có nhi«u nhæng v§t ph¦m bình thß¶ng không sØ døng, có th¬ tÕm th¶i gØi · ch² ta...",
+npctalk184_02_19,"Vân Linh S½n Xà Huy®t",
+npctalk184_13,"Ha ha, bây gi¶ quay ğ¥u vçn còn k¸p ğ¤y...",
+npctalk184_19,"R¶i khöi Vân Linh S½n Xà Huy®t",
+npctalk212_13,"B÷n ğÕo t£c ğµc ác, ta bây gi¶ không còn nhà ğ¬ v« næa r°i...",
+npctalk213_13,"Thß¶ng ğ÷c Ph§t kinh s¨ có lşi cho vi®c tu hành. Trên ğß¶ng ği nh¾ l¤y ğÑc phøc ngß¶i, không ğßşc tác ác...",
+npctalk225_04,"Nhà ta nhi«u ğ¶i ğã làm ngh« sån b¡n · ğây, nhßng g¥n ğây thú v§t quanh thôn b¸ tà linh änh hß·ng nên thú sån ğßşc ngày càng ít.",
+npctalk232_10,"Ta nh§n l¶i nh¶ vä cüa Yªn Nam Phi ğÕi hi®p ¦n cß · ğây, có th¬ dçn ngß½i ğªn Døc Thành Thôn...",
+npctalk253_04,"Nhà ta v¯n nhi«u ğ¶i ğ½n truy«n nên chï có mình ta, ğÕi hi®p mau cÑu ta ra ği, 555~~~",
+npctalk254_04,"Có Ng÷c Thanh ĞÕi Sß tß½ng trş, cái mÕng nhö này xem nhß tÕm th¶i ğßşc bäo v® r°i...",
+npctalk278_02_19,"T× Vân Tñ Hoan HÖ Ği®n",
+npctalk278_13,"Phß½ng trßşng ğÕi sß ğang t¸nh tu, không ğßşc qu¤y nhi­u",
+npctalk278_19,"Tiªn vào T× Vân Tñ Hoan HÖ Ği®n",
+npctalk279_02_19,"T× Vân Tñ Hoan HÖ Ği®n",
+npctalk279_13,"HÕ ğ° ğao thì s¨ thành Ph§t, ha ha...",
+npctalk279_19,"R¶i khöi T× Vân Tñ Hoan HÖ Ği®n",
+npctalk287_03,"Xem xem còn c¥n gì næa không, ğ×ng khách khí ",
+npctalk288_13,"Mau ğªn xem ği, hàng cüa ta · ğây toàn là hàng thßşng ğÆng...",
+npctalk2914_14,"Nhìn bên ngoài có vë bình thß¶ng, nhßng bên trong lÕi ğµc ác vô cùng...",
+npctalk2914_14_2,"Xem ra thu§t ngøy trang cüa ta cûng không t°i. Các hÕ nªu mu¯n vào trong Huyªt Th¥n Phü thì cÑ ği theo ta...",
+npctalk2915_14,"Mu¯n quay v« Thành Ğô thì ği theo ta...",
+npctalk2916_14,"Sån b¡n hÆn r¤t v¤t vä, ta s¨ ğßa các hÕ v« Huyªt Th¥n Phü...",
+npctalk2917_14,"Ta phøng l®nh chü nhân canh giæ Huyªt Th¥n LÕp Trß¶ng, chï có chü nhân cüa Huyªt Th¥n Phü m¾i có th¬ vào...",
+npctalk2917_14_2,"Mu¯n ğªn Huyªt Th¥n LÕp Trß¶ng thì ği theo ta. Bên trong có bäo v§t cüa lão chü nhân ğ¬ lÕi, sau khi vào r°i phäi bäo v® c¦n th§n...",
+npctalk2918_14,"Huyªt Th¥n Phü không phäi là n½i ğªn cüa nhæng kë qu¤y nhi­u...",
+npctalk2918_14_2,"Nªu có v¤n ğ« gì trong nµi thành, có th¬ ğªn ch² ta ğ¬ ğßa ği cho nhanh...",
+npctalk2919_14,"Huyªt Th¥n Phü không phäi là n½i ğªn cüa nhæng kë qu¤y nhi­u...",
+npctalk2919_14_2,"Ta có th¬ ğßa các hÕ ra ngoÕi thành...",
+npctalk3003_14,"B±n phái th¶i Ğông Hán ğßşc Trß¶ng My Lão T± sáng l§p, ğªn nay cûng ğã g¥n 2000 nåm, hi®n tÕi do Di®u Nh¤t Chân Nhân ğÑng ğ¥u. G¥n ğây chiªn h÷a liên miên, thª lñc tà giáo n±i d§y, sñ an nguy cüa chính ğÕo phø thuµc vào các ngß½i, vì v§y phäi c¯ g¡ng lên.",
+npctalk3004_14,"Di®u Nh¤t Phu Nhân d£n dò ta tu¥n tra xung quanh Nga My S½n, ğ« phòng sñ xu¤t hi®n cüa b÷n tà giáo. Hi®n nay tÕm th¶i m÷i chuy®n vçn bình yên, các ngß½i cÑ yên tâm tu luy®n.",
+npctalk3005_14,"Ta theo chü nhân tu hành nhi«u nåm, cûng có chút hi¬u biªt. Ta v¾i ngß½i có th¬ xem nhß ğ°ng môn, ta nh§p môn s¾m h½n ngß½i, có gì th¡c m¡c có th¬ ğªn tìm ta.",
+npctalk3006_14,"Nga My tiên pháp cao minh, chï tiªc ta nång lñc không ğü, thôi thì · ğây làm mµt ğÕo ğ°ng h¥u hÕ sß phø cûng ğã mãn nguy®n r°i.",
+npctalk3007_14,"Ta có r¤t nhi«u v§t ph¦m, c¥n gì cÑ ğªn tìm ta.",
+npctalk3008_14,"Ta phäi c¯ g¡ng tu hành, ngày nào ğó b÷n tà giáo kéo ğªn, s¨ có th¬ ğóng góp chút sÑc lñc ğ¤u v¾i b÷n chúng.",
+npctalk3009_14,"Nga My cänh s¡c rñc rŞ. — ğây tu hành khác chi th¥n tiên.",
+npctalk3014_01_12,"Trß¶ng My sß t± nåm xßa d£n dò, mu¯n hÕ s½n thì phäi ğánh bÕi ğßşc ta, nªu ngß½i ğã sÇn sàng thì hãy xông lên ği.",
+npctalk3014_01_18,"Ngß½i chu¦n b¸ xong chßa?",
+npctalk3014_01_24,"Ğã xong",
+npctalk3014_13,"Trß¶ng My sß t± nåm xßa ğã chï ği¬m cho ta. Ta · ğây khäo nghi®m nhæng ğ® tØ hÕ s½n không biªt ğã bao lâu r°i.",
+npctalk3101_14,"G¥n ğây có nhi«u sß ğ® m¾i vào. Vi®c cüa ta nhi«u vô cùng, nhßng lòng hång hái lÕi tång cao.",
+npctalk3102_14,"A di ğà Ph§t, v§t ph¦m cüa ta có r¤t nhi«u, có c¥n gì không?",
+npctalk3103_14,"Nghe sß t± nói nåm xßa nguyên th¥n cüa Huyªt Ma Lão T± · trong VÕn Niên Bång Ğ¥m khi thoát ra ğã làm ğ± vách núi, sau sñ vi®c ğó, nhi«u mänh vŞ nguyên th¥n tà ác ğã b¸ k©t bên trong, nªu không có vi®c gì thì ğ×ng ğªn ğó.",
+npctalk3104_01_12,"Nªu mu¯n hÕ s½n, phäi có nång lñc nh¤t ğ¸nh, hãy ğ¬ ta thØ sÑc v¾i ngß½i.",
+npctalk3104_01_18,"Ngß½i chu¦n b¸ xong chßa?",
+npctalk3104_01_24,"Ğã xong",
+npctalk3104_13,"Phì...phì... Mu¯n hÕ s½n phäi qua cØa cüa ta trß¾c...",
+npctalk3104_14,"Phì...phì... Mu¯n hÕ s½n phäi qua cØa cüa ta trß¾c...",
+npctalk3105_14,"Phù.. phù... tà ác phäi b¸ di®t tr×...",
+npctalk3106_14,"Hñ...hñ...Ta nh¤t ğ¸nh phäi hoàn thành l¶i d£n dò cüa lão thi«n sß...",
+npctalk3107_14,"T± sß g¥n ğây không · trên núi, chán quá ği m¤t, th¸t Dã Trß quanh ğây có vë r¤t ngon, lâu r°i chßa ğßşc ån món th¸t...",
+npctalk3108_14,"A di ğà Ph§t... Ph§t h÷c bác ğÕi tinh thâm, tri thÑc cüa ta chÆng qua chï là mµt hÕt cát...",
+npctalk3129_02_19,"Huyªt Tinh Linh M§t Ğµng",
+npctalk3129_13,"Huyªt Tinh Linh là mµt m¯i h÷a l¾n, nªu mu¯n ği tr× hÕi thì hãy theo ta...",
+npctalk3129_19,"Tiªn vào Huyªt Tinh Linh M§t Ğµng",
+npctalk3130_02_19,"Huyªt Tinh Linh M§t Ğµng",
+npctalk3130_13,"Tiêu di®t ra sao r°i? Nªu mu¯n r¶i khöi ğây thì ta có th¬ dçn ğß¶ng...",
+npctalk3130_19,"R¶i khöi Huyªt Tinh Linh M§t Ğµng",
+npctalk318_04,"Nhà ta nhi«u ğ¶i làm ngh« sån b¡n · ğây, không ai tinh thông t×ng ngóc ngách cüa Tuyªt S½n h½n ta ğâu.",
+npctalk319_14,"Ôi, dßşc sß cüa Tuyªt S½n Thôn là sß phø cüa ta, phái ta ğªn ğây hái thäo dßşc. Vi®c này l¨ ra r¤t d­ dàng, nhßng không ng¶ bây gi¶ lÕi tr· nên phi«n phÑc nhß v§y. Th§t là ğau ğ¥u...",
+npctalk320_14,"Con cháu phú gia bây gi¶ vào mùa ğông ğ«u thích m£c áo khoác lông thú, ti®m cüa ta · Thành Ğô chü yªu bán cho các v¸ quan khách giàu có, ğß½ng nhiên phäi chú tr÷ng nguyên li®u r°i, ta th¤y da g¤u là t¯t nh¤t!",
+npctalk3202_14,"Khung cänh Thanh Thành S½n r¤t ğ©p. Tu hành · ğây r¤t có lşi cho sÑc khöe. Ta tuy chï là mµt ti¬u ğÕo, nhßng nªu c¯ g¡ng thì nh¤t ğ¸nh có ngày ğ¡c ğÕo.",
+npctalk3203_14,"Ta thu th§p mµt s¯ v§t ph¦m c¥n dùng theo l¶i d£n dò cüa sß phø, ngß½i xem có c¥n gì không...?",
+npctalk3209_01_12,"Ğ¬ không phø sñ üy thác cüa tiên sß, ta s¨ ra tay hªt sÑc, ngß½i nên c¦n th§n chu¦n b¸.",
+npctalk3209_01_18,"Ngß½i chu¦n b¸ xong chßa?",
+npctalk3209_01_24,"Ğã xong",
+npctalk3209_13,"Ta là Tiên Gi¾i Linh ThÕch, ğßşc tiên sß chï ği¬m nên cûng có chút nång lñc. Ta · ğây giúp tiên sß khäo nghi®m nhæng ğ® tØ m¾i...",
+npctalk321_14,"Ta là thôn trß·ng Tuyªt S½n Thôn, bäo v® sñ an nguy cüa thôn làng là trách nhi®m l¾n nh¤t cüa ta, g¥n ğây cûng vì vi®c này mà khiªn ta ğau ğ¥u...",
+npctalk322_14,"Làm ngß¶i mà chßa t×ng ğßşc ån th¸t Dã Lang thì làm hoàng ğª cûng u¯ng, ha ha...",
+npctalk323_10,"Ğoàn thß½ng nhân cüa ta hÕ trÕi · ğây không ng¶ lÕi b¸ b÷n quái v§t t§p kích, b÷n gia nhân ğã ği tìm thÑc ån và nß¾c u¯ng... Chï còn mµt mình ta · ğây nên ta r¤t sş!",
+npctalk323_13,"Nhæng hành ğµng l¥n trß¾c ğã làm lû Hü Bì Sài Lang và H°ng Ğ¥u Th¯c ThÑu tÑc gi§n. B÷n chúng ğang tø t§p lÕi chu¦n b¸ t¤n công, xem ra khó tránh khöi mµt tr§n chiªn...",
+npctalk323_19,"Ngß½i th§t sñ ğã chu¦n b¸ xong cä r°i chÑ?",
+npctalk324_14,"Ai có th¬ giúp tôi không? Nhi«u trái cây nhß v§y làm sao tôi mang v« cho ông chü hªt ğßşc chÑ...? Còn b÷n Sài Lang ğáng chªt ğó næa chÑ, th§t là quá nguy hi¬m.",
+npctalk325_04,"B÷n Thanh Loa S½n ğó ğÕi gia ta ğã ğ¡c tµi không ít r°i. Ngß½i có vi®c gì không? Nªu không có thì ği n½i khác ği! Ta không có th¶i gian tán gçu v¾i ngß½i.",
+npctalk326_14,"— ch² ta có ğü loÕi thäo dßşc, c¥n gì cÑ lên tiªng.",
+npctalk327_10,"Không ng¶ Thanh Vi­n Tñ cûng ğã b¸ Ma Cung không chª, thª lñc cüa Thanh Loa S½n ğang ngày càng l¾n mÕnh. Tình thª ngày càng b¤t lşi ğ¯i v¾i chúng ta...",
+npctalk328_10,"N½i này thß¶ng xu¤t hi®n ğÕo t£c, nªu không có vi®c gì thì hãy mau r¶i khöi ğây ği.",
+npctalk3301_14,"M²i tháng vào ngày trång tròn, ¿u Ğàm ĞÕi Sß ğ«u vào trong Tri«u Âm Ğµng tu luy®n. Ta nh§n l®nh sß phø canh gác · ğây, trách nhi®m r¤t l¾n, không th¬ tñ ı r¶i khöi...",
+npctalk3302_14,"T× sau khi b±n phái sß t± ¿u Ğàm ĞÕi Sß sáng l§p Bách Hoa Phái ğªn nay, có r¤t nhi«u ğ® tØ ğªn xin nh§p môn. Nhìn th¤y b±n môn ngày càng hßng th¸nh, ta có cñc kh± mµt chút cûng ğáng.",
+npctalk3304_14,"Trên Bách Hoa S½n có b¯n mùa, m²i khu vñc lÕi có phong cänh khác nhau. Khi tu hành m®t möi nên ği dÕo xung quanh, s¨ cäm th¤y r¤t thoäi mái...",
+npctalk3305_14,"Ta có bán r¤t nhi«u v§t ph¦m dßşc li®u. Lúc tu hành c¥n gì cÑ ğªn bäo v¾i ta...",
+npctalk3306_14,"Ta tuy nhö tu±i nhßng t× nhö ğã l¾n lên · Bách Hoa S½n, chÑ không nhß các sß huynh sß tÖ. Sß phø d£n ta · ğây giao vi®c cho nhæng ğ® tØ m¾i vào, nªu huynh/tÖ ğü nång lñc thì nên ği xem có th¬ giúp gì không...",
+npctalk3307_14,"Nåm xßa ¿u Ğàm sß tÖ khi ğªn Bách Hoa S½n ğã phát hi®n ra ği¬m kì lÕ cüa Tri«u Âm Ğµng này nên ğã xây Quan Âm Am · g¥n ğó, m²i tháng vào trong ğµng tu luy®n, công lñc tiªn bµ r¤t nhanh. Sau này ta cûng s¨ vào ğó tu luy®n.",
+npctalk3308_14,"Trên Bách Hoa S½n này b¯n mùa phong cänh ğ«u ğ©p nhß tranh v¨, các v¸ ğ°ng môn thân thiªt giúp ğŞ nhau, ğúng là nhân gian tiên cänh.",
+npctalk3309_14,"Sß phø thß¶ng bäo chúng ta phäi c¯ g¡ng tu hành, ğµ thª cÑu nhân, ph± ğµ chúng sinh, ta nh¤t ğ¸nh mãi mãi ghi nh¾...",
+npctalk3314_01_12,"Tuy ta có th¬ thü hÕ lßu tình, nhßng ngß½i vçn nên chu¦n b¸ th§t kÛ.",
+npctalk3314_01_18,"Ngß½i chu¦n b¸ xong chßa?",
+npctalk3314_01_24,"Ğã xong",
+npctalk3314_13,"Ta là Hoa Tiên trên núi này. Lão sß thái d£n dò ta · ğây giúp ti¬u ğ® tØ thØ thân thü, ch÷n ra ngß¶i tài giöi cho hÕ s½n...",
+npctalk3324_02_19,"Bách Hoa S½n Tri«u Âm ğµng",
+npctalk3324_13,"M²i khi vào ğêm trång tròn, thüy tri«u dâng lên, trong ğµng lÕi không bình yên...",
+npctalk3324_19,"Tiªn vào Bách Hoa S½n Tri«u Âm ğµng",
+npctalk3325_02_19,"Bách Hoa S½n Tri«u Âm ğµng",
+npctalk3325_13,"Thª gi¾i bên ngoài vçn t¯t h½n...",
+npctalk3325_19,"R¶i khöi Bách Hoa S½n Tri«u Âm ğµng",
+npctalk334_10,"Nhi«u nåm liên tøc hÕn hán ğã khiªn cho di®n tích sa mÕc quanh Døc Thành Thôn ngày càng tr· nên l¾n. G¥n ğây hay có b÷n Mã T£c lµng hành, nªu ngß½i không có vi®c gì thì hãy mau mau r¶i khöi ği.",
+npctalk335_10,"Gió cát · sa mÕc bên ngoài r¤t l¾n, ngß½i mau quay tr· vào trong thôn ği. Ğ×ng ği v« phía trß¾c næa. N½i ğó thß¶ng có b÷n Mã T£c xu¤t hi®n, ngß½i không nghe l¶i ta, b¸ b÷n Mã T£c b¡t thì kêu tr¶i tr¶i không biªt, g÷i ğ¤t ğ¤t không hay ğâu!",
+npctalk337_10,"Ğ×ng sş, ta không phäi ğ°ng ğäng cüa b÷n Mã T£c. Thôn trß·ng phái ta thâm nh§p vào hang ± cüa chúng, ğ¬ k¸p th¶i báo cáo nhæng âm mßu cüa b÷n chúng ğ¯i v¾i thôn dân.",
+npctalk3402_14,"N½i này là khu vñc cüa ği¬u thú, các ti¬u ğ® tØ không nên ği lung tung, t§p trung tu hành...",
+npctalk3403_14,"Thª gian vÕn v§t ğ«u có linh tính, ğ«u có th¬ tr· thành b¢ng hæu cüa chúng ta, vì v§y phäi ğ¯i xØ t¯t v¾i chúng.",
+npctalk3404_14,"Hø...hø... Lúc nhö sÑc khöe ta không t¯t, sß phø ğã nuôi ta, cho ta tu hành · ğây, tång cß¶ng th¬ lñc. Bây gi¶ sÑc khöe ğã khá h½n nhi«u, nhßng vçn còn chÑng b®nh cû.",
+npctalk3405_14,"Chà... T× lúc ği theo sß phø lên núi tu hành, tinh th¥n sáng su¯t hÆn, thân th¬ cûng thoäi mái nhi«u...",
+npctalk3406_14,"Cuµc s¯ng là luôn luôn v§n ğµng. V§n ğµng trên núi này cûng là mµt cách tu hành...",
+npctalk3407_14,"Ta trß¾c ğây làm ngh« buôn bán nhö. Bây gi¶ ği theo sß phø tu hành, trên ğß¶ng ği sÇn ti®n buôn bán mµt s¯ v§t ph¦m thß¶ng dùng, ngß½i c¥n gì cÑ nói.",
+npctalk3408_14,"Róc rách~~~",
+npctalk3409_14,"Chiªp chiªp...",
+npctalk3410_14,"Hú... hú...",
+npctalk343_10,"Ngß¶i khách kia, n½i này g¥n ğây thß¶ng xu¤t hi®n b÷n ngß¶i cüa Vô My Giáo, ngß½i nên c¦n th§n ği cùng chúng ğÕo hæu. Vô My Giáo là mµt ğÕi tà giáo trong giang h°, tiên gia phái ta ğªn ğây ğ¬ giám sát nh¤t cØ nh¤t ğµng cüa b÷n chúng.",
+npctalk344_10,"Vô My Giáo b¡t ngu°n t× dân tµc thi¬u s¯ Nam Man, tµc trß·ng bµ lÕc quanh nåm nghiên cÑu thu§t phù thüy, luy®n thành Ngh¸ch Thiên Ngû Ğµc Th¥n Công, thß¶ng phái ngß¶i trong bµ tµc ği b¡t ğ°ng nam ğ°ng næ v« cho h¡n luy®n ğµc công.",
+npctalk362_10,"B÷n thôn dân ğµc ác ğó... th§t vô cùng ngang ngßşc. Dám nói r¢ng ta ğªn trµm ğ° cüa b÷n chúng!",
+npctalk364_10,"Cänh s¡c Nha Lâm TrÕi tuy r¤t ğ©p, nhßng không th¬ sánh v¾i cänh s¡c n½i ta t×ng chung s¯ng v¾i thiªu gia nhà ta. Ta r¶i xa thiªu gia ğã nhi«u nåm r°i, cäm th¤y r¤t nh¾ ngß¶i...",
+npctalk365_10,"Ngu°n nß¾c cüa thôn ngày càng b¦n, nhi«u lúc còn phát hi®n ra cá chªt...",
+npctalk366_10,"Chà, b÷n Dã La trên núi này ğúng là cä mµt món ti«n l¾n! Ğem da cüa chúng ği bán ¡t hÆn s¨ ğßşc giá cao.",
+npctalk367_10,"Ta ğ¯i v¾i sß phø hªt mñc trung thành, sao ngß¶i lÕi ğ¯i xØ v¾i ta nhß v§y?",
+npctalk384_10,"Vªt thß½ng cüa ta r¤t n£ng. Có ai có th¬ giúp ta không?",
+npctalk385_10,"Quª Hoa S½n phong cänh r¤t ğ©p. Có ği«u lû Ğào Thø sau khi h¤p thø tà thüy t× ch² chª tÕo Thiªt Nhân cüa Phi Long Sß Thái thì tr· nên r¤t hung hãn.",
+npctalk386_10,"Lû Mãnh H± này mau tránh xa ta ra... Ta không ch¸u n±i các ngß½i næa r°i! Mau cút ği cho ta!",
+npctalk387_10,"Nß¾c · ğây ğã không còn sØ døng ğßşc næa. Nªu không mau nghî cách thì t¤t cä thôn dân · ğây s¨ phäi chªt khát.",
+npctalk388_10,"Tr§n can qua ğã tÕm bình l£ng. Nhßng yêu ğÕo dçn theo ğ°ng ğäng không biªt ğang ¦n n¤p · ğâu. Chúng ta phäi hªt sÑc cänh giác. Ngoài ra g¥n ğây cûng hay xäy ra nhi«u vi®c kì lÕ...",
+npctalk389_10,"Thª lñc hung tà cüa Phi Long Sß Thái lÕi b¡t ğ¥u tr²i d§y...",
+npctalk404_1,"L¯i vào ğµng huy®t n¢m trên mµt cây c± thø ngàn nåm, phía trên có dây leo che kín.",
+npctalk404_2,"Tiªn vào H± Träo S½n Ğ¢ng Tu Ğµng",
+npctalk404_3,"H± Träo S½n Ğ¢ng Tu Ğµng",
+npctalk405_1,"L¯i vào ğµng huy®t n¢m trên mµt cây c± thø ngàn nåm, phía trên có dây leo che kín.",
+npctalk405_2,"R¶i khöi H± Träo S½n Ğ¢ng Tu Ğµng",
+npctalk405_3,"H± Träo S½n Ğ¢ng Tu Ğµng",
+npctalk406_10,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t, giá phäi chång! Có ği«u chúng chï thuµc v« nhæng ngß¶i ğã t×ng c¯ng hiªn cho Vân Linh S½n!",
+npctalk407_10,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t, giá phäi chång! Có ği«u chúng chï thuµc v« nhæng ngß¶i ğã t×ng c¯ng hiªn cho Vân Linh S½n!",
+npctalk413_10,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t, giá phäi chång! Có ği«u chúng chï thuµc v« nhæng ngß¶i ğã t×ng c¯ng hiªn cho Vân Linh S½n!",
+npctalk414_10,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t, giá phäi chång! Có ği«u chúng chï thuµc v« nhæng ngß¶i ğã t×ng c¯ng hiªn cho Vân Linh S½n!",
+npctalk416_02_20,"H± Träo S½n Ğ¢ng Tu Ğµng",
+npctalk416_14,"Chà, n½i này nguy hi¬m quá, phäi nghî cách r¶i khöi thôi, ngß½i cûng ği chÑ?",
+npctalk416_20,"R¶i khöi H± Träo S½n Ğ¢ng Tu Ğµng",
+npctalk417_02_20,"T× Vân Tñ Hoan HÖ Ği®n",
+npctalk417_14,"Ğ×ng ğánh tôi, tôi chï là ngß¶i dâng trà bßng nß¾c thôi. Nªu mu¯n thoát khöi ğây, tôi có th¬ giúp...",
+npctalk417_20,"R¶i khöi T× Vân Tñ Hoan HÖ Ği®n",
+npctalk418_10,"Sß huynh cÑ ği ği lÕi lÕi · ğây phäi chång có vi®c chi? Gia Cát sß phø có l¨ · h§u s½n phía trái, Túy ĞÕo Nhân sß phø có l¨ · trong tòa ğình bên phäi sau núi. Hay là huynh ği tìm h÷ xem có giúp ích ğßşc gì không?",
+npctalk419_10,"Ta hi®n ğang t§p trung tu luy®n pháp bäo, ğşi lát næa hãy nói chuy®n.",
+npctalk420_10,"Sß huynh xin tránh sang mµt bên. Ğ® phäi d÷n ğ¯ng cö khô dß¾i chân huynh, không ğßşc ğ¬ chúng làm b¦n Nga My S½n.",
+npctalk421_10,"L¸ch sØ Ph§t giáo thâm sâu vô cùng, không th¬ nói hªt trong mµt s¾m mµt chi«u...",
+npctalk422_10,"Lı Ninh sß phø tri thÑc uyên thâm, huynh · ğây ği ği lÕi lÕi lãng phí th¶i gian nhß v§y, chi b¢ng ğªn tìm ngß¶i ğ¬ nghe giäng ph§t ğÕo ği.",
+npctalk423_10,"Ta hi®n ğang t§p trung tu luy®n pháp bäo, ğşi lát næa hãy nói chuy®n.",
+npctalk424_10,"Sß huynh xin tránh sang mµt bên. Ğ® phäi d÷n ğ¯ng rêu dß¾i chân huynh, không ğßşc ğ¬ chúng làm b¦n Ngßng Bích Nhai.",
+npctalk425_10,"Ğµng v§t dß¾i chân Bách Hoa S½n tr· nên kinh ğµng b¤t an, luôn cäm th¤y kì lÕ. L¨ nào có vi®c ğã xäy ra?",
+npctalk426_10,"Bách Hoa phái t× sau khi ğßşc ¿u Ğàm ğÕi sß sáng l§p ğã truy«n qua nhi«u ğ¶i chß·ng môn. Ğ¸a v¸ trong tam gi¾i ngày càng l¾n mÕnh, tr· thành mµt môn phái l¾n.",
+npctalk427_10,"Dßşc thüy m¾i mà sß phø d£n ta bào chª ğã s¡p thành công r°i!",
+npctalk428_10,"Phong cänh · Bách Hoa S½n r¤t ğ©p, các sß muµi · ğây cûng ğ©p nhß tiên, gi¯ng nhß lÕc vào giæa r×ng hoa. Ngß½i có th¬ ğªn ch² Ng÷c Thanh ĞÕi Sß ğ¬ nghe v¸ ngß¶i giäi thích l¸ch sØ cüa Bách Hoa.",
+npctalk429_10,"Ta hi®n ğang t§p trung tu luy®n pháp bäo, ğşi lát næa hãy nói chuy®n.",
+npctalk430_10,"Sß muµi/ğ® xin tránh sang mµt bên. Ta phäi d÷n ğ¯ng lá khô dß¾i chân muµi/ğ®, không ğßşc ğ¬ chúng làm b¦n Bách Hoa S½n.",
+npctalk432_10,"Ta vân du bên ngoài nhi«u nåm, thu th§p ğßşc r¤t nhi«u dßşc thäo quı. Giá cä cüa chúng tuy ğ¡t nhßng ğ«u là v§t ph¦m häo hÕng. Ra khöi thôn này thì s¨ không còn n½i nào khác bán ğâu, có mua không nào...?",
+npctalk433_10,"Ta có mµt vi®c r¤t quan tr÷ng mu¯n nh¶ ngß½i giúp ğŞ, tiªc là ngß½i chßa ğü sÑc. Ta không mu¯n ch¶ quá lâu ğâu, ngß½i hãy mau ği tu luy®n ği.",
+npctalk4334_02_19,"Thanh Loa S½n Ma Cung",
+npctalk4334_13,"Phía trß¾c có mµt ánh sáng rñc rŞ phát ra, tña h° nhß ğang kêu g÷i ngß½i...",
+npctalk4334_19,"Tiªn vào Thanh Loa S½n Ma Cung",
+npctalk4335_02_19,"Thanh Loa S½n Ma Cung",
+npctalk4335_13,"Ğây chính là l¯i ra, ra khöi n½i này thì ác mµng xem nhß kªt thúc...",
+npctalk4335_19,"R¶i khöi Thanh Loa S½n Ma Cung",
+npctalk4371_3,"Ğây là Tiên Gi¾i Linh ThÕch có sÑc mÕnh phi thß¶ng, có th¬ ghi nh¾ ğßşc thông tin v« th¶i không, nªu kªt hşp v¾i D¸ch Chuy¬n Phù ThÕch thì có th¬ trñc tiªp tr· v« Tiên Gi¾i Linh ThÕch ğã ghi nh¾ v¸ trí trß¾c ğó.",
+npctalk4412_10,"Thành Ğô quä th§t là rµng l¾n... Khung cänh · V÷ng Giang L¥u th§t ğ©p... ThÑc ån cûng r¤t ngon. Nhßng ta cäm th¤y thÑc ån · thôn chúng ta vçn là ngon nh¤t... Thôi... nên ği n½i khác tham quan tiªp v§y.",
+npctalk4413_10,"Làm vi®c cä ngày r°i thì phäi nghï ng½i thôi... ån chút trái cây...",
+npctalk4414_10,"Phäi ği d÷n lÕi ğ¯ng cö khô ğó thôi. G¥n ğây nhæng vi®c lµn xµn sao cÑ liên tiªp xäy ra.",
+npctalk4415_10,"Th¯ng lînh cüa b÷n H¡c Mã Hùng ğã giªt chªt con cüa ta. Nªu có v¸ kÏ hi®p nào giúp ta báo thù, ta s¨ tr÷ng thß·ng h§u hînh!",
+npctalk4416_10,"Thôn này ğã có t× hàng tråm nåm nay. Th§t ra b÷n H¡c Mã Hùng và chúng ta ğ«u là ngß¶i cùng thôn, nhßng vì lòng tham nên b÷n chúng ğã bán linh h°n cüa mình... ôi... t× ğó v« sau ğÕi nÕn cÑ liên tiªp xäy ra...",
+npctalk4417_10,"Ta b¸ mµt tr§n h¡c phong kì lÕ cu¯n ğªn ğây. N½i ğây · ğâu cûng có cß½ng thi và b÷n quái v§t biªn d¸ hü hóa. Th§t là ğáng sş... Có ai có th¬ cÑu ta ra không?",
+npctalk4418_10,"Ta là Thiªt Chung ĞÕo Nhân cüa Côn Luân Phái Phi Lai Phong. G¥n ğây ta biªt tin b÷n Thiên Âm Giáo ğªn ğây làm loÕn nên ğªn ğ¬ trş giúp cho thôn dân Mã Hùng Thôn.",
+npctalk4420_10,"Ta là Di®u Nh¤t Phu Nhân cüa Nga My Phái. Nghe nói b÷n Thiên Âm Giáo lµng hành · ğây nên ğªn giúp thôn dân Mã Hùng Thôn ch¯ng lÕi b÷n chúng.",
+npctalk4421_10,"Ta là Linh Linh TØ phái Võ Ğang. L¾p vãn b¯i các ngß½i có l¨ chßa nghe qua ğÕi danh cüa ta, hãy v« höi sß phø cüa các ngß½i ği... Ha ha ha...",
+npctalk4422_3,"Hùng vi TØ Dînh",
+npctalk4423_3,"Thß vi Thanh Sách",
+npctalk4424_3,"Anh vân tß½ng hµi",
+npctalk4425_3,"Th¥n v§t thüy xu¤t",
+npctalk4435_10,"Sß phø d£n dò ta ğşi ngß¶i · Tri®u Th¥n Miªu. Nhßng b÷n quái v§t xung quanh Tri®u Th¥n Miªu th§t khiªn ta hiªu kÏ, mu¯n ği xem thØ.",
+npctalk4436_10,"B÷n ngß¶i cüa Thiên Âm giáo hay hoÕt ğµng quanh ğây, các v¸ phäi c¦n th§n! Ta · ğây bàn vi®c v¾i chß v¸ kiªm tiên, nªu không có vi®c xin ğ×ng làm phi«n ta.",
+npctalk4437_10,"Sß huynh Xích Thành TØ ğã nói h©n g£p ta · ğây. TÕi sao ğã lâu nhß v§y mà chßa ğªn? Phäi chång trên ğß¶ng ği ğã xäy ra chuy®n?",
+npctalk4438_10,"Höa Xà Linh Châu trong khu r×ng này chính là thäo dßşc tr¸ nµi thß½ng thßşng ğÆng. Không ng¶ lÕi có · ngay ğây, xem ra nµi thß½ng cüa ta m¤y ngày næa s¨ khöi!",
+npctalk4441_3,"Ngày Qu¯c khánh, m÷i ngß¶i ğ«u cäm th¤y vui vë. Vi®c bán qu¯c kÏ cûng vô cùng hßng th¸nh. Nhi«u n½i ğã xäy ra hi®n tßşng thiªu qu¯c kÏ ğ¬ bán. Qu¯c kÏ ch² ta cûng không còn nhi«u, nªu ai có th¬ giúp ta thu th§p qu¯c kÏ, ta s¨ tr÷ng thß·ng cho ngß¶i ğó!",
+npctalk4446_14,"Các v¸ ğÕo hæu khi ğªn Thành Ğô hãy ghé qua V÷ng Giang L¥u cüa chúng tôi. N½i ğây phong thanh thüy tú, cänh s¡c mê ngß¶i, là ği¬m d×ng chân lı tß·ng cüa quı quan khách ğây!",
+npctalk4447_10,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t! Có ği«u chúng chï thuµc v« nhæng ngß¶i có c¯ng hiªn cho n½i này!",
+npctalk446_14,"Ta là con trai cüa thiªt tßşng · H± Träo S½n. Cha bäo ta ğªn ch² cüa bá phø thiªt tßşng Vân Linh S½n ğ¬ h÷c höi. Vân Linh S½n ğúng là n½i t¯t, nhßng nghe nói quái v§t trong Xà Huy®t r¤t lşi hÕi, vì v§y ta mu¯n ği xem thØ. — H± Träo S½n quê ta cûng có mµt c¤m ğ¸a gi¯ng nhß Xà Huy®t g÷i là Ğ¢ng Tu Ğµng, quái v§t bên trong cûng r¤t mÕnh.",
+npctalk4483_02_19,"Mãng Thß½ng S½n Yêu Nhân Ğµng Phü",
+npctalk4483_13,"Ğây chính là ğß¶ng ra khöi Yêu Nhân Ğµng Phü, ai mu¯n thoát mau ra thôi!!",
+npctalk4483_19,"R¶i khöi Yêu Nhân Ğµng Phü",
+npctalk4484_02_19,"Mãng Thß½ng S½n Yêu Nhân Ğµng Phü",
+npctalk4484_13,"Phía trß¾c có mµt ánh sáng rñc rŞ phát ra, tña h° nhß ğang kêu g÷i ngß½i...",
+npctalk4484_19,"Tiªn vào Yêu Nhân Ğµng Phü",
+npctalk4504_14,"Ta b¸ mµt tr§n h¡c phong kì lÕ cu¯n ğªn ğây. N½i ğây · ğâu cûng có cß½ng thi và b÷n quái v§t biªn d¸ hü hóa. Th§t là ğáng sş... Có ai có th¬ cÑu ta ra không?",
+npctalk4518_14,"Chúc m×ng Giáng sinh, chúc m×ng nåm m¾i!",
+npctalk4520_14,"Ha ha! Ta lÕi ğªn r°i ğây... L¥n này ta mang r¤t nhi«u l­ v§t cho các ğÕo hæu!",
+npctalk4522_14,"Ha ha! Giáng sinh lÕi ğªn r°i, chúc m÷i ngß¶i Giáng sinh vui vë, ta mang theo r¤t nhi«u quà l­ v§t cho nhæng ğÕo hæu c¤p 10 tr· lên!",
+npctalk4584_01_12,"Cái gì mà Lång Lão Anh Hùng Lång Phü chÑ? Theo ta th¤y chï là con rùa rút c±! Ngß½i là ai? Ğªn ğây làm gì? Mau cút ği! Hay là ngß½i mu¯n ra m£t thay cho Lång Phü?",
+npctalk4584_01_18,"Thª nào r°i, ğã chu¦n b¸ xong chßa?",
+npctalk4584_01_24,"Cút khöi ğây ngay!",
+npctalk4584_13,"Lång Phü kh¯n kiªp... Lång Tháo nªu không ch¸u quy thu§n Tr¥n Gia Trang chúng ta, sau này ¡t hÆn s¨ khó tránh h÷a di®t thân!",
+npctalk4584_14,"To gan th§t, dám giúp cho Lång Phü ğ¯i ğ¥u v¾i ta! Xem ra nªu không dÕy cho ngß½i mµt bài h÷c, ngß½i s¨ không phøc! Có bän lînh thì ra tay ği!",
+npctalk4591_01_12,"Lão già Lång Tháo này th§t cÑng ğ¥u, nh¤t ğ¸nh không ch¸u gä con gái cho ğÕi ca ta! Th§t không hi¬u lão ğang nghî gì mà lÕi t× bö vinh hoa phú quı này!",
+npctalk4591_01_18,"Thª nào r°i, ğã chu¦n b¸ xong chßa?",
+npctalk4591_01_24,"Cho ngß½i th¤y thñc lñc cüa ta!",
+npctalk4591_13,"Tr¥n Gia Trang cüa chúng ta t× sau khi ği theo Li®t Höa Lão T± thì khí thª l¾n mÕnh vô cùng, ğ¬ xem còn ai không ch¸u nghe theo sñ sai khiªn cüa chúng ta?",
+npctalk4591_14,"To gan th§t, dám giúp cho Lång Phü ğ¯i ğ¥u v¾i ta! Xem ra nªu không dÕy cho ngß½i mµt bài h÷c, ngß½i s¨ không phøc! Có bän lînh thì ra tay ği!",
+npctalk4617_14,"T× sau l¥n giao chiªn v¾i Li®t Höa Lão T±, ta ğã b¸ tr÷ng thß½ng. Vì v§y hi®n tÕi chï có th¬ · ğây tr¸ thß½ng, ch¶ các chính sî kÏ hi®p khác.",
+npctalk4618_14,"Ta phäi ği hái g¤p mµt s¯ thäo dßşc. T× sau khi làm m¤t ğan dßşc cüa sß phø, trong lòng ta luôn cäm th¤y b¸ dày vò, vì v§y phäi luy®n mµt viên khác trä lÕi cho ngß¶i.",
+npctalk4619_14,"Kính chào khách quan! Ği ğß¶ng ¡t v¤t vä, m¶i vào quán nghï ng½i!",
+npctalk4620_14,"Khách quan xin ch÷n món ği Õ, tØu lâu chúng tôi món ngon nào cûng có, giá cä lÕi r¤t hşp lı!",
+npctalk4621_14,"Làm thª nào bây gi¶? Tr¥n Gia Trang vì mu¯n b¡t ép ti¬u thß nhà chúng tôi gä cho h¡n nên ğã phái r¤t nhi«u ngß¶i ğªn ğây!",
+npctalk4622_14,"Tr¥n Gia Trang này quä thñc chÆng xem ta ra gì! B÷n chúng làm v§y s¨ chÆng th¬ có kªt cøc t¯t ğ©p, ta s¨ phát ğµng ğÕo hæu tam gi¾i cho chúng mµt bài h÷c!",
+npctalk4623_14,"Ta b¸ b÷n ác nhân g¥n Ğ¾i Gia Trß¶ng ğánh tr÷ng thß½ng, trß¾c ğây ta chßa t×ng g£p b÷n chúng, b÷n chúng ¡t chÆng phäi là ngß¶i cüa Ğ¾i Gia Trß¶ng!",
+npctalk4624_14,"G¥n ğây thôn dân Ğ¾i Gia Trß¶ng chúng ta hay b¸ ngß¶i khác Ñc hiªp, sau khi ği«u tra biªt ğßşc ğó là ngß¶i cüa Tr¥n Gia Trang... B÷n chúng r¯t cuµc ğ¸nh làm gì?",
+npctalk4625_14,"Nghe nói Tr¥n Gia Trang và Læ Thôn có câu kªt v¾i nhau, xem ra Ğ¾i Gia Trß¶ng s¡p có phi«n phÑc r°i...",
+npctalk4626_14,"Ta là ông chü cüa chş này, ch² chúng ta có th¬ cung c¤p cho ngß½i mµt s¯ v§t ph¦m c¥n dùng.",
+npctalk4627_14,"G¥n ğây n½i này xu¤t hi®n nhi«u ğÕo t£c, nghe nói chúng t× Trß¶ng Sa chÕy ğªn ğây, b÷n ğÕo t£c bây gi¶ r¤t hung ác, chúng ta không dám r¶i khöi n½i này.",
+npctalk4628_14,"S¯ng trên ğ¶i ğã lâu nhß v§y, không ng¶ nhæng nåm cu¯i ğ¶i lÕi g£p phäi nhi«u chuy®n phi«n phÑc nhß thª, ôi...",
+npctalk4629_14,"N½i này r¤t nguy hi¬m, b÷n ngß¶i trong Læ Thôn ğang ngày ğêm t§p luy®n, ngß½i phäi c¦n th§n.",
+npctalk4630_14,"Ngøy Thanh ğoán Ğ¾i Gia Trß¶ng s¨ xäy ra chuy®n nên bäo ta ğªn tß½ng trş m÷i ngß¶i. Ngß½i là ai? Nªu không phäi là ngß¶i ğ°ng ğÕo thì xin hãy quay v« ği, n½i này r¤t nguy hi¬m!",
+npctalk4631_14,"CÑu ta... cÑu ta v¾i... Ta b¸ b÷n yêu quái kì d¸ trong Yêu Nhân Ğµng Phü ğä thß½ng...",
+npctalk4637_14,"V§n may liên tiªp, cung hÖ phát tài!",
+npctalk4643_14,"Chúc m÷i ngß¶i nåm m¾i vui vë! Chúc m÷i ngß¶i vÕn sñ nhß ı!",
+npctalk4650_14,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t! Có ği«u chúng chï thuµc v« nhæng ngß¶i ğã t×ng c¯ng hiªn cho T× Vân Tñ!",
+npctalk4666_14,"Lû ngu ng¯c các ngß½i lÕi dám ğ¯i ğ¥u v¾i ta ß?! Có giöi thì ğánh bÕi 3 thuµc hÕ cüa ta trß¾c ğã, hahahah",
+npctalk4669_02_19,"Quª Hoa S½n H°ng Hoa Ğµng",
+npctalk4669_13,"Ğây chính là l¯i vào Quª Hoa S½n H°ng Hoa Ğµng! Ngß½i ğã sÇn sàng chßa?",
+npctalk4669_19,"Tiªn vào Quª Hoa S½n H°ng Hoa Ğµng",
+npctalk4670_02_19,"Quª Hoa S½n H°ng Hoa Ğµng",
+npctalk4670_13,"L¯i ra · ngay ğây! Mau r¶i khöi thôi!",
+npctalk4670_19,"R¶i khöi Quª Hoa S½n H°ng Hoa Ğµng",
+npctalk4695_14,"Dân làng · Thiên Hóa Thôn th§t ğông ğúc quá, h½n hÆn cä Nga My S½n chúng ta. Ngß½i höi ta ğÑng mµt mình · ğây làm gì ß? Khà khà, ta ğang ch¶ ğÕo hæu cüa ta hµ t¯ng lên núi ğây mà... H×m, dÕo này b÷n Ma Giáo lµng hành l¡m, m÷i ngß¶i nh¾ th¦n tr÷ng à nha!",
+npctalk4696_14,"Sß huynh b¸ ti¬u nhân ám hÕi, chªt không nh¡m m¡t! HÑa Phi Nß½ng ta nh¤t ğ¸nh phäi trä m¯i h§n này!",
+npctalk4777_02_19,"Ngß Th¥n Ğµng Th¤t Tinh Ğài",
+npctalk4777_13,"Ğây là cØa vào Th¤t Tinh Ğài! Ngß½i ğã sÇn sàng chßa?",
+npctalk4777_19,"Tiªn vào Ngß Th¥n Ğµng Th¤t Tinh Ğài",
+npctalk4778_02_19,"Ngß Th¥n Ğµng Th¤t Tinh Ğài",
+npctalk4778_13,"Ğây là cØa ra! Hãy mau mau r¶i khöi!",
+npctalk4778_19,"R¶i khöi Ngß Th¥n Ğµng Th¤t Tinh Ğài",
+npctalk4847_02_19,"Vån Chu Ğµng",
+npctalk4847_13,"CØa ra · phía này! Nhanh chân r¶i khöi mau!",
+npctalk4847_19,"R¶i khöi Vån Chu Ğµng",
+npctalk4848_02_19,"Vån Chu Ğµng",
+npctalk4848_13,"Ğây là cØa vào Vån Chu Ğµng! Ngß½i ğã sÇn sàng chßa?",
+npctalk4848_19,"Tiªn vào Vån Chu Ğµng",
+npctalk4885,"N½i ğây là mµt thôn trang náo nhi®t, nhßng ph§t pháp tu hành s¨ khiªn cho nhân tâm thanh t¸nh.",
+npctalk4886,"Gió nh© thoäng qua, lá cây lay ğµng. ĞÕo hæu, hi v÷ng ta có th¬ giúp ğßşc ngß½i.",
+npctalk4887,"Vi®c bay lßşn luôn mang ğªn cho ta nhæng suy nghî sáng tÕo và tâm trÕng thoäi mái.",
+npctalk4889,"Giáng Sinh vui vë! ĞÕo hæu có th¬ ğªn g£p ta ğ¬ nh§n l­ v§t Giáng Sinh.",
+npctalk4918,"Chúc quı ğÕo hæu nåm m¾i nhi«u may m¡n và s¾m tr· thành ğÕi hi®p tròn tr¸a nhß ta trong Thøc S½n KÏ Hi®p này! Khà khà",
+help_jingjichangguize,"Th¶i gian cüa m²i l¥n thi ğ¤u PVP là 1 gi¶, c¤p ğµ cüa quái v§t do h® th¯ng ği«u chïnh dña vào c¤p ğµ cüa nhóm.
+
+Hình thÑc thi ğ¤u nhóm: Sau khi ngß¶i ch½i l§p nhóm và tham gia thi ğ¤u, m²i 3 phút h® th¯ng s¨ tñ ğµng s¡p xªp 2 nhóm có c¤p ğµ tß½ng ğß½ng nhau ğ¬ thi ğ¤u v¾i nhau.
+
+C¤p ğµ thi ğ¤u PVP: C¤p ğµ thi ğ¤u PVP khi m¾i b¡t ğ¥u là c¤p 1, nhóm thi ğ¤u cÑ m²i ğÕt ğßşc 500 ği¬m s¨ ğßşc thång 1 c¤p PVP.
+
+Ği¬m thß·ng thi ğ¤u PVP nhóm: M²i nhóm l¥n ğ¥u tiên tham gia thi ğ¤u PVP ğ«u có 1000 ği¬m thi ğ¤u. Vào m²i sáng Chü Nh§t, h® th¯ng s¨ tính toán sau ğó xoá s¯ ği¬m thi ğ¤u này, s¯ lßşng ği¬m thi ğ¤u nhóm änh hß·ng ğªn ği¬m thi ğ¤u cá nhân.
+
+Cách nh§n ği¬m thß·ng nhóm:  Phäi ğánh ğ± ğßşc Sinh M®nh Chi Thø cüa ğ¯i phß½ng khi thi ğ¤u nhóm m¾i nh§n ğßşc ği¬m thi ğ¤u nhóm, nªu ğang ch½i mà thoát ra thì s¨ không nh§n ğßşc ği¬m, gi¾i hÕn t¯i ğa cho m²i tr§n là 200 ği¬m, t¯i thi¬u là 20 ği¬m. Gi¾i hÕn tr× ği¬m cao nh¤t khi thua là 100 ği¬m, th¤p nh¤t là 10 ği¬m.
+
+Quyªt ğ¸nh th¡ng bÕi: sau khi kªt thúc th¶i gian 1 gi¶, h® th¯ng s¨ tính ği¬m thi ğ¤u cüa hai bên, bên có ği¬m cao h½n s¨ giành chiªn th¡ng, nªu hai bên có ği¬m thi ğ¤u b¢ng nhau thì ph¥n th¡ng s¨ thuµc v« bên tiêu di®t ğßşc nhi«u ngß¶i ch½i cüa ğ¯i phß½ng h½n, nªu s¯ lßşng này cûng b¢ng nhau thì ngß¶i th¡ng do h® th¯ng ngçu nhiên ch÷n.
+
+HÕn chª s¯ l¥n thi ğ¤u: M²i ngày chï ğßşc tham gia t¯i ğa 10 l¥n.",
+help_jingjichangjifen,"C¤p ğµ thi ğ¤u cá nhân: M²i ngß¶i ch½i khi l¥n ğ¥u tham gia PVP s¨ có c¤p ğµ PVP
+
+Tính ği¬m thi ğ¤u cá nhân: M²i tu¥n khi h® th¯ng tính ği¬m PVP, s¨ cån cÑ vào c¤p ğµ nhóm cüa ngß¶i ch½i nhân cho 50 ğ¬ t£ng ği¬m thß·ng tß½ng Ñng cho m²i cá nhân.
+
+Ngß¶i ch½i có ği¬m thi ğ¤u nhóm nhö h½n 1000 s¨ không nh§n ğßşc ği¬m thß·ng cá nhân.
+
+Cách dùng ği¬m thß·ng cá nhân: Ği¬m thß·ng cá nhân có th¬ tích luÛ ğ¬ ğ±i l¤y các trang b¸ c¥n thiªt cho vi®c thi ğ¤u.",
+help001_07a,"Quy t¡c Tu Luy®n Trß¶ng",
+help001_07b,"Ği¬m thi ğ¤u",
+npctalk2070,"Nguy®t Long Thôn ğang ğ¯i di®n v¾i vòng vây uy hiªp cüa Bách Man S½n Nam Phß½ng Ma Giáo và TÑ Môn S½n Yêu ĞÕo, r½i vào cänh qu¥n ma bao phü, náo loÕn tÑ b«. Do b¸ yêu pháp mê ho£c, khá nhi«u thôn dân ğã tôn sùng b÷n Ma ğ° cüa Bách Man S½n nhß nhæng v¸ th¥n thánh, lÕi giúp chúng ngån cän bß¾c tiªn cüa nhân sî chánh phái khi h÷ có nhã ı cÑu giúp. Tuy nhiên vçn còn mµt s¯ ít thôn dân tïnh táo, luôn mong ß¾c t¯ng c± b÷n yêu ğÕo này ra khöi thôn b¢ng cách liên thü v¾i Kiªm Tiên Trß·ng Lão cüa Ngû ğÕi chánh phái. Th×a lúc Løc Bào Lão T± tÕi T× Vân Tñ b¸ tr÷ng thß½ng, các kÏ hi®p ğã chung sÑc quyªt tâm san b¢ng Bách Man S½n, tiêu di®t t§n g¯c Løc Bào Lão T±.",
+npctalk4937,"Bé khác v¾i nhæng ti¬u ğ°ng b¸ b¡t giæ khác, bé là ngß¶i ğßşc Trß·ng Lão giao nhi®m vø ğªn Ngân H° Ğµng. KÏ hi®p nªu có cách hãy nhanh chóng cÑu bé ra ngoài.",
+npctalk4938_13,"TÑ Môn S½n Ngân H° Ğµng có cØa vào tÕi ğây, các kÏ hi®p hãy c¦n th§n. Ğß¶ng ği l¡t léo, khó khån vô cùng.",
+npctalk4938_19,"Tiªn vào Ngân H° Ğµng",
+npctalk4938_02_19,"TÑ Môn S½n Ngân H° Ğµng",
+npctalk4939_13,"Th×a lúc vi®n binh chßa ğªn, hay mau chóng r¶i khöi ğây và báo tin ch² này cho m÷i ngß¶i biªt.",
+npctalk4939_19,"R¶i khöi Ngân H° Ğµng",
+npctalk4939_02_19,"TÑ Môn S½n Ngân H° Ğµng",
+npctalk4961,"Th§t chán chß¶ng! CÑ thª thì có lúc ch¥u Diêm Vß½ng s¾m mà thôi! Ta ğã xem th¤u m÷i vi®c r°i, l¶i hÑa suông thì chÆng nên tin!",
+npctalk4962,"Tiªc r¢ng ta tài hèn sÑc m÷n, tß ch¤t kém cöi, nªu có th¬ góp chút sÑc lñc thì ta có hy sinh cûng nguy®n.",
+npctalk4963,"Cho dù cä thiên hÕ ğ«u ğã b¸ yêu ma thao túng thì ta vçn quyªt tâm hoàn thành nhi®m vø cüa Trß·ng Lão.",
+npctalk4964,"Nguy®t Long Kim Liên, Th§p Nh¸ Kim Tiên cüa Xi¬n Giáo.. Ğ«u là chuy®n xßa r°i nhßng lão nÕp vçn không cam lòng. Biªt khi nào m¾i ğßşc chÑng kiªn cänh sau c½n mßa, tr¶i lÕi sáng?",
+npctalk4965,"Hehehe, ch¾ vµi xem thß¶ng nhæng kë ti¬u nhân nhß ta. Nên biªt t× c± chí kim, biªt bao ğÕi sñ ğµng tr¶i ğ«u là do ti¬u nhân khu¤y ğµng mà ra!",
+npctalk4966,"Lão phu chï có m¤y loÕi thäo dßşc tr¸ ğao thß½ng t¥m thß¶ng, không th¬ sánh b¢ng tiên dßşc cüa các tiên gia. Không có gì thì ğ×ng ğªn phi«n lão næa.",
+npctalk4967,"Ti¬u ğ® chï là tên thiªt tßşng nhö nhoi. Trong su¯t nhæng tháng nåm qua phäi s¯ng trong cänh mù m¶ m¾i có th¬ thoát nÕn chªt. KÏ hi®p có gì c¥n sØa không?",
+npctalk4975_01_12,"Lû ngß¶i Ma Giáo cÑ nghî chúng ta ğ«u là nhæng kë ngu muµi, chï c¥n gi· chút yêu phép thì nghî r¢ng ai cûng s¨ b¸ mê ho£c tín süng; ğ×ng có m½, chúng ta ğây chï ğang ch¶ c½ hµi ğ¬ ğánh cho lû yêu ma tan tác.",
+npctalk4975_13,"B÷n Yêu ma t£c tØ lÕi có tham v÷ng ğ°ng hóa t¤t cä thôn dân ğ¬ chúng ta tr· thành nhæng con r¯i cho chúng ği«u khi¬n. Ğâu có d­ v§y, bß¾c qua xác ta r°i hãy nói!",
+npctalk4975_14,"Các hÕ có hÑng thú so tài không? Có gì bÑc xúc thì cÑ tr± tài ra hªt nhé!",
+npctalk4975_01_18,"Sao r°i, chu¦n b¸ xong chßa?",
+npctalk4975_01_24,"Haha, có tài cán gì cÑ ğßa ra hªt ği!",
+npctalk4979_01_12,"Lû ngß¶i Ma Giáo cÑ nghî chúng ta ğ«u là nhæng kë ngu muµi, chï c¥n gi· chút yêu phép thì nghî r¢ng ai cûng s¨ b¸ mê ho£c tín süng; ğ×ng có m½, chúng ta ğây chï ğang ch¶ c½ hµi ğ¬ ğánh cho lû yêu ma tan tác.",
+npctalk4979_13,"B÷n Yêu ma t£c tØ lÕi có tham v÷ng ğ°ng hóa t¤t cä thôn dân ğ¬ chúng ta tr· thành nhæng con r¯i cho chúng ği«u khi¬n. Ğâu có d­ v§y, bß¾c qua xác ta r°i hãy nói!",
+npctalk4979_14,"Các hÕ có hÑng thú so tài không? Có gì bÑc xúc thì cÑ tr± tài ra hªt nhé!",
+npctalk4979_01_18,"Sao r°i, chu¦n b¸ xong chßa?",
+npctalk4979_01_24,"Haha, có tài cán gì cÑ ğßa ra hªt ği!",
+npctalk4988_01_12,"Lû ngß¶i Ma Giáo cÑ nghî chúng ta ğ«u là nhæng kë ngu muµi, chï c¥n gi· chút yêu phép thì nghî r¢ng ai cûng s¨ b¸ mê ho£c tín süng; ğ×ng có m½, chúng ta ğây chï ğang ch¶ c½ hµi ğ¬ ğánh cho lû yêu ma tan tác.",
+npctalk4988_13,"B÷n Yêu ma t£c tØ lÕi có tham v÷ng ğ°ng hóa t¤t cä thôn dân ğ¬ chúng ta tr· thành nhæng con r¯i cho chúng ği«u khi¬n. Ğâu có d­ v§y, bß¾c qua xác ta r°i hãy nói!",
+npctalk4988_14,"Các hÕ có hÑng thú so tài không? Có gì bÑc xúc thì cÑ tr± tài ra hªt nhé!",
+npctalk4988_01_18,"Sao r°i, chu¦n b¸ xong chßa?",
+npctalk4988_01_24,"Haha, có tài cán gì cÑ ğßa ra hªt ği!",
+npctalk4995_01_12,"Lû ngß¶i Ma Giáo cÑ nghî chúng ta ğ«u là nhæng kë ngu muµi, chï c¥n gi· chút yêu phép thì nghî r¢ng ai cûng s¨ b¸ mê ho£c tín süng; ğ×ng có m½, chúng ta ğây chï ğang ch¶ c½ hµi ğ¬ ğánh cho lû yêu ma tan tác.",
+npctalk4995_13,"B÷n Yêu ma t£c tØ lÕi có tham v÷ng ğ°ng hóa t¤t cä thôn dân ğ¬ chúng ta tr· thành nhæng con r¯i cho chúng ği«u khi¬n. Ğâu có d­ v§y, bß¾c qua xác ta r°i hãy nói!",
+npctalk4995_14,"Các hÕ có hÑng thú so tài không? Có gì bÑc xúc thì cÑ tr± tài ra hªt nhé!",
+npctalk4995_01_18,"Sao r°i, chu¦n b¸ xong chßa?",
+npctalk4995_01_24,"Haha, có tài cán gì cÑ ğßa ra hªt ği!",
+npctalk5002_01_12,"Lû ngß¶i Ma Giáo cÑ nghî chúng ta ğ«u là nhæng kë ngu muµi, chï c¥n gi· chút yêu phép thì nghî r¢ng ai cûng s¨ b¸ mê ho£c tín süng; ğ×ng có m½, chúng ta ğây chï ğang ch¶ c½ hµi ğ¬ ğánh cho lû yêu ma tan tác.",
+npctalk5002_13,"B÷n Yêu ma t£c tØ lÕi có tham v÷ng ğ°ng hóa t¤t cä thôn dân ğ¬ chúng ta tr· thành nhæng con r¯i cho chúng ği«u khi¬n. Ğâu có d­ v§y, bß¾c qua xác ta r°i hãy nói!",
+npctalk5002_14,"Các hÕ có hÑng thú so tài không? Có gì bÑc xúc thì cÑ tr± tài ra hªt nhé!",
+npctalk5002_01_18,"Sao r°i, chu¦n b¸ xong chßa?",
+npctalk5002_01_24,"Haha, có tài cán gì cÑ ğßa ra hªt ği!",
+npctalk5011,"Huhu.. Bên ngoài có nhi«u yêu quái chuyên b¡t trë con ğem nh¯t vào cüi t¯i om.. Có v¸ kÏ hi®p häo tâm nào cÑu giúp không? Huhuhu!",
+npctalk5013,"G¥n ğây thiên th¶i b¤t lşi, yêu ma hoành hành, ¦n n¤p trong bóng t¯i; cänh báo cho chúng thôn dân phäi ğ« cao cänh giác, giäm thi¬u xu¤t ngoÕi! Hãy ghi nh¾!",
+npctalk5014,"Sau khi thi tri¬n phép thu§t Nguyên Th¥n Xu¤t NgoÕi, có th¬ nghe rõ nhæng tiªng rên rï khüng khiªp cüa b÷n yêu ma Bách Man S½n, khiªn lòng ngß¶i tê tái..",
+npctalk5015,"Trong lúc ma ğÕo ğang thách thÑc thª lñc cüa chánh phái, chúng ta phäi tång cß¶ng ğ« phòng, t¤t cä vì bäo v® tr§t tñ cüa Chân Tu Gi¾i.",
+npctalk5016,"Nªu không nh¶ häo hæu cüa ta là VÕn Miêu Tiên Cô HÑa Phi Nß½ng tiªt lµ thì ta cûng không biªt ğªn nhæng ác ğÑc cüa b÷n Chu H°ng. Mu¯n cäi tà quy chánh ğâu phäi d­ dàng!",
+npctalk5017,"L¥n này th§t ch¸u thua lão c§u c§u, mµt mình bö ği tiêu diêu tÕi Tuyªt S½n ğ¬ cho lû lão nhân này gánh vác m÷i thÑ.",
+npctalk5018,"Có th¬ tiêu di®t m¯i ğÕi h÷a tÕi Bách Man S½n trß¾c khi b¥n ğÕo tu thành chánh quä cûng là mµt ğÕi công ğÑc mà b¥n ğÕo ğ¬ lÕi cho tµc Tiên C¥m.",
+npctalk5019,"Do không th¬ ğích thân di chuy¬n nên b¥n ğÕo ğã sØ døng Nguyên Th¥n Xu¤t NgoÕi chi thu§t ğ¬ thám thính tình báo, h² trş chánh phái.",
+npctalk5020,"Lão nÕp bái nh§p Ph§t Môn không lâu nên vçn chßa th¬ nhu¥n nhuy­n phép Nguyên Th¥n Xu¤t NgoÕi. Do ğó nguyên th¥n chï có th¬ ğªn khu vñc g¥n Nguy®t Long Thôn.",
+npctalk5021,"Nªu không nh¶ häo hæu cüa ta là VÕn Miêu Tiên Cô HÑa Phi Nß½ng tiªt lµ thì ta cûng không biªt ğªn nhæng ác ğÑc cüa b÷n Chu H°ng. Mu¯n cäi tà quy chánh ğâu phäi d­ dàng!",
+npctalk5022,"L¥n này th§t ch¸u thua lão c§u c§u, mµt mình bö ği tiêu diêu tÕi Tuyªt S½n ğ¬ cho lû lão nhân này gánh vác m÷i thÑ.",
+npctalk5023,"Có th¬ tiêu di®t m¯i ğÕi h÷a tÕi Bách Man S½n trß¾c khi b¥n ğÕo tu thành chánh quä cûng là mµt ğÕi công ğÑc mà b¥n ğÕo ğ¬ lÕi cho tµc Tiên C¥m.",
+npctalk5026,"Hic.. Th§t h¯i h§n khi không nghe l¶i cüa lão gia gia, tr¯n ği ch½i tÕi Bách Man S½n nên b¸ trúng yêu phép. Nªu may m¡n thoát nÕn l¥n này, nh¤t ğ¸nh phäi v« tÕ l²i cùng gia gia!",
+npctalk5027,"Tr¶i ½i, chuy®n l¾n r°i! T× trong Bách Man S½n chui ra vô s¯ ğµc v§t ğµc trùng, cÑ th¤y ngß¶i là c¡n. Mau nghî cách ği, cÑu ngß¶i quan tr÷ng!",
+npctalk5030,"Ngû lôi mãnh tß¾ng, höa xa tß¾ng quân, ğäo ğiên ğ¤t tr¶i, khu lôi bôn vân, thiên vÕn ğÕo quân, th¯ng lînh th¥n binh, khai kÏ c¤p tri®u, không ğßşc phép d×ng. C¤p c¤p nhß lu§t l®nh!",
+npctalk5031,"TÕi hÕ v¯n vô danh, vô danh chính tên tÕi hÕ. Cä ğ¶i ği ği lÕi lÕi, hành tung bí ¦n..",
+npctalk5032,"Ngß¶i xßa hay nói 'cüa ít lòng nhi«u', chúng tôi cung c¤p d¸ch vø thß tín cao c¤p, giúp cho tình cäm cüa các ğÕo hæu luôn væng b«n.",
+npctalk5033,"Th§t xui xëo, lÕi b¸ phái ğªn ğây ğäm trách công vi®c. — ğây làm ån khó khån l¡m! B¤t c¦n là tiêu mÕng ngay! Có gì thì nói mau ği, ta b§n l¡m!",
+npctalk5034,"Ph§t t± quan âm chß th¥n phù hµ! Phù hµ cho con không b¸ b÷n yêu ma cß¶ng ğÕo phát hi®n! Không ai th¤y tui! Không ai th¤y tui!",
+npctalk5035,"Nhân sâm bài ğµc, ti¬u tØ h° giäi công, cam thäo tr¥n bì hÕ nhi®t.. Ùm, toàn là häo thäo dßşc!",
+npctalk5038,"Ğây là n½i t¯t ğ©p, hãy t§n døng sÑc mÕnh cüa ı chí!",
+npctalk5053,"Tªt Ğoan Ng÷ vui vë! Chúc chß v¸ kÏ hi®p tiªp tøc c¯ g¡ng, luy®n ğßşc häo bän lînh, träm yêu tr× ma, tr× hÕi cho dân.",
+npctalk5082,"Ôi., Ğµng Huy«n Tiên Bà nh¤t quyªt không ch¸u buông tha cho tinh linh b÷n ta, ğµc tính ngày mµt phát tác mÕnh h½n, nªu không có thu¯c giäi thì t¤t cä ğành phäi trúng ğµc mà chªt tÕi n½i ğây.",
+npctalk5120,"N½i này th§t là kÏ quái, cÑ ch¯c ch¯c lÕi n±i lên tr§n gió ğµc lÕnh bu¯t xß½ng. Xem ra b÷n yêu ma · ğâu không th¬ xem thß¶ng, c¥n ğ« cao cänh giác.",
+npctalk5121,"V¸ ğÕi hi®p này quá ğa l­ r°i. B¥n ğÕo là mµt trong La Phù Th¤t Tiên cüa Nga My phái, tên là VÕn Lí Phi H°ng Ğ°ng Nguyên KÏ. L¥n này tuy Nho Thích Tam Giáo liên thü hşp công Nam Phß½ng Ma Giáo, nhßng lu§n v« quân s¯ thì chúng ta lÕi không mÕnh b¢ng, ğây quä là vi®c không d­!",
+npctalk5122,"Càn Thiên Lôi Linh Châu v¯n là bäo v§t tr¤n s½n cüa b±n phái, gi¶ lÕi r½i vào tay cüa yêu ma, khiªn cho sß môn r¯i loÕn. Ta th« nh¤t quyªt phäi tiêu di®t b÷n tà ğÕo này!",
+npctalk5123,"Khi thí chü ngµ ra ğßşc chúng sinh thiên hÕ không có khoäng cách thì cûng là lúc ğã lînh hµi ğßşc vô thß½ng ğÕi ğÕo cüa Ph§t pháp, t× ğó s¨ không còn sş b÷n ma quÖ qu¤y phá.",
+npctalk5124,"Chï tiªc ti¬u tång bän lînh non n¾t, lúc h² trş cho b±n môn S½n môn hµ pháp giao ğ¤u v¾i b÷n yêu ma ğã dùng quá sÑc, b¢ng không ğâu b¸ ép ğªn thª này!",
+npctalk5125,"T± sß b±n phái là ¿u Ğàm Th¥n Ni, thß¶ng lu§n bàn Ph§t pháp v¾i BÕch Mi Lão Thi«n Sß, vì thª b±n phái cûng ği theo Ph§t môn, l¤y vi®c t× bi ğµ thª làm ğß¶ng tu ğÕo.",
+npctalk5126,"Lão phu là trang chü Khoái HoÕt Thôn · CØu Hoa S½n, do may m¡n ğßşc Thanh Thành phái Cñc LÕc Chân Nhân chï ği¬m. Tuy ta chßa t×ng bái Cñc LÕc Chân Nhân làm sß phø, nhßng vi®c cüa Thanh Thành cûng là vi®c cüa ta, tên g÷i Løc Ğ¸a Kiªm Tiên không phäi là hß danh!",
+npctalk5127,"L¥n này chính ğÕo liên thü t¤n công Bách Man S½n, tuy khí thª ngút tr¶i, nhßng khó khån cûng ch°ng ch¤t. Phái Thanh Thành ta cûng chï ğªn ğßşc 2 ngß¶i là Khß½ng m² ta và Løc Mçn, không ğßşc ğông nhß Nga My! Chï có cách gia tång lñc lßşng m¾i mong ğánh bÕi ğßşc b÷n yêu ma.",
+npctalk5128,"Ğşi ğánh xong tr§n này thì sß tôn cûng s¨ công ğÑc viên mãn, phi thång tiên gi¾i. Ôi, thiên ğ¸a tß½ng cách, biªt ğªn bao gi¶ m¾i ğßşc g£p lÕi?",
+npctalk5129,"Chà, lu°ng tà khí quá n£ng! ChÆng khác gì gió dß¾i âm ty ğ¸a phü, chÆng lë không tìm ğßşc cáh giäi quyªt vi®c này sao?",
+npctalk5130,"Không biªt vì sao g¥n ğây ta luôn cäm th¤y trong quân ta có nhæng hành vi ám muµi. ChÆng l¨ ğã có kë làm tay sai cho ma giáo? Lão nÕp phäi ği«u tra xem sao.",
+npctalk5133,"Th§t là ğáng chªt! Nªu ta biªt Xích Thân Ğµng và Bách Man S½n thông v¾i nhau thì b÷n Ngû Ğµc Thiên Vß½ng Li®t Bá Ğa tuy®t ğ¯i không th¬ làm ta nao núng, ai mà ng¶ ğßşc lÕi b¸ b÷n chúng t§p kích thª này chÑ.",
+npctalk5134,"Ğ×ng hi¬u l¥m, ta không phäi là b÷n yêu ma ğó, chï vì trúng phäi Ğµc C± cüa Ğµng Huy«n Tiên Bà trong ğó nên m¾i thành ra thª này. Th§t là h÷a giáng xu¯ng ğ¥u!",
+npctalk5135,"Các v¸ kÏ hi®p có hÑng thú xem qua v§t ph¦m này không? V§t này ğßşc luy®n chª theo phß½ng thÑc thßşng c± lßu truy«n, s· hæu sÑc mÕnh th¥n kÏ!",
+npctalk5146_02_19,"Bách Man S½n Âm Phong Ğµng",
+npctalk5146_13,"L¯i vào Bách Man S½n Âm Phong Ğµng · ngay ğây, các ngß½i c¥n hªt sÑc th§n tr÷ng, b÷n yêu ma tÕi ğây vô cùng hung tşn, không th¬ xem thß¶ng!",
+npctalk5146_19,"L¯i vào Bách Man S½n Âm Phong Ğµng",
+npctalk5147_02_19,"Bách Man S½n Âm Phong Ğµng",
+npctalk5147_13,"Nhân lúc truy binh còn chßa ğªn, hãy mau chóng r¶i khöi thôi, c¥n báo ngay m÷i vi®c tÕi ğây cho ngß¶i bên ngoài biªt!",
+npctalk5147_19,"R¶i khöi Bách Man S½n Âm Phong Ğµng",
+npctalk5172_01_12,"Hä? Mµt n½i bí ¦n nhß thª mà ngß½i cûng tìm ğßşc, xem ra ngß½i có ı ğªn tìm ngß¶i trong ğó. Ğáng tiªc, chuyªn ği này cüa ngß½i có vë không d­ dàng r°, sau khi vào trong ğó, ta e lành ít dæ nhi«u.",
+npctalk5172_01_18,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5172_01_24,"Ğã xong",
+npctalk5172_13,"Ğáng tiªc, xem ra ğã có ngß¶i nhanh h½n mµt bß¾c, có l¨ ğÕi hi®p c¥n ch¶ ğşi, xem tình hình biªn chuy¬n thª nào r°i hÇng li®u b« cûng không muµn!",
+npctalk5173_01_12,"Ngß½i ch¡c ch¡n là ğã không ğªn nh¥m n½i? V§y thì hãy sÇn sàng, nhßng ngß½i cûng c¥n c¦n th§n, träi qua mµt th¶i gian dài nhß v§y, trong ¤y gi¶ là nhân gian hay ğ¸a ngøc ngay cä ta cûng không dám ch¡c. Mµt khi ğã bß¾c vào trong thì chuy®n sinh tØ chï còn biªt phó thác thiên m®nh!",
+npctalk5173_01_18,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5173_01_24,"Ğã xong",
+npctalk5174_01_12,"Kë ğang ğªn là ai? N½i này ¦n chÑa m§t quyªt chí cao ngh¸ch thiên cäi m®nh cüa ma ğÕo, vì v§y ta khuyên các ngß¶i hãy mau chóng r¶i khöi ğ¬ tránh chu¯c h÷a vào thân, còn nªu có th¬ chÑng tö ğßşc thñc lñc cüa mình thì ta ğây s¨ không cän ğß¶ng!",
+npctalk5174_01_18,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5174_01_24,"Ğã xong",
+npctalk5175_01_12,"V¸ ğÕi hi®p này xin d×ng bß¾c! Ğây không phäi là n½i có th¬ tùy ti®n vào, nªu chßa sÇn sàng ho£c thñc lñc không ğü thì ch¾ mÕo hi¬m bß¾c vào, không nghe l¶i ta chï có th¸t nát xß½ng tan!",
+npctalk5175_01_18,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5175_01_24,"Ğã xong",
+npctalk5176_01_12,"KÏ hi®p có th¬ ğªn ğßşc bß¾c này thì cûng coi nhß ğã g¥n k« thiên ğÕo, nªu tiªp tøc tiªn t¾i thì s¨ là trái m®nh tr¶i, sinh và tØ s¨ chï còn cách nhau trong mµt chân t½ k¨ tóc, kÏ hi®p hãy suy xét cho kÛ!",
+npctalk5176_01_18,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5176_01_24,"Ğã xong",
+npctalk5177_01_12,"Th§t là tuy®t! Ğây là tr§n ğ¯i chiªn k¸ch li®t nh¤t mà ta t×ng chÑng kiªn, th§t không ng¶ lÕi có ngß¶i có gan khiêu chiªn v¾i Ngû Hành Hµ Pháp Äo Linh.",
+npctalk5177_01_18,"Bây gi¶ s¨ r¶i khöi ğây?",
+npctalk5177_01_24,"Ğã xong",
+npctalk5218,"Thiên Hóa Thôn Truy«n Ngôn có th¬ có liên quan v¾i Huyªt Tinh Linh M§t Ğµng.",
+npctalk5219,"C¥u mong Ph§t T± phù hµ dân chúng Vân Linh S½n tai qua nÕn khöi.",
+npctalk5220,"B§n chªt ği ğßşc. G¥n ğây trong Thành Ğô hay xäy ra nhi«u chuy®n kÏ quái. Ngß½i có phäi cûng liên quan ğªn b÷c t£c tØ ğó?",
+npctalk5221,"Thì ra H¡c Phong TrÕi lÕi có âm mßu l¾n v§y! C¥n mau chóng báo chuy®n này cho Châu ĞÕi Ca.",
+npctalk5222,"KÏ hi®p xin d×ng bß¾c! Ti¬u næ ğang tìm mµt loÕi linh dßşc g÷i là Thanh Sß½ng BÕch Tuyªt, ğÕi hi®p có biªt loÕi linh dßşc này m÷c · ğâu không?",
+npctalk5223,"Mùa ğông · Tuyªt S½n Thôn còn lÕnh h½n bây gi¶ nhi«u. Bây gi¶ mà không chu¦n b¸ thì ğªn ğông s¨ không ch¸u n±i ğâu.",
+npctalk5224,"G¥n ğây tÕi Thanh Vi­n Tñ hay xäy ra chuy®n kÏ quái, ¡t hÆn là ğang có âm mßu gì.",
+npctalk5225,"Huy«n quan Thanh Loa S½n có thiªt kª th§t tinh di®u. Tuy là kë ğ¸ch nhßng tÕi hÕ cûng không khöi khâm phøc cao nhân ğã tÕo ra cánh c±ng này.",
+npctalk5226,"Gi¶ ğây các Kiªm Tiên trong Doanh trÕi QuÖ H¯ng Lâm chính là ğÕi ân nhân cüa Mã Hùng Thôn chúng tôi! Chút lß½ng thäo này có là gì chÑ!",
+npctalk5227,"Thanh Thüy Bá g£p nÕn, Læ Thôn và Tr¥n Gia Trang ğã không ra tay tß½ng trş, lÕi còn th×a c½ tiªn ğánh! Th§t là ğáng h§n!",
+npctalk5228,"Ta phøng m®nh Nha Lâm TrÕi Trß·ng Lão ğªn Thành Ğô ğ¬ tìm Châu ğÕi hi®p. KÏ hi®p c¥n höi gì?",
+npctalk041_2,"Tiªn vào Vân Linh S½n VÕn Trúc Gian",
+npctalk041_3,"Vân Linh S½n VÕn Trúc Gian",
+npctalk5305,"Ph§t Hoa chÑa ğñng sÑc mÕnh chính nghîa vô biên, có nó trong tay và ğÕo hæu b¯n phß½ng, ta quyªt bäo v® yên bình cho Tam Gi¾i. HŞi ngß¶i thß½ng, có th¬ cùng nhau s¯ng tr÷n kiªp này là ß¾c nguy®n cüa ta.",
+npctalk5306,"Ta th§t sñ r¤t thích n½i này vì có th¬ có ğßşc mµt cuµc s¯ng hÕnh phúc v¾i ngß¶i ta yêu! Ta nghî trên thª gian này, sÑc mÕnh to l¾n nh¤t chính là tình yêu!",
+npctalk5308_1,"Ğây là ği¬m b¡t ğ¥u cüa Vi®t Dã Tï Thí S½ C¤p, chï có kÏ hi®p c¤p ğµ 30-40 m¾i có th¬ tham gia. Ğång kı t× 20h các ngày thÑ hai, tß, sáu ğ¬ tï thí. Ğß¶ng ğua b¡t ğ¥u t× ğây ğªn Nga My S½n Môn. Trên ğß¶ng s¨ có các ği¬m ghi nh§n, khi chÕy qua s¨ có d¤u hi®u báo. Nªu không ğánh d¤u tÕi ği¬m ghi nh§n ğ¥y ğü thì cho dù ğªn ğích vçn không tính thành tích.",
+npctalk5308_2,"Vi®t Dã Tï Thí s¡p b¡t ğ¥u, kÏ hi®p hãy chu¦n b¸! Các thí sinh s¨ ğßşc d¸ch chuy¬n ğªn ğß¶ng ğua. ĞoÕn ğß¶ng Vi®t Dã s¨ chÕy t× ğây ğªn Nga My S½n Môn. Trên ğß¶ng s¨ có các ği¬m ghi nh§n, khi chÕy qua s¨ có d¤u hi®u báo. Nªu không ğánh d¤u tÕi ği¬m ghi nh§n ğ¥y ğü thì cho dù ğªn ğích vçn không tính thành tích. 22h cuµc ğua kªt thúc.",
+npctalk5308_3,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5308_4,"Ğã xong",
+npctalk5309_1,"Ğây là ği¬m b¡t ğ¥u cüa Vi®t Dã Tï Thí Cao C¤p, chï có kÏ hi®p c¤p ğµ 30-40 m¾i có th¬ tham gia. Ğång kı t× 20h các ngày thÑ hai, tß, sáu ğ¬ tï thí. Ğß¶ng ğua b¡t ğ¥u t× ğây ğªn Nga My S½n Môn. Trên ğß¶ng s¨ có các ği¬m ghi nh§n, khi chÕy qua s¨ có d¤u hi®u báo. Nªu không ğánh d¤u tÕi ği¬m ghi nh§n ğ¥y ğü thì cho dù ğªn ğích vçn không tính thành tích.",
+npctalk5309_2,"Vi®t Dã Tï Thí s¡p b¡t ğ¥u, kÏ hi®p hãy chu¦n b¸! Các thí sinh s¨ ğßşc d¸ch chuy¬n ğªn ğß¶ng ğua. ĞoÕn ğß¶ng Vi®t Dã s¨ chÕy t× ğây ğªn Nga My S½n Môn. Trên ğß¶ng s¨ có các ği¬m ghi nh§n, khi chÕy qua s¨ có d¤u hi®u báo. Nªu không ğánh d¤u tÕi ği¬m ghi nh§n ğ¥y ğü thì cho dù ğªn ğích vçn không tính thành tích. 22h cuµc ğua kªt thúc.",
+npctalk5309_3,"Ngß½i ğã chu¦n b¸ xong chßa?",
+npctalk5309_4,"Ğã xong",
+npctalk5333_1,"Không có vi®c thì hãy mau chóng r¶i khöi ğây ği, còn trë nhß v§y sao ğã mu¯n tìm cái chªt?",
+npctalk5333_2,"R¶i khöi Vân Linh S½n VÕn Trúc Gian",
+npctalk5333_3,"Vân Linh S½n VÕn Trúc Gian",
+npctalk5500,"Phù.. M®t quá ği m¤t! Cái n½i quÖ quái này sao mà khó ği thª c½ chÑ, ta s¯ng · ğây ğã mß¶i m¤y nåm mà chßa bao gi¶ phát hi®n ra, th§t là kÏ lÕ!",
+npctalk5501,"Nghe nói trong Thøc S½n có tiên gia xu¤t hi®n, không biªt khi nào m¾i may m¡n ğßşc g£p tiên ông hay tiên bà ğây?",
+npctalk5502,"Mu¯n tr¸ b®nh hß huyªt thì phäi sØ døng các loÕi dßşc li®u dß½ng nhi®t. Tiªc r¢ng · ğây lÕi thiªu th¯n, th§t ğau ğ¥u!",
+npctalk5503,"Ngñ kiªm phi phong, tr× ma thiên hÕ. Nh§t nguy®t tß½ng phùng, mÛ tØu tiên gia.. ĞÕo hæu, có rßşu ngon không?",
+npctalk5504,"Ôi.. Lão phu nay ğã sÑc tàn lñc ki®t, sau này chï e s¨ kh± cho hai ğÑa trë..",
+npctalk5505,"Ha ha ha, hay quá, t¯i nay có canh gà ån r°i! Nªu không phäi b÷n súc sinh này phá phách tñ tìm ğªn cái chªt thì ta ğâu có bæa ngon nhß v§y!",
+npctalk5506,"Mµt hai ba, ba hai mµt, trß¾c sau gì ta cûng tóm ğßşc thôi! Ha ha, mau ra ği thôi!",
+npctalk5507,"XuÜt.. Ğ×ng gây tiªng ğµng këo b¸ Bäo Nhi phát hi®n là không xong ğâu.",
+npctalk5508,"XuÜt.. Ğ×ng gây tiªng ğµng këo b¸ Bäo Nhi phát hi®n là không xong ğâu.",
+npctalk5509,"XuÜt.. Ğ×ng gây tiªng ğµng këo b¸ Bäo Nhi phát hi®n là không xong ğâu.",
+npctalk5510,"XuÜt.. Ğ×ng gây tiªng ğµng këo b¸ Bäo Nhi phát hi®n là không xong ğâu.",
+npctalk5511,"Th§t không nên tin lão HÕ H¥u, nh§p dßşc li®u ki¬u gì mà v¯n cûng không l¤y lÕi ğßşc. Ğúng kh± mà!",
+npctalk5512,"Cho mµt ít hành, 4 miªng g×ng tß½i, mµt ít quª và cao thang cñc ph¦m cüa ta næa thì s¨ có ngay món canh cá tuy®t häo hÕng.",
+npctalk5513,"M÷i ngß¶i hãy c¯ lên, trong cuµc thi Hoa ğång tªt Nguyên Tiêu nåm nay, thôn ta nh¤t ğ¸nh s¨ giành giäi nh¤t!",
+npctalk5515,"Thu hoÕch nåm nay lÕi kém h½n nåm ngoái r°i, phäi höi thåm HÕ H¥u ğÕi phu xem có cách nào di®t trùng hi®u quä không?",
+npctalk5516,"Phu phø ta ch¤t phác làm ån, ai ng¶ g£p h÷a ác trùng, khiªn cho cuµc s¯ng phiêu diêu.",
+npctalk5517,"Có træ lß½ng nào c¥n v§n chuy¬n không? C¦n th§n b÷n chuµt · ğây ğó, v×a to v×a dæ!",
+npctalk5532,"B±n thiªu gia h÷ Châu tên Ğß¶ng, v¯n ngß¶i Du Châu, luôn ao ß¾c ğßşc t¥m tiên v¤n ğÕo. Tr¶i không phø lòng ngß¶i, ta ğã ğßşc mãn nguy®n. Nªu ğÕo hæu có cùng chí hß¾ng thì hãy ği v« phía Tê Vân Ğµng, ¡t s¨ g£p tiên duyên.",
+npctalk5532_01_12,"H×! Cu°ng ğ° to gan, dám l¤y thánh dßşc cüa tiên nhân à? B÷n các ngß½i hôm nay xui xëo r°i, hãy xem b±n ğÕi gia tr×ng tr¸ thª nào!",
+npctalk5532_01_18,"Thª nào? Bây gi¶ h¯i h§n cûng vçn k¸p ğ¤y.",
+npctalk5532_01_24,"H×, th§t không ng¶ cu°ng ğ° nhß ngß½i cûng có bän lînh nhß v§y!",
+npctalk5542,"Ngñ kiªm phi phong, tr× ma thiên hÕ. Nh§t nguy®t tß½ng phùng, mÛ tØu tiên gia.. ĞÕo hæu, có rßşu ngon không?",
+npctalk5543_1,"Ái ái, ğ×ng ğùa chÑ, ta là ngß¶i chÑ không phäi quÖ ğâu. Thôi ği ği..",
+npctalk5543_2,"Tiªn vào Tê Vân Ğµng",
+npctalk5543_3,"Tê Vân Ğµng",
+npctalk5544_1,"R¯t cuµc là bên ngoài vui h½n hay trong s½n ğµng an toàn h½n? M÷i ngß¶i hãy nói ta biªt xem nào!",
+npctalk5544_2,"R¶i khöi Tê Vân Ğµng",
+npctalk5544_3,"Tê Vân Ğµng",
+npctalk5550_1,"Hi®n Løc Mang Tinh Tr§n tÕm th¶i trong trÕng thái bª phong. Mu¯n vßşt tr§n phäi kích hoÕt Minh viêm Ğînh. Khi Minh Viêm Ğînh hoÕt ğµng, yêu quái s¨ xu¤t hi®n ğ¬ luy®n hóa nguyên khí. Hãy tiêu di®t b÷n yêu quái ğó, nªu không Løc Mang Tinh Tr§n s¨ lÕi b¸ bª phong.",
+npctalk5550_2,"Kích hoÕt Minh Viêm Ğînh",
+,,
+,,
+npctalk5348_14,"Anh bÕn trë, giæa hai m¡t cüa anh xu¤t hi®n mµt lu°ng hào khí, xem ra anh cûng chÆng phäi là nhân v§t t¥m thß¶ng.",
+npctalk5349_14,"Ta chính là S½n Kim, mµt trong mß¶i hai Kim Phøng · Nga Mi S½n, hôm nay ngß¶i phàm và chúng sinh cùng chúc m×ng hai nåm Talisman.",
+npctalk5350_14,"Ngß¶i xu¤t gia l¤y lòng t× bi ph± ğµ chúng sanh, thí chü có mu¯n hành thi®n làm ni«m vui không?",
+npctalk5373,"Thß½ng thành kim cß½ng khóa ğ¸nh",
+npctalk5418,"Bäng dûng sî Nam Cß½ng",
+npctalk5600,"Yêu quái trên Phi Lôi Lînh ngày càng ngang ngßşc, ğ¬ giæ sñ yên bình · mänh ğ¤t Kinh ThÕch Dø này c¥n phäi tìm ngß¶i giúp ğŞ. Nªu ğÕi hi®p có lòng trş giúp thì toàn dân thôn Kinh ThÕch Dø s¨ cäm tÕ ğÕi ½n ğÕi ğÑc cüa ngài.",
+npctalk5601,"SuÜt! Nhö tiªng thôi, tai cüa b÷n Trß yêu r¤t thính, và hành tung cûng r¤t th¥n bí, phäi cho ngß¶i ngày ngày theo dõi chúng m¾i ğßşc.. Còn mu¯n biªt gì næa?",
+npctalk5602,"Nªu nhß nhà cüa ngß½i c¥n ghª ğá, bàn ğá, tßşng ğá, ho£c là quan tài b¢ng ğá, chï c¥n là làm b¢ng ğá là ta có th¬ kh¡c ra ğßşc hªt, nhßng hi®n ta không ränh,  ta b§n ği®u kh¡c pho tß½ng ph§t ğ¬ tr¤n áp tà ma.",
+npctalk5603,"L¥n này chúng ta quyªt không bö lÕi gia ğình, tuy®t ğ¯i không! Ğß¶ng ğß¶ng thân cao bäy trßşng, làm sao có th¬ b¸ yêu quái ğánh ngã ğßşc.",
+npctalk5604,"Nam Mô A Di Ğà Ph§t! Ta không vào ğ¸a ngøc thì ai  vào ğ¸a ngøc? Ph± ğµ chúng sanh, l§p ğ¸a thành ph§t.",
+npctalk5605,"H÷ ğ«u chªt hªt cä, chï còn có 1 mình ta s¯ng. Chúng ta phát hi®n ra mµt ği«u r¤t quan tr÷ng nhßng không ng¶ b÷n yêu quái s¾m phát hi®n, các huynh ğ® khác ğ«u ğã chªt trong tay b÷n chúng. Tình hình c¤p bách, phäi nghî cách thoát khöi ğây thôi.",
+npctalk5606,"Gia sß là  Nga Mi Nhiêm Tiên Lı Nguyên Hóa, ta ğây cûng có duyên, nh§n ğßşc sñ chï dÕy cüa sß phø. Sß phø nói yêu quái · Phi Lôi Lînh này r¤t nhi«u, mu¯n tiêu di®t chúng nên bäo ta ğªn ğây thåm dò tình hình. Tình thª hi®n nay r¤t nguy hi¬m, ğÕo hÕnh cüa ta không ğü nên không dám manh ğµng. Cûng không biªt sao sß phø gi¶ này vçn chßa ğªn?",
+npctalk5607,"Cút ği, cút ği, không th¤y ta ğang b¡t ma sao?  Các ngß½i chï là nhæng ngß¶i m¾i gia nh§p ğÕo, chï dña vào ğÕo hÕnh ¤y mà không biªt tr¶i cao ğ¤t dày, n½i ğây yêu quái nhi«u vô s¯, hay là các ngß½i hãy quay v« theo sß phø h÷c thêm r°i hãy ğªn ğây.",
+npctalk5608,"Nh§n ğßşc l¶i m¶i cüa thôn dân ğªn ğây giáng ma tr× yêu. Ğªn ğây ğßşc vài ngày ta cûng n¡m rõ ğßşc tình hình cüa b÷n yêu ma, nhßng thª lñc cüa chúng quá mÕnh, mµt mình ta thª cô sÑc yªu, chï mong nh§n ğßşc sñ giúp ğŞ cüa các ğ°ng ğÕo.",
+npctalk5610,"Tà Ma n½i này th§t nhi«u, ta phäi mau h÷c pháp thu§t cüa sß phø ğ¬ mai sau tên Xích Hà ta cûng s¨ lßu lÕi trong Chân Tu Gi¾i này.",
+npctalk5635,"Chúng ta b¸ bao vây r°i, kh¡p n½i ğ«u là Vong H°n! Chúng ta nghe ngóng ğßşc tình hình yêu quái · ğây, ğúng lúc ği v« thì g£p phäi Vong H°n. SÑc t¤n công cüaVong H°n th§t mãnh li®t, th§t ğáng sş! ",
+,,
+npctalk5630_1,"Có th¬ dung hşp U Minh H°i Mµng Hß½ng",
+npctalk5630_2,"Dung hşp U minh H°i Mµng Hß½ng",
+npctalk5636,"Hãy th§n tr÷ng, yêu ma có th¬ xu¤t hi®n b¤t cÑ lúc nào! Có nghe th¤y tiªng ğµng gì không? Tai ta ngh­nh ngãng quá r°i..",
+npctalk5637,"Thiên hÕ càng ngày càng loÕn, hi®n nay s¯ ngß¶i b¸ trúng thß½ng trong thôn không ít.",
+npctalk5649,"Các loÕi bäo thÕch · Phi Lôi Lînh này ğ«u r¤t n±i tiªng, nªu kÏ hi®p c¥n ğá, chúng tôi có th¬ phø trách v§n chuy¬n ",
+npctalk5669,"Cö xanh xa t§n chân tr¶i, bên h° r£ng li­u ng¶i ng¶i th¡m xinh, tuyªt sß½ng khe kh¨ rung mình, ğßa ta v« ch¯n vô hình xa xåm",
+npctalk5677_1,"U ám m§t lâm",
+npctalk5677_2,"Vào U ám m§t lâm",
+npctalk5677_3,"Khuyên kÏ hi®p t¯t nh¤t không nên tò mò, bí m§t cüa Nha Nh¤t Tµc chúng tôi, nªu biªt ğßşc thì s¾m muµn gì cûng s¨ h¯i h§n!",
+npctalk5677_4,"U ám m§t lâm",
+npctalk5677_5,"R¶i khöi U ám m§t lâm",
+npctalk5677_6,"Tuy ğây là thánh ğ¸a cüa Nha Nh¤t Tµc, nhßng thú th§t ta không thích n½i này cho l¡m, sau này nªu có c½ hµi hãy ğßa ta ra khöi n½i ğây..",
+npctalk5694_1,"Huy«n ThÕch Gi¾i",
+npctalk5694_2,"Vào Huy«n ThÕch Gi¾i",
+npctalk5694_3,"Hoan nghênh kÏ hi®p ğªn v¾i kªt gi¾i không gian hæu pháp vô h°i, ha ha ha..",
+npctalk5694_4,"Huy«n ThÕch Gi¾i",
+npctalk5694_5,"R¶i khöi Huy«n ThÕch Gi¾i",
+npctalk5694_6,"Nªu nhß · lÕi ğây, các hÕ s¨ trß¶ng sinh b¤t tØ, l¨ nào các hÕ lÕi mu¯n r¶i khöi mµt n½i tuy®t v¶i nhß v§y sao?",
+npctalk5696,"Ngß½i là ai, không phäi là yêu ma ğµi l¯t ngß¶i ğó chÑ?",
+npctalk5697,"Lão quanh qu¦n · ğây mãi cûng chán, ğßşc xông pha tr§n ğ¸a vçn t¯t h½n.",
+npctalk5698,"Huynh ğ® t¯t cüa ta cách ğây vài hôm ğã tØ tr§n r°i. Th§t ğau lòng..",
+npctalk5699,"Ôi.. Nhi«u yêu ma quá, ğánh mãi mà không hªt. Ta nh¾ vş con ta quá!",
+npctalk5700,"Mu¯n v« nhà s¾m làm vài ly rßşu quá, th¶i tiªt quái quÖ này, th§t hªt ch¸u n±i! ",
+npctalk5701,"M÷i ngß¶i hãy ğ« cao cänh gi¾i, th« quyªt cùng t°n vong v¾i Kinh ThÕch Hi®p",
+npctalk7000,"Ğây là l¯i vào Phø Bän Nguy®t Long Thôn, ngß½i ğã sÇn sàng chßa?",
+npctalk7001,"Ngß½i ğã quá m®t möi và mu¯n quay tr· lÕi Thành Ğô?",
+npctalk7002,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t! CØa hi®u Thøc S½n Tam Gi¾i",
+npctalk7003,"Ta có bán r¤t nhi«u trang b¸ ch¤t lßşng t¯t! CØa hi®u Pháp Bäo Ng÷c Thøc S½n Tam Gi¾i",
+npctalk7004,"Nªu mu¯n chªt thì cÑ vi®c vào ğây, có r¤t nhi«u quái v§t ğói khát ğang ch¶ ngß½i!",
+npctalk7004_1,"Tiªn vào Thiên Ma Trúc Ğµng",
+npctalk7004_2,"Thiên Ma Trúc Ğµng",
+npctalk7005,"Không có vi®c thì hãy mau chóng r¶i khöi ğây ği, con nít không nên ch½i trong này!",
+npctalk7005_1,"R¶i khöi Thiên Ma Trúc Ğµng",
+npctalk7005_2,"Thiên Ma Trúc Ğµng",
+,,
+npctalk7006,"L¯i vào Kim Tinh Ğµng · ngay ğây, các ngß½i c¥n hªt sÑc th§n tr÷ng, b÷n yêu ma tÕi ğây vô cùng hung tşn, không th¬ xem thß¶ng!",
+npctalk7006_1,"Vào Kim Tinh Ğµng",
+npctalk7006_2,"Kim Tinh Ğµng",
+npctalk7007,"Nhân lúc truy binh còn chßa ğªn, hãy mau chóng r¶i khöi thôi, c¥n báo ngay m÷i vi®c tÕi ğây cho ngß¶i bên ngoài biªt!",
+npctalk7007_1,"R¶i Kim Tinh Ğµng",
+npctalk7007_2,"Kim Tinh Ğµng",
+,,
+npctalk7008,"Ta là xÑ giä cüa Tam Gi¾i ğªn ğ¬ phân phát event!",
+,,
+npctalk7009,"Hãy nghe ta, ngß½i s¨ không bao gi¶ h¯i h§n v« nhæng ph¥n thß·ng ngß½i có th¬ nh§n ğßşc!",
+,,
+npctalk7010,"Nªu mu¯n chªt thì cÑ vi®c vào ğây, có r¤t nhi«u quái v§t ğói khát ğang ch¶ ngß½i!",
+npctalk7010_1,"Tiªn vào Thiên Ma Trúc Ğµng 2",
+npctalk7010_2,"Thiên Ma Trúc Ğµng 2",
+npctalk7011,"Không có vi®c thì hãy mau chóng r¶i khöi ğây ği, con nít không nên ch½i trong này!",
+npctalk7011_1,"R¶i khöi Thiên Ma Trúc Ğµng 2",
+npctalk7011_2,"Thiên Ma Trúc Ğµng 2",

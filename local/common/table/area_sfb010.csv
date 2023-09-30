@@ -1,0 +1,7 @@
+ae,string,string,string,marea,int
+编号,区域名字,区域音乐,区域Logo,区域,地图id
+ID,Name,Music,Logo,Area,ZoneId
+1,$L:Scenestable_yinfengdongjintou$,,34,"-1 -1 257 257;",34
+2,$L:Scenestable_renjiandiyu$,,34,"0 255 257 513;",34
+3,$L:Scenestable_jilejiejie$,,34,"255 255 513 513;",34
+4,$L:Scenestable_liuliqingong$,,34,"255 511 513 769;",34
